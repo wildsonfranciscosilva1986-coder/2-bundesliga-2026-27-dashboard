@@ -1,0 +1,526 @@
+{
+  "competition": "2. Bundesliga",
+  "season": "2026/27",
+  "as_of": "2026-10-18 12:20 America/Sao_Paulo",
+  "result_cutoff": "2026-10-18 12:20 America/Sao_Paulo",
+  "official_table_captured": "2026-10-18 12:11 America/Sao_Paulo (live DFL table, before cutoff; all MD8 final scores already confirmed on DFL matchday pages)",
+  "independent_table_captured": "2026-10-18 12:20 America/Sao_Paulo (ESPN live standings; full totals and order checked)",
+  "fixture_snapshot_retrieved": "2026-10-18 12:14–12:16 America/Sao_Paulo (official DFL matchday pages, rounds 1–34); results source pages checked through 12:20 BRT",
+  "coverage": {
+    "teams": 18,
+    "rounds": 34,
+    "official_fixtures": 306,
+    "final_results": 72,
+    "scheduled_fixtures": 234,
+    "completed_rounds": "1–8 (all 72 finished through 18 Oct)",
+    "fixture_coverage_note": "Every round 1–34 page was retrieved from the official DFL/Bundesliga 2 matchday route; 9 games per round. Rounds 1–8 contain final scorelines; rounds 9–13 have published exact dates and times; rounds 14–33 retain only the official weekend/date range where fixture-specific dates/times are not posted. Round 34 has the official synchronized 23 May 13:30 kickoff.",
+    "cutoff_note": "All 72 matches through matchday 8 were DFL-marked final by the 12:20 BRT result cutoff. R9–R13 have individual DFL dates and times; R14–R33 list only official ranges; R34 has an official synchronized kickoff. No future result is filled."
+  },
+  "rules": {
+    "teams": 18,
+    "matchdays": 34,
+    "fixtures_per_round": 9,
+    "fixtures_per_club": 34,
+    "promotion": "Positions 1–2: direct promotion to Bundesliga; position 3: two-leg promotion play-off against Bundesliga position 16.",
+    "relegation": "Position 16: two-leg relegation play-off against 3. Liga position 3; positions 17–18: direct relegation to 3. Liga.",
+    "source_note": "Official table zone labels and Bundesliga/DFL promotion-relegation FAQ; 18-club, 34-match structure is confirmed by 306 pairings on official schedule."
+  },
+  "validation": {
+    "status": "PASS",
+    "score_derived_table": "PASS: 18/18 clubs match official DFL P, W-D-L, GF, GA and points",
+    "independent_table": "PASS: ESPN 2026/27 standings have the same 18-team order and matching W-D-L, played, GF, GA, GD and points.",
+    "schedule_integrity": "PASS: 306 unique fixtures; 9 per round; every club exactly once per round; 17 home/17 away",
+    "results_integrity": "PASS: 72 nonnegative DFL final scores, rounds 1–8; no result entered for scheduled matches",
+    "table_compute": "PASS: computed played, W-D-L, goals for/against/difference and points match all 18 official DFL standings rows."
+  },
+  "standings_snapshot": [
+    {
+      "club": "Hertha Berlin",
+      "position": 1,
+      "MP": 8,
+      "W": 7,
+      "D": 1,
+      "L": 0,
+      "GF": 19,
+      "GA": 8,
+      "GD": 11,
+      "Pts": 22
+    },
+    {
+      "club": "Nuremberg",
+      "position": 2,
+      "MP": 8,
+      "W": 5,
+      "D": 3,
+      "L": 0,
+      "GF": 21,
+      "GA": 11,
+      "GD": 10,
+      "Pts": 18
+    },
+    {
+      "club": "Wolfsburg",
+      "position": 3,
+      "MP": 8,
+      "W": 4,
+      "D": 3,
+      "L": 1,
+      "GF": 22,
+      "GA": 13,
+      "GD": 9,
+      "Pts": 15
+    },
+    {
+      "club": "Kaiserslautern",
+      "position": 4,
+      "MP": 8,
+      "W": 4,
+      "D": 3,
+      "L": 1,
+      "GF": 8,
+      "GA": 4,
+      "GD": 4,
+      "Pts": 15
+    },
+    {
+      "club": "Heidenheim",
+      "position": 5,
+      "MP": 8,
+      "W": 4,
+      "D": 2,
+      "L": 2,
+      "GF": 15,
+      "GA": 15,
+      "GD": 0,
+      "Pts": 14
+    },
+    {
+      "club": "Magdeburg",
+      "position": 6,
+      "MP": 8,
+      "W": 4,
+      "D": 1,
+      "L": 3,
+      "GF": 14,
+      "GA": 11,
+      "GD": 3,
+      "Pts": 13
+    },
+    {
+      "club": "St. Pauli",
+      "position": 7,
+      "MP": 8,
+      "W": 2,
+      "D": 5,
+      "L": 1,
+      "GF": 11,
+      "GA": 9,
+      "GD": 2,
+      "Pts": 11
+    },
+    {
+      "club": "Arminia Bielefeld",
+      "position": 8,
+      "MP": 8,
+      "W": 3,
+      "D": 2,
+      "L": 3,
+      "GF": 13,
+      "GA": 13,
+      "GD": 0,
+      "Pts": 11
+    },
+    {
+      "club": "Energie Cottbus",
+      "position": 9,
+      "MP": 8,
+      "W": 2,
+      "D": 3,
+      "L": 3,
+      "GF": 16,
+      "GA": 17,
+      "GD": -1,
+      "Pts": 9
+    },
+    {
+      "club": "Greuther Fürth",
+      "position": 10,
+      "MP": 8,
+      "W": 2,
+      "D": 3,
+      "L": 3,
+      "GF": 12,
+      "GA": 13,
+      "GD": -1,
+      "Pts": 9
+    },
+    {
+      "club": "Dynamo Dresden",
+      "position": 11,
+      "MP": 8,
+      "W": 2,
+      "D": 2,
+      "L": 4,
+      "GF": 11,
+      "GA": 15,
+      "GD": -4,
+      "Pts": 8
+    },
+    {
+      "club": "VfL Osnabrück",
+      "position": 12,
+      "MP": 8,
+      "W": 2,
+      "D": 2,
+      "L": 4,
+      "GF": 11,
+      "GA": 15,
+      "GD": -4,
+      "Pts": 8
+    },
+    {
+      "club": "Karlsruhe",
+      "position": 13,
+      "MP": 8,
+      "W": 2,
+      "D": 2,
+      "L": 4,
+      "GF": 10,
+      "GA": 14,
+      "GD": -4,
+      "Pts": 8
+    },
+    {
+      "club": "Hannover 96",
+      "position": 14,
+      "MP": 8,
+      "W": 2,
+      "D": 2,
+      "L": 4,
+      "GF": 8,
+      "GA": 13,
+      "GD": -5,
+      "Pts": 8
+    },
+    {
+      "club": "Eintracht Braunschweig",
+      "position": 15,
+      "MP": 8,
+      "W": 2,
+      "D": 1,
+      "L": 5,
+      "GF": 13,
+      "GA": 15,
+      "GD": -2,
+      "Pts": 7
+    },
+    {
+      "club": "Bochum",
+      "position": 16,
+      "MP": 8,
+      "W": 2,
+      "D": 1,
+      "L": 5,
+      "GF": 5,
+      "GA": 9,
+      "GD": -4,
+      "Pts": 7
+    },
+    {
+      "club": "Darmstadt",
+      "position": 17,
+      "MP": 8,
+      "W": 2,
+      "D": 1,
+      "L": 5,
+      "GF": 8,
+      "GA": 18,
+      "GD": -10,
+      "Pts": 7
+    },
+    {
+      "club": "Holstein Kiel",
+      "position": 18,
+      "MP": 8,
+      "W": 0,
+      "D": 5,
+      "L": 3,
+      "GF": 7,
+      "GA": 11,
+      "GD": -4,
+      "Pts": 5
+    }
+  ],
+  "independent_table_snapshot": [
+    {
+      "club": "Hertha Berlin",
+      "position": 1,
+      "MP": 8,
+      "W": 7,
+      "D": 1,
+      "L": 0,
+      "GF": 19,
+      "GA": 8,
+      "GD": 11,
+      "Pts": 22
+    },
+    {
+      "club": "Nuremberg",
+      "position": 2,
+      "MP": 8,
+      "W": 5,
+      "D": 3,
+      "L": 0,
+      "GF": 21,
+      "GA": 11,
+      "GD": 10,
+      "Pts": 18
+    },
+    {
+      "club": "Wolfsburg",
+      "position": 3,
+      "MP": 8,
+      "W": 4,
+      "D": 3,
+      "L": 1,
+      "GF": 22,
+      "GA": 13,
+      "GD": 9,
+      "Pts": 15
+    },
+    {
+      "club": "Kaiserslautern",
+      "position": 4,
+      "MP": 8,
+      "W": 4,
+      "D": 3,
+      "L": 1,
+      "GF": 8,
+      "GA": 4,
+      "GD": 4,
+      "Pts": 15
+    },
+    {
+      "club": "Heidenheim",
+      "position": 5,
+      "MP": 8,
+      "W": 4,
+      "D": 2,
+      "L": 2,
+      "GF": 15,
+      "GA": 15,
+      "GD": 0,
+      "Pts": 14
+    },
+    {
+      "club": "Magdeburg",
+      "position": 6,
+      "MP": 8,
+      "W": 4,
+      "D": 1,
+      "L": 3,
+      "GF": 14,
+      "GA": 11,
+      "GD": 3,
+      "Pts": 13
+    },
+    {
+      "club": "St. Pauli",
+      "position": 7,
+      "MP": 8,
+      "W": 2,
+      "D": 5,
+      "L": 1,
+      "GF": 11,
+      "GA": 9,
+      "GD": 2,
+      "Pts": 11
+    },
+    {
+      "club": "Arminia Bielefeld",
+      "position": 8,
+      "MP": 8,
+      "W": 3,
+      "D": 2,
+      "L": 3,
+      "GF": 13,
+      "GA": 13,
+      "GD": 0,
+      "Pts": 11
+    },
+    {
+      "club": "Energie Cottbus",
+      "position": 9,
+      "MP": 8,
+      "W": 2,
+      "D": 3,
+      "L": 3,
+      "GF": 16,
+      "GA": 17,
+      "GD": -1,
+      "Pts": 9
+    },
+    {
+      "club": "Greuther Fürth",
+      "position": 10,
+      "MP": 8,
+      "W": 2,
+      "D": 3,
+      "L": 3,
+      "GF": 12,
+      "GA": 13,
+      "GD": -1,
+      "Pts": 9
+    },
+    {
+      "club": "Dynamo Dresden",
+      "position": 11,
+      "MP": 8,
+      "W": 2,
+      "D": 2,
+      "L": 4,
+      "GF": 11,
+      "GA": 15,
+      "GD": -4,
+      "Pts": 8
+    },
+    {
+      "club": "VfL Osnabrück",
+      "position": 12,
+      "MP": 8,
+      "W": 2,
+      "D": 2,
+      "L": 4,
+      "GF": 11,
+      "GA": 15,
+      "GD": -4,
+      "Pts": 8
+    },
+    {
+      "club": "Karlsruhe",
+      "position": 13,
+      "MP": 8,
+      "W": 2,
+      "D": 2,
+      "L": 4,
+      "GF": 10,
+      "GA": 14,
+      "GD": -4,
+      "Pts": 8
+    },
+    {
+      "club": "Hannover 96",
+      "position": 14,
+      "MP": 8,
+      "W": 2,
+      "D": 2,
+      "L": 4,
+      "GF": 8,
+      "GA": 13,
+      "GD": -5,
+      "Pts": 8
+    },
+    {
+      "club": "Eintracht Braunschweig",
+      "position": 15,
+      "MP": 8,
+      "W": 2,
+      "D": 1,
+      "L": 5,
+      "GF": 13,
+      "GA": 15,
+      "GD": -2,
+      "Pts": 7
+    },
+    {
+      "club": "Bochum",
+      "position": 16,
+      "MP": 8,
+      "W": 2,
+      "D": 1,
+      "L": 5,
+      "GF": 5,
+      "GA": 9,
+      "GD": -4,
+      "Pts": 7
+    },
+    {
+      "club": "Darmstadt",
+      "position": 17,
+      "MP": 8,
+      "W": 2,
+      "D": 1,
+      "L": 5,
+      "GF": 8,
+      "GA": 18,
+      "GD": -10,
+      "Pts": 7
+    },
+    {
+      "club": "Holstein Kiel",
+      "position": 18,
+      "MP": 8,
+      "W": 0,
+      "D": 5,
+      "L": 3,
+      "GF": 7,
+      "GA": 11,
+      "GD": -4,
+      "Pts": 5
+    }
+  ],
+  "sources": [
+    {
+      "name": "Official DFL / Bundesliga 2 live table (2026/27)",
+      "url": "https://www.bundesliga.com/en/2bundesliga/table",
+      "retrieved": "2026-10-18 12:11 BRT"
+    },
+    {
+      "name": "Official DFL / Bundesliga 2 round-by-round fixtures and results (matchdays 1–34)",
+      "url": "https://www.bundesliga.com/en/2bundesliga/matchday",
+      "retrieved": "2026-10-18 12:14–12:16 BRT"
+    },
+    {
+      "name": "Official 2026/27 fixture-list publication and scheduling notes",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/2026-27-fixture-lists-now-available-38068",
+      "retrieved": "2026-10-18 12:10 BRT"
+    },
+    {
+      "name": "Official 2026/27 season key dates",
+      "url": "https://www.bundesliga.com/en/bundesliga/news/2026-27-season-fixture-schedules-37671",
+      "retrieved": "2026-10-18 12:05 BRT"
+    },
+    {
+      "name": "Official DFL promotion/relegation rules FAQ",
+      "url": "https://www.bundesliga.com/en/faq/what-are-the-rules-and-regulations-of-soccer/how-does-promotion-and-relegation-work-in-the-bundesliga-10645",
+      "retrieved": "2026-10-18 12:05 BRT"
+    },
+    {
+      "name": "Independent cross-check: ESPN 2026/27 German 2. Bundesliga table",
+      "url": "https://www.espn.com/soccer/standings/_/league/ger.2",
+      "retrieved": "2026-10-18 12:20 BRT"
+    },
+    {
+      "name": "Independent round-8 result check: Sofascore 2. Bundesliga",
+      "url": "https://www.sofascore.com/football/tournament/germany/2-bundesliga/44",
+      "retrieved": "2026-10-18 12:11 BRT"
+    },
+    {
+      "name": "Official DFL Matchday 8 highlights and results article",
+      "url": "https://www.bundesliga.com/en/2bundesliga/news/second-division-matchday-8-highlights-hertha-berlin-nuremberg-wolfsburg-heidenheim-39537",
+      "retrieved": "2026-10-18 12:22 BRT"
+    }
+  ],
+  "methods": {
+    "standings": "Computed from finished CSV scores only; points 3/1/0; order by points, goal difference, goals scored, then displayed official order for exact ties. Cross-check compares statistical columns, not tie-breaking rationale.",
+    "top5": "Points, goals, defensive goals-against (ascending), wins/draws/losses. BTTS / over 2.5 rankings count qualifying matches divided by played games; overall/home/away cuts show their own denominators.",
+    "projections": "Descriptive independent-Poisson projection from this season’s completed home/away goal rates, blended with league venue averages; at least 2 applicable venue games needed for each side; no odds, lineups, injuries, prior-season data or player effects. Estimates are not facts or betting advice."
+  },
+  "limitations": [
+    "Only 8 matchdays (72 results) are completed by the cutoff; early season samples are small.",
+    "Schedule rounds 14–33 are listed as official pairings but source publishes only matchday date ranges, not individual dates/times; the dashboard preserves ranges rather than guessing.",
+    "No injury/availability feed or lineup data.",
+    "Tie-breaking rank order is supplied by the official DFL table; computed table validates match totals and stats.",
+    "DFL schedule times are shown in the source’s local German time where available; exact per-fixture dates/times are not yet scheduled for later rounds."
+  ]
+}

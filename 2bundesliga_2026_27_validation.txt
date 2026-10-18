@@ -1,0 +1,24 @@
+2. Bundesliga 2026/27 — validation record
+
+Result cutoff: 2026-10-18 12:20 America/Sao_Paulo.
+Official DFL table snapshot captured: 2026-10-18 12:11 BRT.
+Independent ESPN table snapshot captured: 2026-10-18 12:20 BRT.
+Fixture pages retrieved: 2026-10-18 12:14–12:16 BRT; 2. Bundesliga matchday results reviewed through 12:20 BRT.
+
+Coverage
+- 18 clubs; 34 rounds; 306 fixtures (9 per round).
+- 72 DFL-confirmed final results, rounds 1–8; 234 remaining fixtures have blank score fields.
+- 17 home and 17 away fixtures for every club.
+- All future fixtures are linked to the official DFL matchday route. Rounds 9–13 carry the exact dates/times published in DFL pages; later rounds retain the official date ranges where individual dates are not published. No score or date is inferred.
+
+Checks (build_2bundesliga_2026_27_dashboard.py)
+- PASS: 306 unique fixture keys, no duplicates.
+- PASS: each round contains all 18 clubs exactly once.
+- PASS: finished rows have nonnegative integer scores; future rows have blank scores.
+- PASS: score-derived played, W-D-L, GF, GA, GD and points match the official DFL table for all 18 clubs.
+- PASS: the same score-derived totals match ESPN's independent 2026/27 standings for all 18 clubs.
+- PASS: 72 final results, 234 scheduled fixtures, 18 teams.
+
+Competition rules verified against DFL table zones / DFL promotion-relegation FAQ: positions 1–2 direct promotion; 3rd promotion playoff; 16th relegation playoff; 17th–18th direct relegation. 18 clubs and 34 matchdays are confirmed by the official 306-game schedule.
+
+Sources are recorded in 2bundesliga_2026_27_sources_validation.json. This data, validator and dashboard belong only to the 2. Bundesliga project; no Bundesliga 1 data is included.
