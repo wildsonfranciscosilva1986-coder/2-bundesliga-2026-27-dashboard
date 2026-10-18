@@ -24,6 +24,8 @@ No cron job is configured by this repository build.
 
 ## Dashboard controls
 
+- Overview KPIs computed from confirmed finals only: clubs, finished/total fixtures, goals and per-match average, BTTS and over 2.5 numerator/denominator/rate, home wins/draws/away wins, plus the exact result cutoff.
+- Next published fixtures and an official-format zone legend (direct promotion, promotion play-off, relegation play-off, direct relegation).
 - League table with promotion/relegation zones and recent form.
 - Club profiles with last five, overall/home/away splits and next fixture.
 - Official results/fixtures filters by status, round and club.
@@ -31,3 +33,6 @@ No cron job is configured by this repository build.
 - Sources, cutoff, competition rules, methods and limitations.
 
 The early-season projection is descriptive, highly uncertain, and not betting advice.
+
+### Post-cutoff source note (18 October 2026, 13:48 BRT)
+The DFL matchday 8 page displayed all nine final scorelines already present in the dataset. At the same retrieval, the live DFL and ESPN standings pages showed only 69 played matches (six clubs with 7 GP), conflicting with the saved 12:20 BRT table snapshots and 72-final score-derived table. To avoid silently changing a verified historical cut or presenting an unresolved live-table difference as reconciled, the published dashboard remains explicitly at the 12:20 BRT cutoff; the discrepancy and source URLs are recorded in the JSON source log.

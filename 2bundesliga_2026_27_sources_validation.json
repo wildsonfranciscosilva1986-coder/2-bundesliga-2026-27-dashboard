@@ -522,5 +522,29 @@
     "No injury/availability feed or lineup data.",
     "Tie-breaking rank order is supplied by the official DFL table; computed table validates match totals and stats.",
     "DFL schedule times are shown in the source’s local German time where available; exact per-fixture dates/times are not yet scheduled for later rounds."
-  ]
+  ],
+  "dashboard_upgrade_review": {
+    "reviewed_at": "2026-10-18 13:48 America/Sao_Paulo",
+    "purpose": "UI and evidence review only; frozen dashboard result cutoff is unchanged.",
+    "official_matchday_8_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8",
+    "official_matchday_8_review": "DFL matchday 8 page lists all nine final scorelines present in the frozen CSV.",
+    "current_official_table_url": "https://www.bundesliga.com/en/2bundesliga/table",
+    "current_independent_table_url": "https://www.espn.com/soccer/standings/_/league/ger.2",
+    "current_table_discrepancy": "At this retrieval, the current DFL and ESPN standings pages showed only 69 completed matches (six clubs at 7 GP), while the already-saved 12:20 BRT snapshots and the 72 score rows match each other. The discrepancy is preserved; no later standings snapshot was substituted and the dashboard remains explicitly frozen at the validated 12:20 BRT cutoff.",
+    "aggregate_kpis_from_frozen_finals": {
+      "goals": 224,
+      "goals_per_match": 3.1111,
+      "BTTS": "42/72 (58.3%)",
+      "over_2_5": "42/72 (58.3%)",
+      "home_wins": "32/72",
+      "draws": "21/72",
+      "away_wins": "19/72"
+    },
+    "changed_features": [
+      "Overview totals and rates from confirmed finals only",
+      "Next nine listed fixtures",
+      "Explicit promotion and relegation zone legend"
+    ],
+    "no_dataset_changes": true
+  }
 }
