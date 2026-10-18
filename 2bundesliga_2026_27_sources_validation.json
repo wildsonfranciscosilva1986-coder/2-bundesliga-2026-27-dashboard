@@ -1,20 +1,20 @@
 {
   "competition": "2. Bundesliga",
   "season": "2026/27",
-  "as_of": "2026-10-18 12:20 America/Sao_Paulo",
-  "result_cutoff": "2026-10-18 12:20 America/Sao_Paulo",
-  "official_table_captured": "2026-10-18 12:11 America/Sao_Paulo (live DFL table, before cutoff; all MD8 final scores already confirmed on DFL matchday pages)",
-  "independent_table_captured": "2026-10-18 12:20 America/Sao_Paulo (ESPN live standings; full totals and order checked)",
-  "fixture_snapshot_retrieved": "2026-10-18 12:14–12:16 America/Sao_Paulo (official DFL matchday pages, rounds 1–34); results source pages checked through 12:20 BRT",
+  "as_of": "2026-10-18 14:22 America/Sao_Paulo",
+  "result_cutoff": "2026-10-18 14:22 America/Sao_Paulo",
+  "official_table_captured": "2026-10-18 12:11 BRT (the originally saved 72-game table snapshot; a later live-table response remained at 69 and was recorded separately)",
+  "independent_table_captured": "2026-10-18 12:20 BRT (the originally saved 72-game ESPN table snapshot; a later live-table response remained at 69 and was recorded separately)",
+  "fixture_snapshot_retrieved": "2026-10-18 12:14–12:16 BRT (all DFL matchday pages); disputed R8 event pages and independent ESPN match pages rechecked 14:21–14:22 BRT",
   "coverage": {
     "teams": 18,
     "rounds": 34,
     "official_fixtures": 306,
     "final_results": 72,
     "scheduled_fixtures": 234,
-    "completed_rounds": "1–8 (all 72 finished through 18 Oct)",
+    "completed_rounds": "1–8 (all 72 DFL finals verified, including the three Sunday R8 fixtures individually rechecked at 14:22 BRT)",
     "fixture_coverage_note": "Every round 1–34 page was retrieved from the official DFL/Bundesliga 2 matchday route; 9 games per round. Rounds 1–8 contain final scorelines; rounds 9–13 have published exact dates and times; rounds 14–33 retain only the official weekend/date range where fixture-specific dates/times are not posted. Round 34 has the official synchronized 23 May 13:30 kickoff.",
-    "cutoff_note": "All 72 matches through matchday 8 were DFL-marked final by the 12:20 BRT result cutoff. R9–R13 have individual DFL dates and times; R14–R33 list only official ranges; R34 has an official synchronized kickoff. No future result is filled."
+    "cutoff_note": "All 72 fixtures through matchday 8 are final by the 18 Oct 2026 14:22 BRT cutoff. The three Sunday R8 results that were missing from the later DFL/ESPN standings-page snapshots are confirmed FINAL on their individual DFL live tickers and ESPN match reports. The standings pages remained at 69 played; see reconciliation record. No future result is filled."
   },
   "rules": {
     "teams": 18,
@@ -27,11 +27,12 @@
   },
   "validation": {
     "status": "PASS",
-    "score_derived_table": "PASS: 18/18 clubs match official DFL P, W-D-L, GF, GA and points",
-    "independent_table": "PASS: ESPN 2026/27 standings have the same 18-team order and matching W-D-L, played, GF, GA, GD and points.",
-    "schedule_integrity": "PASS: 306 unique fixtures; 9 per round; every club exactly once per round; 17 home/17 away",
-    "results_integrity": "PASS: 72 nonnegative DFL final scores, rounds 1–8; no result entered for scheduled matches",
-    "table_compute": "PASS: computed played, W-D-L, goals for/against/difference and points match all 18 official DFL standings rows."
+    "score_derived_table": "PASS: recomputed from 72 DFL-confirmed final scorelines; all 18 clubs have 8 played matches.",
+    "independent_table": "PASS: saved 12:20 BRT ESPN snapshot matches the 72 scorelines. Later ESPN standings-page response was stale at 69; three exact 18 Oct match reports independently confirm missing finals.",
+    "schedule_integrity": "PASS: 306 unique fixtures; 9 per round; every club exactly once per round; 17 home/17 away; no duplicate or misclassified final rows found.",
+    "results_integrity": "PASS: 72 nonnegative final scores in rounds 1–8. All 9 R8 matchday entries are individually shown FINAL by DFL; the three disputed games also have independent ESPN FT match reports. No postponement is indicated for them.",
+    "table_compute": "PASS: score-derived 72-game table recomputed for all 18 clubs. The later live DFL/ESPN standings-page response is not a valid current comparison: it omits precisely three Sunday R8 finals and totals 69 games.",
+    "live_table_freshness": "WARN: later DFL and ESPN standings pages still show 69 played, six clubs at 7 GP, despite all three omitted Sunday fixtures showing FINAL in official DFL event pages and ESPN event reports; use the dashboard score-derived 72-game table, not those lagging standings responses."
   },
   "standings_snapshot": [
     {
@@ -509,6 +510,36 @@
       "name": "Official DFL Matchday 8 highlights and results article",
       "url": "https://www.bundesliga.com/en/2bundesliga/news/second-division-matchday-8-highlights-hertha-berlin-nuremberg-wolfsburg-heidenheim-39537",
       "retrieved": "2026-10-18 12:22 BRT"
+    },
+    {
+      "name": "Current DFL live table response (stale relative to its individual match pages; retrieved 18 Oct 2026 14:21 BRT)",
+      "url": "https://www.bundesliga.com/en/2bundesliga/table",
+      "retrieved": "2026-10-18 14:21 BRT",
+      "note": "Displayed 69 GP total; Magdeburg, Bielefeld, Osnabrück, Darmstadt, Dynamo Dresden and Karlsruhe each at 7 GP."
+    },
+    {
+      "name": "Current ESPN standings response (stale relative to ESPN match reports; retrieved 18 Oct 2026 14:21 BRT)",
+      "url": "https://www.espn.com/soccer/standings/_/league/ger.2",
+      "retrieved": "2026-10-18 14:21 BRT",
+      "note": "Displayed the same 69 GP total and six clubs at 7 GP. Individual ESPN event reports confirm the omitted finals."
+    },
+    {
+      "name": "ESPN match report: Bielefeld 2-1 Osnabrück, 18 Oct 2026",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401885086/vfl-osnabruck-arminia-bielefeld",
+      "retrieved": "2026-10-18 14:22 BRT",
+      "note": "Full time; match teams, score and updated team records shown."
+    },
+    {
+      "name": "ESPN match report: Dynamo Dresden 2-0 Magdeburg, 18 Oct 2026",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401885088/1-fc-magdeburg-dynamo-dresden",
+      "retrieved": "2026-10-18 14:22 BRT",
+      "note": "Full time; match teams, score and updated team records shown."
+    },
+    {
+      "name": "ESPN match report: Karlsruhe 4-0 Darmstadt, 18 Oct 2026",
+      "url": "https://www.espn.com/soccer/match/_/gameId/401885089/sv-darmstadt-98-karlsruher-sc",
+      "retrieved": "2026-10-18 14:22 BRT",
+      "note": "Full time; match teams, score and updated team records shown."
     }
   ],
   "methods": {
@@ -524,13 +555,13 @@
     "DFL schedule times are shown in the source’s local German time where available; exact per-fixture dates/times are not yet scheduled for later rounds."
   ],
   "dashboard_upgrade_review": {
-    "reviewed_at": "2026-10-18 13:48 America/Sao_Paulo",
-    "purpose": "UI and evidence review only; frozen dashboard result cutoff is unchanged.",
+    "reviewed_at": "2026-10-18 14:22 America/Sao_Paulo",
+    "purpose": "Reconcile the final count and standings-source freshness; preserve the existing dashboard features.",
     "official_matchday_8_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8",
-    "official_matchday_8_review": "DFL matchday 8 page lists all nine final scorelines present in the frozen CSV.",
+    "official_matchday_8_review": "The DFL matchday page and three individual DFL event pages confirm nine finished matchday-8 fixtures. Independent ESPN reports confirm each disputed Sunday score.",
     "current_official_table_url": "https://www.bundesliga.com/en/2bundesliga/table",
     "current_independent_table_url": "https://www.espn.com/soccer/standings/_/league/ger.2",
-    "current_table_discrepancy": "At this retrieval, the current DFL and ESPN standings pages showed only 69 completed matches (six clubs at 7 GP), while the already-saved 12:20 BRT snapshots and the 72 score rows match each other. The discrepancy is preserved; no later standings snapshot was substituted and the dashboard remains explicitly frozen at the validated 12:20 BRT cutoff.",
+    "current_table_discrepancy": "At 14:21 BRT, current DFL and ESPN standings pages displayed 69 games (six teams at 7 GP). Their data lagged precisely three Sunday R8 final results; individual DFL event pages and independent ESPN match reports verify the three as FT. CSV final count is 72; no rows were duplicated, misclassified, postponed or missing a score.",
     "aggregate_kpis_from_frozen_finals": {
       "goals": 224,
       "goals_per_match": 3.1111,
@@ -545,6 +576,116 @@
       "Next nine listed fixtures",
       "Explicit promotion and relegation zone legend"
     ],
-    "no_dataset_changes": true
+    "no_dataset_changes": true,
+    "result_cutoff_updated": "2026-10-18 14:22 America/Sao_Paulo"
+  },
+  "result_reconciliation": {
+    "reviewed_at": "2026-10-18 14:22 America/Sao_Paulo",
+    "conclusion": "The correct final-result count is 72, not 69. The later DFL and ESPN league standings pages lagged by precisely the three Sunday matchday-8 results; the DFL event match pages and ESPN individual match reports identify all three as completed finals. The matchday itself contains all nine completed scorelines.",
+    "official_matchday8_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8",
+    "official_matchday8_review": "All nine scheduled identities in R8 are present; each is listed as a final score on the DFL matchday page. No status of postponed/rescheduled is shown for the three disputed games.",
+    "cross_checked_disputed_fixtures": [
+      {
+        "round": 8,
+        "date": "2026-10-18",
+        "home": "Arminia Bielefeld",
+        "away": "VfL Osnabrück",
+        "score": "2-1",
+        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/dsc-arminia-bielefeld-vs-vfl-osnabrueck/liveticker",
+        "independent_match_url": "https://www.espn.com/soccer/match/_/gameId/401885086/vfl-osnabruck-arminia-bielefeld",
+        "independent_source_score": "Bielefeld 2-1 Osnabruck (Oct 18, 2026), FT"
+      },
+      {
+        "round": 8,
+        "date": "2026-10-18",
+        "home": "Dynamo Dresden",
+        "away": "Magdeburg",
+        "score": "2-0",
+        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/sg-dynamo-dresden-vs-1-fc-magdeburg/liveticker",
+        "independent_match_url": "https://www.espn.com/soccer/match/_/gameId/401885088/1-fc-magdeburg-dynamo-dresden",
+        "independent_source_score": "D Dresden 2-0 Magdeburg (Oct 18, 2026), FT"
+      },
+      {
+        "round": 8,
+        "date": "2026-10-18",
+        "home": "Karlsruhe",
+        "away": "Darmstadt",
+        "score": "4-0",
+        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/karlsruher-sc-vs-sv-darmstadt-98/liveticker",
+        "independent_match_url": "https://www.espn.com/soccer/match/_/gameId/401885089/sv-darmstadt-98-karlsruher-sc",
+        "independent_source_score": "Karlsruher 4-0 Darmstadt (Oct 18, 2026), FT"
+      }
+    ],
+    "table_page_discrepancy": {
+      "DFL_current_standings_url": "https://www.bundesliga.com/en/2bundesliga/table",
+      "ESPN_current_standings_url": "https://www.espn.com/soccer/standings/_/league/ger.2",
+      "retrieved": "2026-10-18 14:21 BRT",
+      "reported_total_played_matches": 69,
+      "clubs_reported_at_7_GP": [
+        "Magdeburg",
+        "Arminia Bielefeld",
+        "VfL Osnabrück",
+        "Darmstadt",
+        "Dynamo Dresden",
+        "Karlsruhe"
+      ],
+      "omitted_finals_from_those_tables": [
+        {
+          "round": 8,
+          "date": "2026-10-18",
+          "home": "Arminia Bielefeld",
+          "away": "VfL Osnabrück",
+          "score": "2-1",
+          "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/dsc-arminia-bielefeld-vs-vfl-osnabrueck/liveticker",
+          "independent_match_url": "https://www.espn.com/soccer/match/_/gameId/401885086/vfl-osnabruck-arminia-bielefeld",
+          "independent_source_score": "Bielefeld 2-1 Osnabruck (Oct 18, 2026), FT"
+        },
+        {
+          "round": 8,
+          "date": "2026-10-18",
+          "home": "Dynamo Dresden",
+          "away": "Magdeburg",
+          "score": "2-0",
+          "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/sg-dynamo-dresden-vs-1-fc-magdeburg/liveticker",
+          "independent_match_url": "https://www.espn.com/soccer/match/_/gameId/401885088/1-fc-magdeburg-dynamo-dresden",
+          "independent_source_score": "D Dresden 2-0 Magdeburg (Oct 18, 2026), FT"
+        },
+        {
+          "round": 8,
+          "date": "2026-10-18",
+          "home": "Karlsruhe",
+          "away": "Darmstadt",
+          "score": "4-0",
+          "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/karlsruher-sc-vs-sv-darmstadt-98/liveticker",
+          "independent_match_url": "https://www.espn.com/soccer/match/_/gameId/401885089/sv-darmstadt-98-karlsruher-sc",
+          "independent_source_score": "Karlsruher 4-0 Darmstadt (Oct 18, 2026), FT"
+        }
+      ],
+      "diagnosis": "Both standings pages show full tables (not filtered to a club or matchday), but their table data had not incorporated the three Sunday finals. Their rows for the six clubs are exactly pre-match totals. Match pages are fresh and final; no postponed/rescheduled status or duplicate fixture explains the difference."
+    },
+    "result_row_audit": {
+      "fixture_rows": 306,
+      "unique_round_home_away_keys": 306,
+      "duplicate_fixture_keys": 0,
+      "finished_rows": 72,
+      "finished_rows_outside_rounds_1_to_8": 0,
+      "scheduled_rows_with_scores": 0,
+      "result_status_corrections": 0,
+      "result_score_changes": 0,
+      "note": "The CSV already contained the three correct finals; this reconciliation changes provenance links and the table-freshness disclosure, not any score or result status."
+    },
+    "score_derived_table_summary": {
+      "total_team_appearances": 144,
+      "computed_played_matches": 72,
+      "clubs": 18,
+      "played_matches_per_club": 8,
+      "goals": 224,
+      "goals_per_match": 3.1111,
+      "BTTS": "42/72 (58.3%)",
+      "over_2_5": "42/72 (58.3%)",
+      "home_wins": "32/72",
+      "draws": "21/72",
+      "away_wins": "19/72"
+    }
   }
 }

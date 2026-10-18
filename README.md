@@ -4,10 +4,10 @@ This repository contains an independent, mobile-first dashboard for the German *
 
 ## Current snapshot
 
-- Result cutoff: **18 October 2026, 12:20 America/Sao_Paulo (BRT)**.
+- Result cutoff: **18 October 2026, 14:22 America/Sao_Paulo (BRT)**.
 - 18 clubs; 34 matchdays; 306 DFL-listed fixtures.
 - 72 confirmed final results (matchdays 1–8); 234 later fixtures have no scores.
-- Computed played, W-D-L, goals for/against/difference and points match all 18 clubs on the current DFL table and ESPN's independent current table.
+- Computed played, W-D-L, goals for/against/difference and points are derived from 72 DFL-confirmed finals. The later DFL and ESPN standings pages lagged at 69 played; the three Sunday R8 final match pages and ESPN match reports independently verify them. Do not use those stale standings-page snapshots as the current table.
 - `2bundesliga_2026_27_results_verified.csv` is the separate league dataset.
 - `2bundesliga_2026_27_sources_validation.json` is the source log and saved official/independent table snapshots.
 - `2bundesliga_2026_27_dashboard_template.html` and `build_2bundesliga_2026_27_dashboard.py` are the self-contained builder/validator.

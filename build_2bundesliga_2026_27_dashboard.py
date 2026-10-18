@@ -69,7 +69,20 @@ ordered=sorted(clubs,key=lambda c:(-stats[c]["Pts"],-(stats[c]["GF"]-stats[c]["G
 computed=[]
 for pos,c in enumerate(ordered,1):
     s=stats[c];computed.append({"club":c,"position":pos,**s,"GD":s["GF"]-s["GA"]})
-# Compare all required table stats by club; use official rank only for exact ties.
+# Validate the saved 12:11/12:20 BRT snapshots against the result-derived table.
+# Later standings-page responses are separately logged because both lagged the Sunday finals.
+recon=meta.get("result_reconciliation",{})
+if recon.get("table_page_discrepancy",{}).get("reported_total_played_matches")!=69: raise SystemExit("Missing documented later 69-match standings-page discrepancy")
+checks=recon.get("cross_checked_disputed_fixtures",[])
+if len(checks)!=3: raise SystemExit("Expected three fixture-level discrepancy checks")
+for item in checks:
+    key=(int(item["round"]),item["home"],item["away"])
+    found=[r for r in rows if (r["round"],r["home"],r["away"])==key]
+    if len(found)!=1: raise SystemExit(f"Disputed fixture key missing or duplicated: {key}")
+    row=found[0]
+    score=f"{row['home_goals']}-{row['away_goals']}"
+    if row["status"]!="finished" or score!=item["score"] or not item.get("official_match_url") or not item.get("independent_match_url"):
+        raise SystemExit(f"Disputed fixture evidence does not match verified final row: {key}")
 official={x["club"]:x for x in meta["standings_snapshot"]}
 independent={x["club"]:x for x in meta["independent_table_snapshot"]}
 if set(official)!=set(clubs) or set(independent)!=set(clubs): raise SystemExit("Official/independent table club set mismatch")
@@ -84,4 +97,4 @@ data=json.dumps(rows,ensure_ascii=False,separators=(",",":" )).replace("</","<\\
 metadata=json.dumps(meta,ensure_ascii=False,separators=(",",":" )).replace("</","<\\/")
 page=template.replace("__DATA__",data).replace("__META__",metadata)
 OUT_PATH.write_text(page,encoding="utf-8")
-print(json.dumps({"output":str(OUT_PATH),"fixtures":len(rows),"confirmed_results":len(finished),"scheduled":len(rows)-len(finished),"clubs":len(clubs),"rounds":34,"DFL_table":"PASS 18/18 MP,W-D-L,GF,GA,GD,points","ESPN_cross_check":"PASS 18/18 MP,W-D-L,GF,GA,GD,points","schedule":"PASS 306 unique fixtures, 9 per round, 17 home/away per club"},ensure_ascii=False,indent=2))
+print(json.dumps({"output":str(OUT_PATH),"fixtures":len(rows),"confirmed_results":len(finished),"scheduled":len(rows)-len(finished),"clubs":len(clubs),"rounds":34,"saved_12_11_12_20_table_snapshots":"PASS 18/18 clubs against the 72-result dataset (historical snapshots; not the later stale standings response)","current_standings_page_discrepancy":"DOCUMENTED: DFL and ESPN responses at 14:21 BRT show 69 games; three disputed Sunday finals confirmed by both DFL event pages and ESPN match reports","fixture_level_reconciliation":"PASS 3/3 disputed finals match unique CSV rows and DFL+ESPN source links","schedule":"PASS 306 unique fixtures, 9 per round, 17 home/away per club"},ensure_ascii=False,indent=2))
