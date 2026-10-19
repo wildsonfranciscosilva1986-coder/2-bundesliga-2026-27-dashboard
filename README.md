@@ -4,10 +4,10 @@ This repository contains an independent, mobile-first dashboard for the German *
 
 ## Current snapshot
 
-- Result cutoff: **18 October 2026, 14:22 America/Sao_Paulo (BRT)**.
+- Result cutoff: **19 October 2026, 08:16 America/Sao_Paulo (BRT)**.
 - 18 clubs; 34 matchdays; 306 DFL-listed fixtures.
 - 72 confirmed final results (matchdays 1–8); 234 later fixtures have no scores.
-- Computed played, W-D-L, goals for/against/difference and points are derived from 72 DFL-confirmed finals. The later DFL and ESPN standings pages lagged at 69 played; the three Sunday R8 final match pages and ESPN match reports independently verify them. Do not use those stale standings-page snapshots as the current table.
+- Computed played, W-D-L, goals for/against/difference and points are derived from 72 DFL-confirmed finals. The current DFL live table now reports 72 matches and matches all 18 score-derived team totals; the earlier 69-match response is retained only as historical audit evidence.
 - `2bundesliga_2026_27_results_verified.csv` is the separate league dataset.
 - `2bundesliga_2026_27_sources_validation.json` is the source log and saved official/independent table snapshots.
 - `2bundesliga_2026_27_dashboard_template.html` and `build_2bundesliga_2026_27_dashboard.py` are the self-contained builder/validator.
@@ -34,5 +34,5 @@ No cron job is configured by this repository build.
 
 The early-season projection is descriptive, highly uncertain, and not betting advice.
 
-### Post-cutoff source note (18 October 2026, 13:48 BRT)
-The DFL matchday 8 page displayed all nine final scorelines already present in the dataset. At the same retrieval, the live DFL and ESPN standings pages showed only 69 played matches (six clubs with 7 GP), conflicting with the saved 12:20 BRT table snapshots and 72-final score-derived table. To avoid silently changing a verified historical cut or presenting an unresolved live-table difference as reconciled, the published dashboard remains explicitly at the 12:20 BRT cutoff; the discrepancy and source URLs are recorded in the JSON source log.
+### Current source reconciliation (19 October 2026, 08:16 BRT)
+The current DFL live standings page includes all 72 matchday 1–8 finals and reconciles with the score-derived table for all 18 clubs. The earlier 69-match standings response from 18 October is retained as historical audit evidence; it is no longer used as the current table.
