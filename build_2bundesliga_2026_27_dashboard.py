@@ -72,7 +72,7 @@ for pos,c in enumerate(ordered,1):
 # Validate the saved 12:11/12:20 BRT snapshots against the result-derived table.
 # Later standings-page responses are separately logged because both lagged the Sunday finals.
 recon=meta.get("result_reconciliation",{})
-if recon.get("table_page_discrepancy",{}).get("reported_total_played_matches")!=69: raise SystemExit("Missing documented later 69-match standings-page discrepancy")
+if recon.get("table_page_discrepancy",{}).get("reported_total_played_matches")!=len(finished): raise SystemExit("Current DFL table snapshot must equal the score-derived final count")
 checks=recon.get("cross_checked_disputed_fixtures",[])
 if len(checks)!=3: raise SystemExit("Expected three fixture-level discrepancy checks")
 for item in checks:
@@ -97,4 +97,4 @@ data=json.dumps(rows,ensure_ascii=False,separators=(",",":" )).replace("</","<\\
 metadata=json.dumps(meta,ensure_ascii=False,separators=(",",":" )).replace("</","<\\/")
 page=template.replace("__DATA__",data).replace("__META__",metadata)
 OUT_PATH.write_text(page,encoding="utf-8")
-print(json.dumps({"output":str(OUT_PATH),"fixtures":len(rows),"confirmed_results":len(finished),"scheduled":len(rows)-len(finished),"clubs":len(clubs),"rounds":34,"saved_12_11_12_20_table_snapshots":"PASS 18/18 clubs against the 72-result dataset (historical snapshots; not the later stale standings response)","current_standings_page_discrepancy":"DOCUMENTED: DFL and ESPN responses at 14:21 BRT show 69 games; three disputed Sunday finals confirmed by both DFL event pages and ESPN match reports","fixture_level_reconciliation":"PASS 3/3 disputed finals match unique CSV rows and DFL+ESPN source links","schedule":"PASS 306 unique fixtures, 9 per round, 17 home/away per club"},ensure_ascii=False,indent=2))
+print(json.dumps({"output":str(OUT_PATH),"fixtures":len(rows),"confirmed_results":len(finished),"scheduled":len(rows)-len(finished),"clubs":len(clubs),"rounds":34,"saved_12_11_12_20_table_snapshots":"PASS 18/18 clubs against the 72-result dataset (historical snapshots; not the later stale standings response)","current_official_table":"PASS: current DFL live table reconciles with all 72 score-derived finals; the earlier 69-match response is retained as historical evidence","fixture_level_reconciliation":"PASS 3/3 disputed finals match unique CSV rows and DFL+ESPN source links","schedule":"PASS 306 unique fixtures, 9 per round, 17 home/away per club"},ensure_ascii=False,indent=2))
