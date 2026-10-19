@@ -1,0 +1,29 @@
+{
+  "competition": "2. Bundesliga 2026/27",
+  "cutoff": "2026-10-19 12:15 America/Sao_Paulo",
+  "official_fixture_slots": 306,
+  "rounds": 34,
+  "clubs": 18,
+  "status_counts": {
+    "finished": 72,
+    "scheduled": 234
+  },
+  "final_results": 72,
+  "scheduled": 234,
+  "official_table_reconciliation": {
+    "all_stats_match": true,
+    "clubs_compared": 18,
+    "mismatches": 0
+  },
+  "independent_ESPN_scores": {
+    "checked": 72,
+    "exact_fulltime_matches": 72,
+    "mismatches": 0
+  },
+  "independent_ESPN_table": {
+    "all_stats_match": true,
+    "clubs_compared": 18,
+    "mismatches": 0
+  },
+  "fixture_structure": "PASS: 306 unique fixtures, 9 per round, each club once per round."
+}

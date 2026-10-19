@@ -1,38 +1,31 @@
-# 2. Bundesliga 2026/27 — standalone dashboard
+# DIN Mercado · 2. Bundesliga 2026/27
 
-This repository contains an independent, mobile-first dashboard for the German **2. Bundesliga only**. It is separate from Bundesliga 1 and the other league projects.
+Standalone, mobile-first interactive panel for the German second division only. The existing GitHub Pages URL remains in this repository.
 
-## Current snapshot
+## Verified data pipeline
 
-- Result cutoff: **19 October 2026, 08:16 America/Sao_Paulo (BRT)**.
-- 18 clubs; 34 matchdays; 306 DFL-listed fixtures.
-- 72 confirmed final results (matchdays 1–8); 234 later fixtures have no scores.
-- Computed played, W-D-L, goals for/against/difference and points are derived from 72 DFL-confirmed finals. The current DFL live table now reports 72 matches and matches all 18 score-derived team totals; the earlier 69-match response is retained only as historical audit evidence.
-- `2bundesliga_2026_27_results_verified.csv` is the separate league dataset.
-- `2bundesliga_2026_27_sources_validation.json` is the source log and saved official/independent table snapshots.
-- `2bundesliga_2026_27_dashboard_template.html` and `build_2bundesliga_2026_27_dashboard.py` are the self-contained builder/validator.
+- Official DFL matchday pages provide the complete 306-fixture calendar, 34 rounds, official match IDs, current status, kickoff and scores.
+- Only DFL `FINAL_WHISTLE` fixtures with both full-time goals are counted; live, postponed, cancelled and unstarted fixtures remain scoreless.
+- The current DFL live table must match the result-derived table for all 18 clubs.
+- Every final score is independently checked against an ESPN `STATUS_FULL_TIME` event; a separate table recomputed from ESPN scores must also match all 18 clubs.
+- Any missing fixture, unknown status, API mismatch, score discrepancy or table disagreement stops the run before an update is committed.
 
-## Refresh workflow (06:00 BRT updater)
+## Planned automatic refresh
 
-1. Retrieve the current official DFL table and each relevant `Bundesliga 2` matchday page: https://www.bundesliga.com/en/2bundesliga/table and https://www.bundesliga.com/en/2bundesliga/matchday. The round-specific routes are stored in each CSV row.
-2. Update only the 2. Bundesliga CSV rows. Enter a score only when the DFL matchday page confirms a final result. Keep unfinished or scheduled scores blank. Preserve official matchday assignment and update published reschedules/times only from DFL.
-3. Refresh the official and independent table snapshots and source retrieval times in `2bundesliga_2026_27_sources_validation.json`; use ESPN's German 2. Bundesliga standings as the independent table check. If any comparison remains unresolved, stop before publication.
-4. Run `python3 build_2bundesliga_2026_27_dashboard.py`. It validates all 306 unique pairings, nine fixtures per round, 18-club coverage, 17 home/17 away per team, score/status consistency, and the table against both snapshots, then deterministically writes `index.html`.
-5. Commit/publish only after the script passes. Do not let the refresh process read or write Bundesliga 1 files, and do not infer unannounced individual dates from broad DFL round ranges.
+The local collector and builder are prepared for a GitHub Actions workflow scheduled daily at **06:10 America/Sao_Paulo (09:10 UTC)** with manual dispatch. The workflow is **not yet active in GitHub**. Before activation, it must retrieve every DFL matchday and the current table, cross-check all finals against ESPN, rebuild and validate the page, and commit only if every check passes. A failed check must leave the public page unchanged. It should update `main` in place to preserve the existing Pages URL.
 
-No cron job is configured by this repository build.
+The exact cutoff and result counts are regenerated in the metadata, validation report and page on each successful run. Collector dependencies are listed in `requirements.txt`.
 
-## Dashboard controls
+## Local equivalent
 
-- Overview KPIs computed from confirmed finals only: clubs, finished/total fixtures, goals and per-match average, BTTS and over 2.5 numerator/denominator/rate, home wins/draws/away wins, plus the exact result cutoff.
-- Next published fixtures and an official-format zone legend (direct promotion, promotion play-off, relegation play-off, direct relegation).
-- League table with promotion/relegation zones and recent form.
-- Club profiles with last five, overall/home/away splits and next fixture.
-- Official results/fixtures filters by status, round and club.
-- Season H2H selector, 1–X–2 / goal Poisson estimates, and eight Top-5 ranking categories with overall/home/away denominator cuts.
-- Sources, cutoff, competition rules, methods and limitations.
+```sh
+python3 -m pip install -r requirements.txt
+python3 refresh_2bundesliga.py
+python3 build_2bundesliga_2026_27_dashboard.py
+```
 
-The early-season projection is descriptive, highly uncertain, and not betting advice.
+- Repository: `wildsonfranciscosilva1986-coder/2-bundesliga-2026-27-dashboard`
+- Branch/path: `main` / root `index.html`
+- Existing page: https://wildsonfranciscosilva1986-coder.github.io/2-bundesliga-2026-27-dashboard/
 
-### Current source reconciliation (19 October 2026, 08:16 BRT)
-The current DFL live standings page includes all 72 matchday 1–8 finals and reconciles with the score-derived table for all 18 clubs. The earlier 69-match standings response from 18 October is retained as historical audit evidence; it is no longer used as the current table.
+The 1-X-2 and goal estimates are descriptive, based on the current small sample, and are not calibrated predictions or betting advice.

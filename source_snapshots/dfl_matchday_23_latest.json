@@ -1,0 +1,375 @@
+{
+  "url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23",
+  "retrieved_at": "2026-10-19 12:15 America/Sao_Paulo",
+  "matches": [
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UJ",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UJ",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 207,
+      "slugs": {
+        "slugLong": "vfl-osnabrueck-vs-holstein-kiel"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-000N5P",
+          "gradientEndColor": "#005397",
+          "gradientStartColor": "#005397",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000N5P.svg",
+          "nameFull": "Holstein Kiel",
+          "nameShort": "Kiel",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "KSV"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-000014",
+          "gradientEndColor": "#572A86",
+          "gradientStartColor": "#572A86",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000014.svg",
+          "nameFull": "VfL Osnabrück",
+          "nameShort": "Osnabrück",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "OSN"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UI",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UI",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 206,
+      "slugs": {
+        "slugLong": "eintracht-braunschweig-vs-1-fc-kaiserslautern"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000I",
+          "gradientEndColor": "#FF0000",
+          "gradientStartColor": "#FF0000",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000I.svg",
+          "nameFull": "1. FC Kaiserslautern",
+          "nameShort": "Kaiserslautern",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "FCK"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-00000X",
+          "gradientEndColor": "#0062AD",
+          "gradientStartColor": "#0062AD",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
+          "nameFull": "Eintracht Braunschweig",
+          "nameShort": "Braunschweig",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "EBS"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UH",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UH",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 205,
+      "slugs": {
+        "slugLong": "1-fc-magdeburg-vs-spvgg-greuther-fuerth"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000W",
+          "gradientEndColor": "#009932",
+          "gradientStartColor": "#009932",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000W.svg",
+          "nameFull": "SpVgg Greuther Fürth",
+          "nameShort": "Fürth",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "SGF"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-000N5D",
+          "gradientEndColor": "#0058B8",
+          "gradientStartColor": "#0058B8",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000N5D.svg",
+          "nameFull": "1. FC Magdeburg",
+          "nameShort": "Magdeburg",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "FCM"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UG",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UG",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 204,
+      "slugs": {
+        "slugLong": "vfl-bochum-1848-vs-hannover-96"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-000001",
+          "gradientEndColor": "#FFFFFF",
+          "gradientStartColor": "#FFFFFF",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000001.svg",
+          "nameFull": "Hannover 96",
+          "nameShort": "Hannover",
+          "textColor": "#000000",
+          "threeLetterCode": "H96"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-00000S",
+          "gradientEndColor": "#095ba4",
+          "gradientStartColor": "#095ba4",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000S.svg",
+          "nameFull": "VfL Bochum 1848",
+          "nameShort": "Bochum",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "BOC"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UF",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UF",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 203,
+      "slugs": {
+        "slugLong": "1-fc-nuernberg-vs-karlsruher-sc"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000T",
+          "gradientEndColor": "#004b93",
+          "gradientStartColor": "#004b93",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000T.svg",
+          "nameFull": "Karlsruher SC",
+          "nameShort": "Karlsruhe",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "KSC"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-000005",
+          "gradientEndColor": "#C2102B",
+          "gradientStartColor": "#C2102B",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000005.svg",
+          "nameFull": "1. FC Nürnberg",
+          "nameShort": "Nürnberg",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "FCN"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UE",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UE",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 202,
+      "slugs": {
+        "slugLong": "hertha-bsc-vs-sg-dynamo-dresden"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000N",
+          "gradientEndColor": "#FFCD00",
+          "gradientStartColor": "#FFCD00",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000N.svg",
+          "nameFull": "SG Dynamo Dresden",
+          "nameShort": "Dresden",
+          "textColor": "#000000",
+          "threeLetterCode": "SGD"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-00000Z",
+          "gradientEndColor": "#0069B4",
+          "gradientStartColor": "#0069B4",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000Z.svg",
+          "nameFull": "Hertha BSC",
+          "nameShort": "Hertha BSC",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "BSC"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UD",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UD",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 201,
+      "slugs": {
+        "slugLong": "sv-darmstadt-98-vs-vfl-wolfsburg"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-000003",
+          "gradientEndColor": "#09633d",
+          "gradientStartColor": "#09633d",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000003.svg",
+          "nameFull": "VfL Wolfsburg",
+          "nameShort": "Wolfsburg",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "WOB"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-000016",
+          "gradientEndColor": "#004E9E",
+          "gradientStartColor": "#004E9E",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000016.svg",
+          "nameFull": "SV Darmstadt 98",
+          "nameShort": "Darmstadt",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "SVD"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UC",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UC",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 200,
+      "slugs": {
+        "slugLong": "1-fc-heidenheim-1846-vs-dsc-arminia-bielefeld"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-000015",
+          "gradientEndColor": "#000000",
+          "gradientStartColor": "#000000",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000015.svg",
+          "nameFull": "DSC Arminia Bielefeld",
+          "nameShort": "Bielefeld",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "DSC"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-000018",
+          "gradientEndColor": "#DC0812",
+          "gradientStartColor": "#DC0812",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000018.svg",
+          "nameFull": "1. FC Heidenheim 1846",
+          "nameShort": "Heidenheim",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "FCH"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043UB",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CCF",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": false,
+      "matchId": "DFL-MAT-J043UB",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 23,
+      "matchdayRange": {
+        "end": "2027-02-28T00:00:00+0000",
+        "start": "2027-02-26T00:00:00+0000"
+      },
+      "plannedKickOff": "2027-02-28T12:30:00+0000",
+      "seasonOrder": 199,
+      "slugs": {
+        "slugLong": "fc-st-pauli-vs-fc-energie-cottbus"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000O",
+          "gradientEndColor": "#FF0000",
+          "gradientStartColor": "#FF0000",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000O.svg",
+          "nameFull": "FC Energie Cottbus",
+          "nameShort": "FC Energie",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "FCE"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-00000H",
+          "gradientEndColor": "#604734",
+          "gradientStartColor": "#604734",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000H.svg",
+          "nameFull": "FC St. Pauli",
+          "nameShort": "St. Pauli",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "STP"
+        }
+      }
+    }
+  ]
+}

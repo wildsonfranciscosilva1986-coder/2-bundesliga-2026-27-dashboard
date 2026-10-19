@@ -1,32 +1,7 @@
-2. Bundesliga 2026/27 — validation record
-
-Result cutoff: 2026-10-19 08:16 America/Sao_Paulo.
-Current DFL 72-game live table captured: 2026-10-19 08:16 BRT; all 18 club totals reconcile with final-score data.
-Independent ESPN 72-game table snapshot captured: 2026-10-18 12:20 BRT; all nine matchday-8 results were independently rechecked on 19 Oct.
-All 34 fixture pages initially retrieved 12:14–12:16 BRT; disputed individual DFL/ESPN event pages rechecked 14:21–14:22 BRT.
-
-Coverage
-- 18 clubs; 34 rounds; 306 fixtures (9 per round).
-- 72 DFL-confirmed final results, rounds 1–8; 234 remaining fixtures have blank score fields. The three Sunday R8 results were individually rechecked against DFL event pages and ESPN FT reports.
-- 17 home and 17 away fixtures for every club.
-- All future fixtures are linked to the official DFL matchday route. Rounds 9–13 carry the exact dates/times published in DFL pages; later rounds retain the official date ranges where individual dates are not published. No score or date is inferred.
-
-Checks (build_2bundesliga_2026_27_dashboard.py)
-- PASS: 306 unique fixture keys, no duplicates.
-- PASS: each round contains all 18 clubs exactly once.
-- PASS: finished rows have nonnegative integer scores; future rows have blank scores.
-- PASS: score-derived played, W-D-L, GF, GA, GD and points match the current DFL live table for all 18 clubs.
-- PASS: the same score-derived totals match the saved independent ESPN table snapshot; all nine R8 finals were rechecked against the current ESPN scoreboard.
-- PASS: 72 final results, 234 scheduled fixtures, 18 teams.
-
-Competition rules verified against DFL table zones / DFL promotion-relegation FAQ: positions 1–2 direct promotion; 3rd promotion playoff; 16th relegation playoff; 17th–18th direct relegation. 18 clubs and 34 matchdays are confirmed by the official 306-game schedule.
-
-Sources are recorded in 2bundesliga_2026_27_sources_validation.json. This data, validator and dashboard belong only to the 2. Bundesliga project; no Bundesliga 1 data is included.
-
-
-Reconciliation (19 Oct 2026, 08:16 BRT)
-- Current total: 72 final matches; the current DFL live table now shows all 72 and reconciles with every score-derived club total.
-- The prior DFL/ESPN response at 69 played on 18 Oct was stale; it is retained only as historical audit evidence.
-- The three disputed Sunday R8 results remain individually confirmed by DFL and ESPN: Bielefeld 2-1 Osnabrück; Dynamo Dresden 2-0 Magdeburg; Karlsruhe 4-0 Darmstadt.
-- Fixture key audit: 306/306 unique; no duplicate/misclassified finals; no postponement/reschedule found.
-- Current dashboard uses the score-derived 72-final table and official DFL tie order for tied numerical rows.
+2. Bundesliga 2026/27 validation — cutoff 2026-10-19 12:15 America/Sao_Paulo
+Coverage: 306/306 official fixtures; 34 rounds × 9; 18 clubs.
+Statuses: 72 confirmed finals; 234 scheduled.
+Official DFL table reconciliation: PASS all 18 clubs across played, W-D-L, GF/GA/GD and points.
+Independent ESPN final-score check: PASS 72/72 exact STATUS_FULL_TIME results.
+Independent ESPN-derived table: PASS all 18 club vectors.
+No future or nonfinal score is included.

@@ -1,307 +1,307 @@
-round,date,date_range,kickoff_time,timezone,home,away,home_goals,away_goals,status,official_match_url
-1,2026-08-07,,,,Bochum,Hertha Berlin,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-1,2026-08-08,,,,Magdeburg,Eintracht Braunschweig,1,6,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-1,2026-08-08,,,,Karlsruhe,Arminia Bielefeld,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-1,2026-08-08,,,,Darmstadt,Holstein Kiel,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-1,2026-08-08,,,,Heidenheim,VfL Osnabrück,4,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-1,2026-08-08,,,,Wolfsburg,Kaiserslautern,0,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-1,2026-08-09,,,,Energie Cottbus,Hannover 96,3,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-1,2026-08-09,,,,Nuremberg,Dynamo Dresden,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-1,2026-08-09,,,,St. Pauli,Greuther Fürth,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1
-2,2026-08-14,,,,Eintracht Braunschweig,Bochum,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-2,2026-08-14,,,,Holstein Kiel,St. Pauli,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-2,2026-08-15,,,,VfL Osnabrück,Magdeburg,0,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-2,2026-08-15,,,,Greuther Fürth,Nuremberg,2,4,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-2,2026-08-15,,,,Hertha Berlin,Heidenheim,4,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-2,2026-08-15,,,,Kaiserslautern,Karlsruhe,0,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-2,2026-08-16,,,,Arminia Bielefeld,Energie Cottbus,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-2,2026-08-16,,,,Dynamo Dresden,Darmstadt,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-2,2026-08-16,,,,Hannover 96,Wolfsburg,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2
-3,2026-08-28,,,,Bochum,VfL Osnabrück,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-3,2026-08-28,,,,Eintracht Braunschweig,Hertha Berlin,3,5,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-3,2026-08-29,,,,Heidenheim,Dynamo Dresden,5,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-3,2026-08-29,,,,Karlsruhe,Wolfsburg,2,5,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-3,2026-08-29,,,,Energie Cottbus,Greuther Fürth,3,4,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-3,2026-08-29,,,,Nuremberg,Arminia Bielefeld,4,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-3,2026-08-30,,,,St. Pauli,Kaiserslautern,1,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-3,2026-08-30,,,,Darmstadt,Hannover 96,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-3,2026-08-30,,,,Magdeburg,Holstein Kiel,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3
-4,2026-09-04,,,,Hannover 96,Karlsruhe,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-4,2026-09-04,,,,Arminia Bielefeld,St. Pauli,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-4,2026-09-05,,,,Wolfsburg,Energie Cottbus,4,4,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-4,2026-09-05,,,,Kaiserslautern,Darmstadt,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-4,2026-09-05,,,,Holstein Kiel,Nuremberg,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-4,2026-09-05,,,,Dynamo Dresden,Bochum,1,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-4,2026-09-06,,,,Hertha Berlin,Magdeburg,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-4,2026-09-06,,,,Greuther Fürth,Heidenheim,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-4,2026-09-06,,,,VfL Osnabrück,Eintracht Braunschweig,3,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4
-5,2026-09-11,,,,Nuremberg,Hannover 96,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-5,2026-09-11,,,,Darmstadt,Arminia Bielefeld,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-5,2026-09-12,,,,Eintracht Braunschweig,Dynamo Dresden,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-5,2026-09-12,,,,Magdeburg,Kaiserslautern,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-5,2026-09-12,,,,Bochum,Greuther Fürth,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-5,2026-09-12,,,,St. Pauli,Wolfsburg,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-5,2026-09-13,,,,VfL Osnabrück,Hertha Berlin,1,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-5,2026-09-13,,,,Karlsruhe,Energie Cottbus,0,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-5,2026-09-13,,,,Heidenheim,Holstein Kiel,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5
-6,2026-09-18,,,,Wolfsburg,Darmstadt,5,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-6,2026-09-18,,,,Greuther Fürth,Magdeburg,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-6,2026-09-19,,,,Kaiserslautern,Eintracht Braunschweig,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-6,2026-09-19,,,,Karlsruhe,Nuremberg,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-6,2026-09-19,,,,Holstein Kiel,VfL Osnabrück,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-6,2026-09-19,,,,Dynamo Dresden,Hertha Berlin,1,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-6,2026-09-20,,,,Hannover 96,Bochum,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-6,2026-09-20,,,,Arminia Bielefeld,Heidenheim,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-6,2026-09-20,,,,Energie Cottbus,St. Pauli,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6
-7,2026-10-09,,,,Eintracht Braunschweig,Holstein Kiel,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-7,2026-10-09,,,,Heidenheim,Kaiserslautern,0,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-7,2026-10-10,,,,VfL Osnabrück,Dynamo Dresden,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-7,2026-10-10,,,,Magdeburg,Hannover 96,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-7,2026-10-10,,,,Darmstadt,Energie Cottbus,3,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-7,2026-10-10,,,,Nuremberg,Wolfsburg,4,4,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-7,2026-10-11,,,,Bochum,Arminia Bielefeld,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-7,2026-10-11,,,,Hertha Berlin,Greuther Fürth,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-7,2026-10-11,,,,St. Pauli,Karlsruhe,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7
-8,2026-10-16,,,,Energie Cottbus,Nuremberg,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8
-8,2026-10-16,,,,Holstein Kiel,Hertha Berlin,0,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8
-8,2026-10-17,,,,Greuther Fürth,Eintracht Braunschweig,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8
-8,2026-10-17,,,,Kaiserslautern,Bochum,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8
-8,2026-10-17,,,,Wolfsburg,Heidenheim,3,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8
-8,2026-10-17,,,,Hannover 96,St. Pauli,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8
-8,2026-10-18,,,,Arminia Bielefeld,VfL Osnabrück,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/dsc-arminia-bielefeld-vs-vfl-osnabrueck/liveticker
-8,2026-10-18,,,,Dynamo Dresden,Magdeburg,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/sg-dynamo-dresden-vs-1-fc-magdeburg/liveticker
-8,2026-10-18,,,,Karlsruhe,Darmstadt,4,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/karlsruher-sc-vs-sv-darmstadt-98/liveticker
-9,2026-10-23,,16:30,Europe/Berlin,Bochum,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-9,2026-10-23,,16:30,Europe/Berlin,Darmstadt,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-9,2026-10-24,,11:00,Europe/Berlin,Magdeburg,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-9,2026-10-24,,11:00,Europe/Berlin,Hertha Berlin,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-9,2026-10-24,,11:00,Europe/Berlin,Heidenheim,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-9,2026-10-24,,18:30,Europe/Berlin,Nuremberg,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-9,2026-10-25,,12:30,Europe/Berlin,VfL Osnabrück,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-9,2026-10-25,,12:30,Europe/Berlin,Eintracht Braunschweig,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-9,2026-10-25,,12:30,Europe/Berlin,Holstein Kiel,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9
-10,2026-10-30,,17:30,Europe/Berlin,Energie Cottbus,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-10,2026-10-30,,17:30,Europe/Berlin,Arminia Bielefeld,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-10,2026-10-31,,12:00,Europe/Berlin,Kaiserslautern,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-10,2026-10-31,,12:00,Europe/Berlin,Darmstadt,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-10,2026-10-31,,12:00,Europe/Berlin,Wolfsburg,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-10,2026-10-31,,19:30,Europe/Berlin,Karlsruhe,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-10,2026-11-01,,12:30,Europe/Berlin,Greuther Fürth,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-10,2026-11-01,,12:30,Europe/Berlin,Hannover 96,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-10,2026-11-01,,12:30,Europe/Berlin,St. Pauli,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10
-11,2026-11-06,,17:30,Europe/Berlin,Eintracht Braunschweig,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-11,2026-11-06,,17:30,Europe/Berlin,Dynamo Dresden,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-11,2026-11-07,,12:00,Europe/Berlin,VfL Osnabrück,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-11,2026-11-07,,12:00,Europe/Berlin,Holstein Kiel,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-11,2026-11-07,,12:00,Europe/Berlin,Nuremberg,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-11,2026-11-07,,19:30,Europe/Berlin,Hertha Berlin,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-11,2026-11-08,,12:30,Europe/Berlin,Magdeburg,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-11,2026-11-08,,12:30,Europe/Berlin,Bochum,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-11,2026-11-08,,12:30,Europe/Berlin,Heidenheim,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11
-12,2026-11-20,,17:30,Europe/Berlin,Arminia Bielefeld,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-12,2026-11-20,,17:30,Europe/Berlin,Darmstadt,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-12,2026-11-21,,12:00,Europe/Berlin,Nuremberg,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-12,2026-11-21,,12:00,Europe/Berlin,Hannover 96,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-12,2026-11-21,,12:00,Europe/Berlin,Wolfsburg,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-12,2026-11-21,,19:30,Europe/Berlin,St. Pauli,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-12,2026-11-22,,12:30,Europe/Berlin,Energie Cottbus,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-12,2026-11-22,,12:30,Europe/Berlin,Karlsruhe,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-12,2026-11-22,,12:30,Europe/Berlin,Kaiserslautern,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12
-13,2026-11-27,,17:30,Europe/Berlin,Bochum,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-13,2026-11-27,,17:30,Europe/Berlin,Heidenheim,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-13,2026-11-28,,12:00,Europe/Berlin,Holstein Kiel,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-13,2026-11-28,,12:00,Europe/Berlin,Dynamo Dresden,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-13,2026-11-28,,12:00,Europe/Berlin,Hertha Berlin,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-13,2026-11-28,,19:30,Europe/Berlin,VfL Osnabrück,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-13,2026-11-29,,12:30,Europe/Berlin,Greuther Fürth,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-13,2026-11-29,,12:30,Europe/Berlin,Eintracht Braunschweig,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-13,2026-11-29,,12:30,Europe/Berlin,Magdeburg,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13
-14,,4 Dec - 6 Dec,,,Energie Cottbus,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-14,,4 Dec - 6 Dec,,,Arminia Bielefeld,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-14,,4 Dec - 6 Dec,,,Karlsruhe,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-14,,4 Dec - 6 Dec,,,Nuremberg,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-14,,4 Dec - 6 Dec,,,Kaiserslautern,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-14,,4 Dec - 6 Dec,,,Darmstadt,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-14,,4 Dec - 6 Dec,,,Hannover 96,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-14,,4 Dec - 6 Dec,,,St. Pauli,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-14,,4 Dec - 6 Dec,,,Wolfsburg,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14
-15,,11 Dec - 13 Dec,,,VfL Osnabrück,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-15,,11 Dec - 13 Dec,,,Greuther Fürth,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-15,,11 Dec - 13 Dec,,,Eintracht Braunschweig,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-15,,11 Dec - 13 Dec,,,Magdeburg,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-15,,11 Dec - 13 Dec,,,Arminia Bielefeld,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-15,,11 Dec - 13 Dec,,,Holstein Kiel,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-15,,11 Dec - 13 Dec,,,Dynamo Dresden,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-15,,11 Dec - 13 Dec,,,Bochum,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-15,,11 Dec - 13 Dec,,,Hertha Berlin,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15
-16,,18 Dec - 20 Dec,,,Energie Cottbus,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-16,,18 Dec - 20 Dec,,,Karlsruhe,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-16,,18 Dec - 20 Dec,,,Bochum,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-16,,18 Dec - 20 Dec,,,Nuremberg,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-16,,18 Dec - 20 Dec,,,Darmstadt,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-16,,18 Dec - 20 Dec,,,Hannover 96,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-16,,18 Dec - 20 Dec,,,Heidenheim,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-16,,18 Dec - 20 Dec,,,St. Pauli,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-16,,18 Dec - 20 Dec,,,Wolfsburg,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16
-17,,15 Jan - 17 Jan,,,VfL Osnabrück,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-17,,15 Jan - 17 Jan,,,Greuther Fürth,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-17,,15 Jan - 17 Jan,,,Eintracht Braunschweig,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-17,,15 Jan - 17 Jan,,,Magdeburg,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-17,,15 Jan - 17 Jan,,,Arminia Bielefeld,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-17,,15 Jan - 17 Jan,,,Holstein Kiel,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-17,,15 Jan - 17 Jan,,,Dynamo Dresden,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-17,,15 Jan - 17 Jan,,,Hertha Berlin,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-17,,15 Jan - 17 Jan,,,Kaiserslautern,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17
-18,,22 Jan - 24 Jan,,,VfL Osnabrück,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-18,,22 Jan - 24 Jan,,,Greuther Fürth,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-18,,22 Jan - 24 Jan,,,Eintracht Braunschweig,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-18,,22 Jan - 24 Jan,,,Arminia Bielefeld,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-18,,22 Jan - 24 Jan,,,Holstein Kiel,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-18,,22 Jan - 24 Jan,,,Dynamo Dresden,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-18,,22 Jan - 24 Jan,,,Hertha Berlin,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-18,,22 Jan - 24 Jan,,,Kaiserslautern,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-18,,22 Jan - 24 Jan,,,Hannover 96,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18
-19,,29 Jan - 31 Jan,,,Energie Cottbus,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-19,,29 Jan - 31 Jan,,,Magdeburg,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-19,,29 Jan - 31 Jan,,,Karlsruhe,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-19,,29 Jan - 31 Jan,,,Bochum,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-19,,29 Jan - 31 Jan,,,Nuremberg,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-19,,29 Jan - 31 Jan,,,Darmstadt,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-19,,29 Jan - 31 Jan,,,Heidenheim,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-19,,29 Jan - 31 Jan,,,St. Pauli,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-19,,29 Jan - 31 Jan,,,Wolfsburg,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19
-20,,5 Feb - 7 Feb,,,VfL Osnabrück,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-20,,5 Feb - 7 Feb,,,Greuther Fürth,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-20,,5 Feb - 7 Feb,,,Arminia Bielefeld,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-20,,5 Feb - 7 Feb,,,Holstein Kiel,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-20,,5 Feb - 7 Feb,,,Dynamo Dresden,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-20,,5 Feb - 7 Feb,,,Hertha Berlin,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-20,,5 Feb - 7 Feb,,,Kaiserslautern,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-20,,5 Feb - 7 Feb,,,Hannover 96,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-20,,5 Feb - 7 Feb,,,Wolfsburg,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20
-21,,12 Feb - 14 Feb,,,Energie Cottbus,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-21,,12 Feb - 14 Feb,,,Eintracht Braunschweig,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-21,,12 Feb - 14 Feb,,,Magdeburg,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-21,,12 Feb - 14 Feb,,,Karlsruhe,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-21,,12 Feb - 14 Feb,,,Bochum,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-21,,12 Feb - 14 Feb,,,Nuremberg,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-21,,12 Feb - 14 Feb,,,Darmstadt,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-21,,12 Feb - 14 Feb,,,Heidenheim,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-21,,12 Feb - 14 Feb,,,St. Pauli,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21
-22,,19 Feb - 21 Feb,,,Energie Cottbus,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-22,,19 Feb - 21 Feb,,,Greuther Fürth,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-22,,19 Feb - 21 Feb,,,Arminia Bielefeld,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-22,,19 Feb - 21 Feb,,,Holstein Kiel,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-22,,19 Feb - 21 Feb,,,Dynamo Dresden,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-22,,19 Feb - 21 Feb,,,Hertha Berlin,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-22,,19 Feb - 21 Feb,,,Kaiserslautern,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-22,,19 Feb - 21 Feb,,,Hannover 96,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-22,,19 Feb - 21 Feb,,,Wolfsburg,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22
-23,,26 Feb - 28 Feb,,,VfL Osnabrück,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-23,,26 Feb - 28 Feb,,,Eintracht Braunschweig,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-23,,26 Feb - 28 Feb,,,Magdeburg,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-23,,26 Feb - 28 Feb,,,Bochum,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-23,,26 Feb - 28 Feb,,,Nuremberg,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-23,,26 Feb - 28 Feb,,,Hertha Berlin,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-23,,26 Feb - 28 Feb,,,Darmstadt,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-23,,26 Feb - 28 Feb,,,Heidenheim,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-23,,26 Feb - 28 Feb,,,St. Pauli,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23
-24,,2 Mar - 4 Mar,,,Energie Cottbus,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-24,,2 Mar - 4 Mar,,,Greuther Fürth,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-24,,2 Mar - 4 Mar,,,Arminia Bielefeld,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-24,,2 Mar - 4 Mar,,,Holstein Kiel,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-24,,2 Mar - 4 Mar,,,Dynamo Dresden,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-24,,2 Mar - 4 Mar,,,Karlsruhe,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-24,,2 Mar - 4 Mar,,,Kaiserslautern,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-24,,2 Mar - 4 Mar,,,Hannover 96,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-24,,2 Mar - 4 Mar,,,Wolfsburg,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24
-25,,5 Mar - 7 Mar,,,VfL Osnabrück,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-25,,5 Mar - 7 Mar,,,Eintracht Braunschweig,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-25,,5 Mar - 7 Mar,,,Magdeburg,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-25,,5 Mar - 7 Mar,,,Bochum,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-25,,5 Mar - 7 Mar,,,Nuremberg,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-25,,5 Mar - 7 Mar,,,Hertha Berlin,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-25,,5 Mar - 7 Mar,,,Darmstadt,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-25,,5 Mar - 7 Mar,,,Heidenheim,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-25,,5 Mar - 7 Mar,,,St. Pauli,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25
-26,,12 Mar - 14 Mar,,,Energie Cottbus,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-26,,12 Mar - 14 Mar,,,Greuther Fürth,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-26,,12 Mar - 14 Mar,,,Arminia Bielefeld,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-26,,12 Mar - 14 Mar,,,Dynamo Dresden,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-26,,12 Mar - 14 Mar,,,Karlsruhe,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-26,,12 Mar - 14 Mar,,,Kaiserslautern,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-26,,12 Mar - 14 Mar,,,Hannover 96,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-26,,12 Mar - 14 Mar,,,St. Pauli,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-26,,12 Mar - 14 Mar,,,Wolfsburg,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26
-27,,19 Mar - 21 Mar,,,VfL Osnabrück,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-27,,19 Mar - 21 Mar,,,Eintracht Braunschweig,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-27,,19 Mar - 21 Mar,,,Magdeburg,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-27,,19 Mar - 21 Mar,,,Holstein Kiel,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-27,,19 Mar - 21 Mar,,,Dynamo Dresden,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-27,,19 Mar - 21 Mar,,,Bochum,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-27,,19 Mar - 21 Mar,,,Nuremberg,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-27,,19 Mar - 21 Mar,,,Hertha Berlin,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-27,,19 Mar - 21 Mar,,,Heidenheim,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27
-28,,2 Apr - 4 Apr,,,Energie Cottbus,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-28,,2 Apr - 4 Apr,,,Greuther Fürth,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-28,,2 Apr - 4 Apr,,,Arminia Bielefeld,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-28,,2 Apr - 4 Apr,,,Karlsruhe,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-28,,2 Apr - 4 Apr,,,Kaiserslautern,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-28,,2 Apr - 4 Apr,,,Darmstadt,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-28,,2 Apr - 4 Apr,,,Hannover 96,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-28,,2 Apr - 4 Apr,,,St. Pauli,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-28,,2 Apr - 4 Apr,,,Wolfsburg,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28
-29,,9 Apr - 11 Apr,,,VfL Osnabrück,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-29,,9 Apr - 11 Apr,,,Greuther Fürth,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-29,,9 Apr - 11 Apr,,,Eintracht Braunschweig,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-29,,9 Apr - 11 Apr,,,Magdeburg,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-29,,9 Apr - 11 Apr,,,Holstein Kiel,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-29,,9 Apr - 11 Apr,,,Dynamo Dresden,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-29,,9 Apr - 11 Apr,,,Bochum,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-29,,9 Apr - 11 Apr,,,Hertha Berlin,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-29,,9 Apr - 11 Apr,,,Heidenheim,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29
-30,,16 Apr - 18 Apr,,,Energie Cottbus,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-30,,16 Apr - 18 Apr,,,Arminia Bielefeld,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-30,,16 Apr - 18 Apr,,,Karlsruhe,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-30,,16 Apr - 18 Apr,,,Nuremberg,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-30,,16 Apr - 18 Apr,,,Kaiserslautern,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-30,,16 Apr - 18 Apr,,,Darmstadt,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-30,,16 Apr - 18 Apr,,,Hannover 96,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-30,,16 Apr - 18 Apr,,,St. Pauli,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-30,,16 Apr - 18 Apr,,,Wolfsburg,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30
-31,,23 Apr - 25 Apr,,,VfL Osnabrück,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-31,,23 Apr - 25 Apr,,,Greuther Fürth,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-31,,23 Apr - 25 Apr,,,Eintracht Braunschweig,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-31,,23 Apr - 25 Apr,,,Magdeburg,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-31,,23 Apr - 25 Apr,,,Holstein Kiel,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-31,,23 Apr - 25 Apr,,,Dynamo Dresden,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-31,,23 Apr - 25 Apr,,,Bochum,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-31,,23 Apr - 25 Apr,,,Hertha Berlin,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-31,,23 Apr - 25 Apr,,,Heidenheim,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31
-32,,7 May - 9 May,,,Energie Cottbus,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-32,,7 May - 9 May,,,Karlsruhe,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-32,,7 May - 9 May,,,Nuremberg,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-32,,7 May - 9 May,,,Kaiserslautern,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-32,,7 May - 9 May,,,Darmstadt,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-32,,7 May - 9 May,,,Hannover 96,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-32,,7 May - 9 May,,,Heidenheim,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-32,,7 May - 9 May,,,St. Pauli,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-32,,7 May - 9 May,,,Wolfsburg,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32
-33,,14 May - 16 May,,,VfL Osnabrück,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-33,,14 May - 16 May,,,Greuther Fürth,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-33,,14 May - 16 May,,,Eintracht Braunschweig,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-33,,14 May - 16 May,,,Magdeburg,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-33,,14 May - 16 May,,,Arminia Bielefeld,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-33,,14 May - 16 May,,,Holstein Kiel,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-33,,14 May - 16 May,,,Dynamo Dresden,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-33,,14 May - 16 May,,,Hertha Berlin,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-33,,14 May - 16 May,,,Kaiserslautern,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33
-34,2027-05-23,,13:30,Europe/Berlin,Energie Cottbus,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
-34,2027-05-23,,13:30,Europe/Berlin,Karlsruhe,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
-34,2027-05-23,,13:30,Europe/Berlin,Bochum,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
-34,2027-05-23,,13:30,Europe/Berlin,Nuremberg,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
-34,2027-05-23,,13:30,Europe/Berlin,Darmstadt,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
-34,2027-05-23,,13:30,Europe/Berlin,Hannover 96,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
-34,2027-05-23,,13:30,Europe/Berlin,Heidenheim,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
-34,2027-05-23,,13:30,Europe/Berlin,St. Pauli,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
-34,2027-05-23,,13:30,Europe/Berlin,Wolfsburg,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34
+round,date,date_range,kickoff_time,timezone,home,away,home_goals,away_goals,status,official_match_url,official_match_id
+1,2026-08-07,,20:30,Europe/Berlin,Bochum,Hertha Berlin,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/vfl-bochum-1848-vs-hertha-bsc/liveticker,DFL-MAT-J043OT
+1,2026-08-08,,13:03,Europe/Berlin,Magdeburg,Eintracht Braunschweig,1,6,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/1-fc-magdeburg-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043P0
+1,2026-08-08,,13:00,Europe/Berlin,Karlsruhe,Arminia Bielefeld,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/karlsruher-sc-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043OZ
+1,2026-08-08,,13:00,Europe/Berlin,Darmstadt,Holstein Kiel,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/sv-darmstadt-98-vs-holstein-kiel/liveticker,DFL-MAT-J043OX
+1,2026-08-08,,13:00,Europe/Berlin,Heidenheim,VfL Osnabrück,4,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/1-fc-heidenheim-1846-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043OW
+1,2026-08-08,,20:30,Europe/Berlin,Wolfsburg,Kaiserslautern,0,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/vfl-wolfsburg-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043OU
+1,2026-08-09,,13:39,Europe/Berlin,Energie Cottbus,Hannover 96,3,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/fc-energie-cottbus-vs-hannover-96/liveticker,DFL-MAT-J043P1
+1,2026-08-09,,13:30,Europe/Berlin,Nuremberg,Dynamo Dresden,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/1-fc-nuernberg-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043OY
+1,2026-08-09,,13:29,Europe/Berlin,St. Pauli,Greuther Fürth,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/1/fc-st-pauli-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043OV
+2,2026-08-14,,18:31,Europe/Berlin,Eintracht Braunschweig,Bochum,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/eintracht-braunschweig-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043P8
+2,2026-08-14,,18:30,Europe/Berlin,Holstein Kiel,St. Pauli,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/holstein-kiel-vs-fc-st-pauli/liveticker,DFL-MAT-J043P6
+2,2026-08-15,,13:00,Europe/Berlin,VfL Osnabrück,Magdeburg,0,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/vfl-osnabrueck-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043PA
+2,2026-08-15,,13:00,Europe/Berlin,Greuther Fürth,Nuremberg,2,4,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/spvgg-greuther-fuerth-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043P9
+2,2026-08-15,,13:00,Europe/Berlin,Hertha Berlin,Heidenheim,4,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/hertha-bsc-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043P4
+2,2026-08-15,,20:30,Europe/Berlin,Kaiserslautern,Karlsruhe,0,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/1-fc-kaiserslautern-vs-karlsruher-sc/liveticker,DFL-MAT-J043P3
+2,2026-08-16,,13:30,Europe/Berlin,Arminia Bielefeld,Energie Cottbus,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/dsc-arminia-bielefeld-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043P7
+2,2026-08-16,,13:30,Europe/Berlin,Dynamo Dresden,Darmstadt,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/sg-dynamo-dresden-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043P5
+2,2026-08-16,,13:30,Europe/Berlin,Hannover 96,Wolfsburg,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/2/hannover-96-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043P2
+3,2026-08-28,,18:29,Europe/Berlin,Eintracht Braunschweig,Hertha Berlin,3,5,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/eintracht-braunschweig-vs-hertha-bsc/liveticker,DFL-MAT-J043PI
+3,2026-08-28,,18:30,Europe/Berlin,Bochum,VfL Osnabrück,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/vfl-bochum-1848-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043PF
+3,2026-08-29,,13:00,Europe/Berlin,Energie Cottbus,Greuther Fürth,3,4,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/fc-energie-cottbus-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043PJ
+3,2026-08-29,,12:59,Europe/Berlin,Karlsruhe,Wolfsburg,2,5,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/karlsruher-sc-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043PG
+3,2026-08-29,,13:00,Europe/Berlin,Heidenheim,Dynamo Dresden,5,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/1-fc-heidenheim-1846-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043PC
+3,2026-08-29,,20:30,Europe/Berlin,Nuremberg,Arminia Bielefeld,4,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/1-fc-nuernberg-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043PE
+3,2026-08-30,,13:30,Europe/Berlin,Magdeburg,Holstein Kiel,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/1-fc-magdeburg-vs-holstein-kiel/liveticker,DFL-MAT-J043PH
+3,2026-08-30,,13:29,Europe/Berlin,Darmstadt,Hannover 96,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/sv-darmstadt-98-vs-hannover-96/liveticker,DFL-MAT-J043PD
+3,2026-08-30,,13:30,Europe/Berlin,St. Pauli,Kaiserslautern,1,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/3/fc-st-pauli-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043PB
+4,2026-09-04,,18:29,Europe/Berlin,Arminia Bielefeld,St. Pauli,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/dsc-arminia-bielefeld-vs-fc-st-pauli/liveticker,DFL-MAT-J043PQ
+4,2026-09-04,,18:30,Europe/Berlin,Hannover 96,Karlsruhe,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/hannover-96-vs-karlsruher-sc/liveticker,DFL-MAT-J043PL
+4,2026-09-05,,13:00,Europe/Berlin,Holstein Kiel,Nuremberg,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/holstein-kiel-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043PP
+4,2026-09-05,,13:00,Europe/Berlin,Kaiserslautern,Darmstadt,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/1-fc-kaiserslautern-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043PM
+4,2026-09-05,,13:00,Europe/Berlin,Wolfsburg,Energie Cottbus,4,4,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/vfl-wolfsburg-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043PK
+4,2026-09-05,,20:29,Europe/Berlin,Dynamo Dresden,Bochum,1,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/sg-dynamo-dresden-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043PO
+4,2026-09-06,,13:30,Europe/Berlin,VfL Osnabrück,Eintracht Braunschweig,3,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/vfl-osnabrueck-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043PS
+4,2026-09-06,,13:30,Europe/Berlin,Greuther Fürth,Heidenheim,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/spvgg-greuther-fuerth-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043PR
+4,2026-09-06,,13:30,Europe/Berlin,Hertha Berlin,Magdeburg,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/4/hertha-bsc-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043PN
+5,2026-09-11,,18:30,Europe/Berlin,Nuremberg,Hannover 96,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/1-fc-nuernberg-vs-hannover-96/liveticker,DFL-MAT-J043PW
+5,2026-09-11,,18:30,Europe/Berlin,Darmstadt,Arminia Bielefeld,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/sv-darmstadt-98-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043PV
+5,2026-09-12,,13:15,Europe/Berlin,Eintracht Braunschweig,Dynamo Dresden,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/eintracht-braunschweig-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043Q0
+5,2026-09-12,,13:00,Europe/Berlin,Magdeburg,Kaiserslautern,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/1-fc-magdeburg-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043PZ
+5,2026-09-12,,13:00,Europe/Berlin,Bochum,Greuther Fürth,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/vfl-bochum-1848-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043PX
+5,2026-09-12,,20:30,Europe/Berlin,St. Pauli,Wolfsburg,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/fc-st-pauli-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043PT
+5,2026-09-13,,13:30,Europe/Berlin,VfL Osnabrück,Hertha Berlin,1,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/vfl-osnabrueck-vs-hertha-bsc/liveticker,DFL-MAT-J043Q1
+5,2026-09-13,,13:30,Europe/Berlin,Karlsruhe,Energie Cottbus,0,3,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/karlsruher-sc-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043PY
+5,2026-09-13,,13:29,Europe/Berlin,Heidenheim,Holstein Kiel,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/5/1-fc-heidenheim-1846-vs-holstein-kiel/liveticker,DFL-MAT-J043PU
+6,2026-09-18,,18:29,Europe/Berlin,Greuther Fürth,Magdeburg,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/spvgg-greuther-fuerth-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043Q9
+6,2026-09-18,,18:30,Europe/Berlin,Wolfsburg,Darmstadt,5,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/vfl-wolfsburg-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043Q2
+6,2026-09-19,,13:00,Europe/Berlin,Holstein Kiel,VfL Osnabrück,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/holstein-kiel-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043Q7
+6,2026-09-19,,13:00,Europe/Berlin,Karlsruhe,Nuremberg,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/karlsruher-sc-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043Q5
+6,2026-09-19,,13:00,Europe/Berlin,Kaiserslautern,Eintracht Braunschweig,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/1-fc-kaiserslautern-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043Q4
+6,2026-09-19,,20:30,Europe/Berlin,Dynamo Dresden,Hertha Berlin,1,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/sg-dynamo-dresden-vs-hertha-bsc/liveticker,DFL-MAT-J043Q6
+6,2026-09-20,,13:29,Europe/Berlin,Energie Cottbus,St. Pauli,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/fc-energie-cottbus-vs-fc-st-pauli/liveticker,DFL-MAT-J043QA
+6,2026-09-20,,13:30,Europe/Berlin,Arminia Bielefeld,Heidenheim,2,2,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/dsc-arminia-bielefeld-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043Q8
+6,2026-09-20,,13:30,Europe/Berlin,Hannover 96,Bochum,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/6/hannover-96-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043Q3
+7,2026-10-09,,18:30,Europe/Berlin,Eintracht Braunschweig,Holstein Kiel,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/eintracht-braunschweig-vs-holstein-kiel/liveticker,DFL-MAT-J043QI
+7,2026-10-09,,18:30,Europe/Berlin,Heidenheim,Kaiserslautern,0,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/1-fc-heidenheim-1846-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043QC
+7,2026-10-10,,13:00,Europe/Berlin,VfL Osnabrück,Dynamo Dresden,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/vfl-osnabrueck-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043QJ
+7,2026-10-10,,13:00,Europe/Berlin,Magdeburg,Hannover 96,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/1-fc-magdeburg-vs-hannover-96/liveticker,DFL-MAT-J043QH
+7,2026-10-10,,12:59,Europe/Berlin,Darmstadt,Energie Cottbus,3,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/sv-darmstadt-98-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043QD
+7,2026-10-10,,20:31,Europe/Berlin,Nuremberg,Wolfsburg,4,4,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/1-fc-nuernberg-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043QF
+7,2026-10-11,,13:30,Europe/Berlin,Bochum,Arminia Bielefeld,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/vfl-bochum-1848-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043QG
+7,2026-10-11,,13:30,Europe/Berlin,Hertha Berlin,Greuther Fürth,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/hertha-bsc-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043QE
+7,2026-10-11,,13:31,Europe/Berlin,St. Pauli,Karlsruhe,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/7/fc-st-pauli-vs-karlsruher-sc/liveticker,DFL-MAT-J043QB
+8,2026-10-16,,18:30,Europe/Berlin,Energie Cottbus,Nuremberg,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/fc-energie-cottbus-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043QS
+8,2026-10-16,,18:30,Europe/Berlin,Holstein Kiel,Hertha Berlin,0,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/holstein-kiel-vs-hertha-bsc/liveticker,DFL-MAT-J043QP
+8,2026-10-17,,13:00,Europe/Berlin,Greuther Fürth,Eintracht Braunschweig,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/spvgg-greuther-fuerth-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043QR
+8,2026-10-17,,13:00,Europe/Berlin,Kaiserslautern,Bochum,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/1-fc-kaiserslautern-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043QM
+8,2026-10-17,,13:00,Europe/Berlin,Wolfsburg,Heidenheim,3,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/vfl-wolfsburg-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043QK
+8,2026-10-17,,20:29,Europe/Berlin,Hannover 96,St. Pauli,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/hannover-96-vs-fc-st-pauli/liveticker,DFL-MAT-J043QL
+8,2026-10-18,,13:29,Europe/Berlin,Arminia Bielefeld,VfL Osnabrück,2,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/dsc-arminia-bielefeld-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043QQ
+8,2026-10-18,,13:30,Europe/Berlin,Dynamo Dresden,Magdeburg,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/sg-dynamo-dresden-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043QO
+8,2026-10-18,,13:29,Europe/Berlin,Karlsruhe,Darmstadt,4,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/8/karlsruher-sc-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043QN
+9,2026-10-23,,18:30,Europe/Berlin,Bochum,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/vfl-bochum-1848-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043QX
+9,2026-10-23,,18:30,Europe/Berlin,Darmstadt,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/sv-darmstadt-98-vs-fc-st-pauli/liveticker,DFL-MAT-J043QU
+9,2026-10-24,,13:00,Europe/Berlin,Magdeburg,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/1-fc-magdeburg-vs-karlsruher-sc/liveticker,DFL-MAT-J043QZ
+9,2026-10-24,,13:00,Europe/Berlin,Hertha Berlin,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/hertha-bsc-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043QV
+9,2026-10-24,,13:00,Europe/Berlin,Heidenheim,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/1-fc-heidenheim-1846-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043QT
+9,2026-10-24,,20:30,Europe/Berlin,Nuremberg,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/1-fc-nuernberg-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043QW
+9,2026-10-25,,13:30,Europe/Berlin,VfL Osnabrück,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/vfl-osnabrueck-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043R1
+9,2026-10-25,,13:30,Europe/Berlin,Eintracht Braunschweig,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/eintracht-braunschweig-vs-hannover-96/liveticker,DFL-MAT-J043R0
+9,2026-10-25,,13:30,Europe/Berlin,Holstein Kiel,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/holstein-kiel-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043QY
+10,2026-10-30,,18:30,Europe/Berlin,Energie Cottbus,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/fc-energie-cottbus-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043RA
+10,2026-10-30,,18:30,Europe/Berlin,Arminia Bielefeld,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/dsc-arminia-bielefeld-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043R8
+10,2026-10-31,,13:00,Europe/Berlin,Kaiserslautern,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/1-fc-kaiserslautern-vs-hertha-bsc/liveticker,DFL-MAT-J043R6
+10,2026-10-31,,13:00,Europe/Berlin,Darmstadt,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/sv-darmstadt-98-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043R5
+10,2026-10-31,,13:00,Europe/Berlin,Wolfsburg,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/vfl-wolfsburg-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043R2
+10,2026-10-31,,20:30,Europe/Berlin,Karlsruhe,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/karlsruher-sc-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043R7
+10,2026-11-01,,13:30,Europe/Berlin,Greuther Fürth,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/spvgg-greuther-fuerth-vs-holstein-kiel/liveticker,DFL-MAT-J043R9
+10,2026-11-01,,13:30,Europe/Berlin,Hannover 96,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/hannover-96-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043R4
+10,2026-11-01,,13:30,Europe/Berlin,St. Pauli,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/fc-st-pauli-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043R3
+11,2026-11-06,,18:30,Europe/Berlin,Eintracht Braunschweig,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/eintracht-braunschweig-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043RI
+11,2026-11-06,,18:30,Europe/Berlin,Dynamo Dresden,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/sg-dynamo-dresden-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043RF
+11,2026-11-07,,13:00,Europe/Berlin,VfL Osnabrück,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/vfl-osnabrueck-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043RJ
+11,2026-11-07,,13:00,Europe/Berlin,Holstein Kiel,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/holstein-kiel-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043RG
+11,2026-11-07,,13:00,Europe/Berlin,Nuremberg,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/1-fc-nuernberg-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043RD
+11,2026-11-07,,20:30,Europe/Berlin,Hertha Berlin,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/hertha-bsc-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043RC
+11,2026-11-08,,13:30,Europe/Berlin,Magdeburg,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/1-fc-magdeburg-vs-fc-st-pauli/liveticker,DFL-MAT-J043RH
+11,2026-11-08,,13:30,Europe/Berlin,Bochum,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/vfl-bochum-1848-vs-karlsruher-sc/liveticker,DFL-MAT-J043RE
+11,2026-11-08,,13:30,Europe/Berlin,Heidenheim,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/1-fc-heidenheim-1846-vs-hannover-96/liveticker,DFL-MAT-J043RB
+12,2026-11-20,,18:30,Europe/Berlin,Arminia Bielefeld,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/dsc-arminia-bielefeld-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043RR
+12,2026-11-20,,18:30,Europe/Berlin,Darmstadt,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/sv-darmstadt-98-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043RN
+12,2026-11-21,,13:00,Europe/Berlin,Nuremberg,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-nuernberg-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043RP
+12,2026-11-21,,13:00,Europe/Berlin,Hannover 96,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/hannover-96-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043RM
+12,2026-11-21,,13:00,Europe/Berlin,Wolfsburg,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/vfl-wolfsburg-vs-holstein-kiel/liveticker,DFL-MAT-J043RK
+12,2026-11-21,,20:30,Europe/Berlin,St. Pauli,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/fc-st-pauli-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043RL
+12,2026-11-22,,13:30,Europe/Berlin,Energie Cottbus,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/fc-energie-cottbus-vs-hertha-bsc/liveticker,DFL-MAT-J043RS
+12,2026-11-22,,13:30,Europe/Berlin,Karlsruhe,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/karlsruher-sc-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043RQ
+12,2026-11-22,,13:30,Europe/Berlin,Kaiserslautern,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-kaiserslautern-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043RO
+13,2026-11-27,,18:30,Europe/Berlin,Bochum,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/vfl-bochum-1848-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043RV
+13,2026-11-27,,18:30,Europe/Berlin,Heidenheim,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/1-fc-heidenheim-1846-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043RT
+13,2026-11-28,,13:00,Europe/Berlin,Holstein Kiel,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/holstein-kiel-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043RX
+13,2026-11-28,,13:00,Europe/Berlin,Dynamo Dresden,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/sg-dynamo-dresden-vs-fc-st-pauli/liveticker,DFL-MAT-J043RW
+13,2026-11-28,,13:00,Europe/Berlin,Hertha Berlin,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/hertha-bsc-vs-karlsruher-sc/liveticker,DFL-MAT-J043RU
+13,2026-11-28,,20:30,Europe/Berlin,VfL Osnabrück,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/vfl-osnabrueck-vs-hannover-96/liveticker,DFL-MAT-J043S1
+13,2026-11-29,,13:30,Europe/Berlin,Greuther Fürth,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/spvgg-greuther-fuerth-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043S0
+13,2026-11-29,,13:30,Europe/Berlin,Eintracht Braunschweig,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/eintracht-braunschweig-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043RZ
+13,2026-11-29,,13:30,Europe/Berlin,Magdeburg,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/13/1-fc-magdeburg-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043RY
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,Energie Cottbus,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/fc-energie-cottbus-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043SA
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,Arminia Bielefeld,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/dsc-arminia-bielefeld-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043S9
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,Karlsruhe,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/karlsruher-sc-vs-holstein-kiel/liveticker,DFL-MAT-J043S8
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,Nuremberg,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/1-fc-nuernberg-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043S7
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,Kaiserslautern,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/1-fc-kaiserslautern-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043S6
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,Darmstadt,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/sv-darmstadt-98-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043S5
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,Hannover 96,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/hannover-96-vs-hertha-bsc/liveticker,DFL-MAT-J043S4
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,St. Pauli,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/fc-st-pauli-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043S3
+14,,Fri 04 Dec – Sun 06 Dec,,Europe/Berlin,Wolfsburg,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14/vfl-wolfsburg-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043S2
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,VfL Osnabrück,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/vfl-osnabrueck-vs-fc-st-pauli/liveticker,DFL-MAT-J043SJ
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,Greuther Fürth,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/spvgg-greuther-fuerth-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043SI
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,Eintracht Braunschweig,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/eintracht-braunschweig-vs-karlsruher-sc/liveticker,DFL-MAT-J043SH
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,Magdeburg,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/1-fc-magdeburg-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043SG
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,Arminia Bielefeld,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/dsc-arminia-bielefeld-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043SF
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,Holstein Kiel,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/holstein-kiel-vs-hannover-96/liveticker,DFL-MAT-J043SE
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,Dynamo Dresden,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/sg-dynamo-dresden-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043SD
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,Bochum,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/vfl-bochum-1848-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043SC
+15,,Fri 11 Dec – Sun 13 Dec,,Europe/Berlin,Hertha Berlin,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/15/hertha-bsc-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043SB
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,Energie Cottbus,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/fc-energie-cottbus-vs-holstein-kiel/liveticker,DFL-MAT-J043SS
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,Karlsruhe,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/karlsruher-sc-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043SR
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,Bochum,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/vfl-bochum-1848-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043SQ
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,Nuremberg,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/1-fc-nuernberg-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043SP
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,Darmstadt,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/sv-darmstadt-98-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043SO
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,Hannover 96,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/hannover-96-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043SN
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,Heidenheim,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/1-fc-heidenheim-1846-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043SM
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,St. Pauli,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/fc-st-pauli-vs-hertha-bsc/liveticker,DFL-MAT-J043SL
+16,,Fri 18 Dec – Sun 20 Dec,,Europe/Berlin,Wolfsburg,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/16/vfl-wolfsburg-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043SK
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,VfL Osnabrück,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/vfl-osnabrueck-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043T1
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,Greuther Fürth,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/spvgg-greuther-fuerth-vs-karlsruher-sc/liveticker,DFL-MAT-J043T0
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,Eintracht Braunschweig,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/eintracht-braunschweig-vs-fc-st-pauli/liveticker,DFL-MAT-J043SZ
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,Magdeburg,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/1-fc-magdeburg-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043SY
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,Arminia Bielefeld,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/dsc-arminia-bielefeld-vs-hannover-96/liveticker,DFL-MAT-J043SX
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,Holstein Kiel,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/holstein-kiel-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043SW
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,Dynamo Dresden,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/sg-dynamo-dresden-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043SV
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,Hertha Berlin,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/hertha-bsc-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043SU
+17,,Fri 15 Jan – Sun 17 Jan,,Europe/Berlin,Kaiserslautern,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/17/1-fc-kaiserslautern-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043ST
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,VfL Osnabrück,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/vfl-osnabrueck-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043TA
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,Greuther Fürth,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/spvgg-greuther-fuerth-vs-fc-st-pauli/liveticker,DFL-MAT-J043T9
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,Eintracht Braunschweig,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/eintracht-braunschweig-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043T8
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,Arminia Bielefeld,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/dsc-arminia-bielefeld-vs-karlsruher-sc/liveticker,DFL-MAT-J043T7
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,Holstein Kiel,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/holstein-kiel-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043T6
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,Dynamo Dresden,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/sg-dynamo-dresden-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043T5
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,Hertha Berlin,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/hertha-bsc-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043T4
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,Kaiserslautern,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/1-fc-kaiserslautern-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043T3
+18,,Fri 22 Jan – Sun 24 Jan,,Europe/Berlin,Hannover 96,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/18/hannover-96-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043T2
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,Energie Cottbus,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/fc-energie-cottbus-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043TJ
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,Magdeburg,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/1-fc-magdeburg-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043TI
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,Karlsruhe,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/karlsruher-sc-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043TH
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,Bochum,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/vfl-bochum-1848-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043TG
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,Nuremberg,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/1-fc-nuernberg-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043TF
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,Darmstadt,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/sv-darmstadt-98-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043TE
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,Heidenheim,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/1-fc-heidenheim-1846-vs-hertha-bsc/liveticker,DFL-MAT-J043TD
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,St. Pauli,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/fc-st-pauli-vs-holstein-kiel/liveticker,DFL-MAT-J043TC
+19,,Fri 29 Jan – Sun 31 Jan,,Europe/Berlin,Wolfsburg,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/19/vfl-wolfsburg-vs-hannover-96/liveticker,DFL-MAT-J043TB
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,VfL Osnabrück,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/vfl-osnabrueck-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043TS
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,Greuther Fürth,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/spvgg-greuther-fuerth-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043TR
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,Arminia Bielefeld,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/dsc-arminia-bielefeld-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043TQ
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,Holstein Kiel,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/holstein-kiel-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043TP
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,Dynamo Dresden,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/sg-dynamo-dresden-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043TO
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,Hertha Berlin,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/hertha-bsc-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043TN
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,Kaiserslautern,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/1-fc-kaiserslautern-vs-fc-st-pauli/liveticker,DFL-MAT-J043TM
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,Hannover 96,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/hannover-96-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043TL
+20,,Fri 05 Feb – Sun 07 Feb,,Europe/Berlin,Wolfsburg,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/20/vfl-wolfsburg-vs-karlsruher-sc/liveticker,DFL-MAT-J043TK
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,Energie Cottbus,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/fc-energie-cottbus-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043U1
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,Eintracht Braunschweig,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/eintracht-braunschweig-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043U0
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,Magdeburg,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/1-fc-magdeburg-vs-hertha-bsc/liveticker,DFL-MAT-J043TZ
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,Karlsruhe,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/karlsruher-sc-vs-hannover-96/liveticker,DFL-MAT-J043TY
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,Bochum,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/vfl-bochum-1848-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043TX
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,Nuremberg,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/1-fc-nuernberg-vs-holstein-kiel/liveticker,DFL-MAT-J043TW
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,Darmstadt,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/sv-darmstadt-98-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043TV
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,Heidenheim,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/1-fc-heidenheim-1846-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043TU
+21,,Fri 12 Feb – Sun 14 Feb,,Europe/Berlin,St. Pauli,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/21/fc-st-pauli-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043TT
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Energie Cottbus,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/fc-energie-cottbus-vs-karlsruher-sc/liveticker,DFL-MAT-J043UA
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Greuther Fürth,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/spvgg-greuther-fuerth-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043U9
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Arminia Bielefeld,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/dsc-arminia-bielefeld-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043U8
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Holstein Kiel,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/holstein-kiel-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043U7
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Dynamo Dresden,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/sg-dynamo-dresden-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043U6
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Hertha Berlin,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/hertha-bsc-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043U5
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Kaiserslautern,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/1-fc-kaiserslautern-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043U4
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Hannover 96,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/hannover-96-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043U3
+22,,Fri 19 Feb – Sun 21 Feb,,Europe/Berlin,Wolfsburg,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/22/vfl-wolfsburg-vs-fc-st-pauli/liveticker,DFL-MAT-J043U2
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,VfL Osnabrück,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/vfl-osnabrueck-vs-holstein-kiel/liveticker,DFL-MAT-J043UJ
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,Eintracht Braunschweig,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/eintracht-braunschweig-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043UI
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,Magdeburg,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/1-fc-magdeburg-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043UH
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,Bochum,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/vfl-bochum-1848-vs-hannover-96/liveticker,DFL-MAT-J043UG
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,Nuremberg,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/1-fc-nuernberg-vs-karlsruher-sc/liveticker,DFL-MAT-J043UF
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,Hertha Berlin,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/hertha-bsc-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043UE
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,Darmstadt,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/sv-darmstadt-98-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043UD
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,Heidenheim,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/1-fc-heidenheim-1846-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043UC
+23,,Fri 26 Feb – Sun 28 Feb,,Europe/Berlin,St. Pauli,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/23/fc-st-pauli-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043UB
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Energie Cottbus,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/fc-energie-cottbus-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043US
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Greuther Fürth,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/spvgg-greuther-fuerth-vs-hertha-bsc/liveticker,DFL-MAT-J043UR
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Arminia Bielefeld,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/dsc-arminia-bielefeld-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043UQ
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Holstein Kiel,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/holstein-kiel-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043UP
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Dynamo Dresden,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/sg-dynamo-dresden-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043UO
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Karlsruhe,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/karlsruher-sc-vs-fc-st-pauli/liveticker,DFL-MAT-J043UN
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Kaiserslautern,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/1-fc-kaiserslautern-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043UM
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Hannover 96,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/hannover-96-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043UL
+24,,Tue 02 Mar – Thu 04 Mar,,Europe/Berlin,Wolfsburg,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/24/vfl-wolfsburg-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043UK
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,VfL Osnabrück,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/vfl-osnabrueck-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043V1
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,Eintracht Braunschweig,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/eintracht-braunschweig-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043V0
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,Magdeburg,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/1-fc-magdeburg-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043UZ
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,Bochum,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/vfl-bochum-1848-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043UY
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,Nuremberg,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/1-fc-nuernberg-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043UX
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,Hertha Berlin,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/hertha-bsc-vs-holstein-kiel/liveticker,DFL-MAT-J043UW
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,Darmstadt,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/sv-darmstadt-98-vs-karlsruher-sc/liveticker,DFL-MAT-J043UV
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,Heidenheim,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/1-fc-heidenheim-1846-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043UU
+25,,Fri 05 Mar – Sun 07 Mar,,Europe/Berlin,St. Pauli,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/25/fc-st-pauli-vs-hannover-96/liveticker,DFL-MAT-J043UT
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,Energie Cottbus,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/fc-energie-cottbus-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043VA
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,Greuther Fürth,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/spvgg-greuther-fuerth-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043V9
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,Arminia Bielefeld,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/dsc-arminia-bielefeld-vs-hertha-bsc/liveticker,DFL-MAT-J043V8
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,Dynamo Dresden,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/sg-dynamo-dresden-vs-holstein-kiel/liveticker,DFL-MAT-J043V7
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,Karlsruhe,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/karlsruher-sc-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043V6
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,Kaiserslautern,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/1-fc-kaiserslautern-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043V5
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,Hannover 96,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/hannover-96-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043V4
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,St. Pauli,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/fc-st-pauli-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043V3
+26,,Fri 12 Mar – Sun 14 Mar,,Europe/Berlin,Wolfsburg,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/26/vfl-wolfsburg-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043V2
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,VfL Osnabrück,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/vfl-osnabrueck-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043VJ
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,Eintracht Braunschweig,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/eintracht-braunschweig-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043VI
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,Magdeburg,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/1-fc-magdeburg-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043VH
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,Holstein Kiel,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/holstein-kiel-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043VG
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,Dynamo Dresden,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/sg-dynamo-dresden-vs-hannover-96/liveticker,DFL-MAT-J043VF
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,Bochum,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/vfl-bochum-1848-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043VE
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,Nuremberg,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/1-fc-nuernberg-vs-fc-st-pauli/liveticker,DFL-MAT-J043VD
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,Hertha Berlin,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/hertha-bsc-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043VC
+27,,Fri 19 Mar – Sun 21 Mar,,Europe/Berlin,Heidenheim,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/27/1-fc-heidenheim-1846-vs-karlsruher-sc/liveticker,DFL-MAT-J043VB
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,Energie Cottbus,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/fc-energie-cottbus-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043VS
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,Greuther Fürth,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/spvgg-greuther-fuerth-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043VR
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,Arminia Bielefeld,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/dsc-arminia-bielefeld-vs-holstein-kiel/liveticker,DFL-MAT-J043VQ
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,Karlsruhe,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/karlsruher-sc-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043VP
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,Kaiserslautern,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/1-fc-kaiserslautern-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043VO
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,Darmstadt,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/sv-darmstadt-98-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043VN
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,Hannover 96,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/hannover-96-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043VM
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,St. Pauli,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/fc-st-pauli-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043VL
+28,,Fri 02 Apr – Sun 04 Apr,,Europe/Berlin,Wolfsburg,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/28/vfl-wolfsburg-vs-hertha-bsc/liveticker,DFL-MAT-J043VK
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,VfL Osnabrück,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/vfl-osnabrueck-vs-karlsruher-sc/liveticker,DFL-MAT-J043W1
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,Greuther Fürth,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/spvgg-greuther-fuerth-vs-hannover-96/liveticker,DFL-MAT-J043W0
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,Eintracht Braunschweig,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/eintracht-braunschweig-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043VZ
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,Magdeburg,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/1-fc-magdeburg-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043VY
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,Holstein Kiel,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/holstein-kiel-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043VX
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,Dynamo Dresden,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/sg-dynamo-dresden-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043VW
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,Bochum,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/vfl-bochum-1848-vs-fc-st-pauli/liveticker,DFL-MAT-J043VV
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,Hertha Berlin,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/hertha-bsc-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043VU
+29,,Fri 09 Apr – Sun 11 Apr,,Europe/Berlin,Heidenheim,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/29/1-fc-heidenheim-1846-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043VT
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,Energie Cottbus,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/fc-energie-cottbus-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043WA
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,Arminia Bielefeld,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/dsc-arminia-bielefeld-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043W9
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,Karlsruhe,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/karlsruher-sc-vs-hertha-bsc/liveticker,DFL-MAT-J043W8
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,Nuremberg,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/1-fc-nuernberg-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043W7
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,Kaiserslautern,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/1-fc-kaiserslautern-vs-holstein-kiel/liveticker,DFL-MAT-J043W6
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,Darmstadt,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/sv-darmstadt-98-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043W5
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,Hannover 96,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/hannover-96-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043W4
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,St. Pauli,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/fc-st-pauli-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043W3
+30,,Fri 16 Apr – Sun 18 Apr,,Europe/Berlin,Wolfsburg,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/30/vfl-wolfsburg-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043W2
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,VfL Osnabrück,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/vfl-osnabrueck-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043WJ
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,Greuther Fürth,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/spvgg-greuther-fuerth-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043WI
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,Eintracht Braunschweig,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/eintracht-braunschweig-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043WH
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,Magdeburg,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/1-fc-magdeburg-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043WG
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,Holstein Kiel,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/holstein-kiel-vs-karlsruher-sc/liveticker,DFL-MAT-J043WF
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,Dynamo Dresden,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/sg-dynamo-dresden-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043WE
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,Bochum,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/vfl-bochum-1848-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043WD
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,Hertha Berlin,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/hertha-bsc-vs-hannover-96/liveticker,DFL-MAT-J043WC
+31,,Fri 23 Apr – Sun 25 Apr,,Europe/Berlin,Heidenheim,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/31/1-fc-heidenheim-1846-vs-fc-st-pauli/liveticker,DFL-MAT-J043WB
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,Energie Cottbus,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/fc-energie-cottbus-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043WS
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,Karlsruhe,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/karlsruher-sc-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043WR
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,Nuremberg,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/1-fc-nuernberg-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043WQ
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,Kaiserslautern,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/1-fc-kaiserslautern-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043WP
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,Darmstadt,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/sv-darmstadt-98-vs-hertha-bsc/liveticker,DFL-MAT-J043WO
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,Hannover 96,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/hannover-96-vs-holstein-kiel/liveticker,DFL-MAT-J043WN
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,Heidenheim,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/1-fc-heidenheim-1846-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043WM
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,St. Pauli,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/fc-st-pauli-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043WL
+32,,Fri 07 May – Sun 09 May,,Europe/Berlin,Wolfsburg,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/32/vfl-wolfsburg-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043WK
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,VfL Osnabrück,Nuremberg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/vfl-osnabrueck-vs-1-fc-nuernberg/liveticker,DFL-MAT-J043X1
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,Greuther Fürth,Darmstadt,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/spvgg-greuther-fuerth-vs-sv-darmstadt-98/liveticker,DFL-MAT-J043X0
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,Eintracht Braunschweig,Heidenheim,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/eintracht-braunschweig-vs-1-fc-heidenheim-1846/liveticker,DFL-MAT-J043WZ
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,Magdeburg,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/1-fc-magdeburg-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043WY
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,Arminia Bielefeld,Wolfsburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/dsc-arminia-bielefeld-vs-vfl-wolfsburg/liveticker,DFL-MAT-J043WX
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,Holstein Kiel,Energie Cottbus,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/holstein-kiel-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043WW
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,Dynamo Dresden,Karlsruhe,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/sg-dynamo-dresden-vs-karlsruher-sc/liveticker,DFL-MAT-J043WV
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,Hertha Berlin,St. Pauli,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/hertha-bsc-vs-fc-st-pauli/liveticker,DFL-MAT-J043WU
+33,,Fri 14 May – Sun 16 May,,Europe/Berlin,Kaiserslautern,Hannover 96,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/33/1-fc-kaiserslautern-vs-hannover-96/liveticker,DFL-MAT-J043WT
+34,2027-05-23,,15:30,Europe/Berlin,Energie Cottbus,Kaiserslautern,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/fc-energie-cottbus-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043XA
+34,2027-05-23,,15:30,Europe/Berlin,Karlsruhe,Greuther Fürth,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/karlsruher-sc-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043X9
+34,2027-05-23,,15:30,Europe/Berlin,Bochum,Holstein Kiel,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/vfl-bochum-1848-vs-holstein-kiel/liveticker,DFL-MAT-J043X8
+34,2027-05-23,,15:30,Europe/Berlin,Nuremberg,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/1-fc-nuernberg-vs-hertha-bsc/liveticker,DFL-MAT-J043X7
+34,2027-05-23,,15:30,Europe/Berlin,Darmstadt,VfL Osnabrück,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/sv-darmstadt-98-vs-vfl-osnabrueck/liveticker,DFL-MAT-J043X6
+34,2027-05-23,,15:30,Europe/Berlin,Hannover 96,Arminia Bielefeld,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/hannover-96-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043X5
+34,2027-05-23,,15:30,Europe/Berlin,Heidenheim,Magdeburg,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/1-fc-heidenheim-1846-vs-1-fc-magdeburg/liveticker,DFL-MAT-J043X4
+34,2027-05-23,,15:30,Europe/Berlin,St. Pauli,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/fc-st-pauli-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043X3
+34,2027-05-23,,15:30,Europe/Berlin,Wolfsburg,Dynamo Dresden,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/34/vfl-wolfsburg-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043X2

@@ -29,12 +29,12 @@ for source in raw:
     r=dict(source); r["round"]=int(r["round"])
     if not 1<=r["round"]<=34: raise SystemExit(f"Invalid round: {r}")
     if r["home"]==r["away"] or not r["home"] or not r["away"]: raise SystemExit(f"Invalid fixture: {r}")
-    if r["status"] not in {"finished","scheduled"}: raise SystemExit(f"Invalid status: {r['status']}")
+    if r["status"] not in {"finished","scheduled","in_progress","postponed","cancelled","abandoned"}: raise SystemExit(f"Invalid status: {r['status']}")
     if r["status"]=="finished":
         if not r["home_goals"].isdigit() or not r["away_goals"].isdigit(): raise SystemExit(f"Final score missing/invalid: {r}")
         r["home_goals"]=int(r["home_goals"]); r["away_goals"]=int(r["away_goals"])
         if min(r["home_goals"],r["away_goals"])<0: raise SystemExit(f"Negative score: {r}")
-    elif r["home_goals"] or r["away_goals"]: raise SystemExit(f"Scheduled match must have blank score: {r}")
+    elif r["home_goals"] or r["away_goals"]: raise SystemExit(f"Nonfinal match must have blank score: {r}")
     # Add a BRT presentation time, preserving the official local time and zone.
     r["kickoff_brt"]=""
     if r["kickoff_time"]:
@@ -56,8 +56,7 @@ for rnd in range(1,35):
 for club in clubs:
     if sum(r["home"]==club for r in rows)!=17 or sum(r["away"]==club for r in rows)!=17: raise SystemExit(f"Invalid venue split: {club}")
 finished=[r for r in rows if r["status"]=="finished"]
-if len(finished)!=72 or meta["coverage"]["final_results"]!=len(finished): raise SystemExit(f"Expected 72 confirmed finals, found {len(finished)}")
-if any(r["round"]>8 for r in finished) or any(r["round"]<=8 and r["status"]!="finished" for r in rows): raise SystemExit("Rounds 1–8 must be final; later rounds must have no score yet")
+if len(finished)!=int(meta["coverage"]["final_results"]): raise SystemExit(f"Final-result count differs from current source metadata: {len(finished)}")
 stats={c:{"MP":0,"W":0,"D":0,"L":0,"GF":0,"GA":0,"Pts":0} for c in clubs}
 for r in finished:
     h,a=stats[r["home"]],stats[r["away"]]; hg,ag=r["home_goals"],r["away_goals"]
@@ -69,12 +68,11 @@ ordered=sorted(clubs,key=lambda c:(-stats[c]["Pts"],-(stats[c]["GF"]-stats[c]["G
 computed=[]
 for pos,c in enumerate(ordered,1):
     s=stats[c];computed.append({"club":c,"position":pos,**s,"GD":s["GF"]-s["GA"]})
-# Validate the saved 12:11/12:20 BRT snapshots against the result-derived table.
-# Later standings-page responses are separately logged because both lagged the Sunday finals.
+# Validate current official and independently score-derived DFL/ESPN tables against final results.
 recon=meta.get("result_reconciliation",{})
 if recon.get("table_page_discrepancy",{}).get("reported_total_played_matches")!=len(finished): raise SystemExit("Current DFL table snapshot must equal the score-derived final count")
 checks=recon.get("cross_checked_disputed_fixtures",[])
-if len(checks)!=3: raise SystemExit("Expected three fixture-level discrepancy checks")
+if len(checks)!=len(finished): raise SystemExit(f"Expected one independent ESPN check for every final: {len(checks)} vs {len(finished)}")
 for item in checks:
     key=(int(item["round"]),item["home"],item["away"])
     found=[r for r in rows if (r["round"],r["home"],r["away"])==key]
@@ -96,5 +94,12 @@ rows.sort(key=lambda r:(r["round"],r["date"] or r["date_range"],r["home"]))
 data=json.dumps(rows,ensure_ascii=False,separators=(",",":" )).replace("</","<\\/")
 metadata=json.dumps(meta,ensure_ascii=False,separators=(",",":" )).replace("</","<\\/")
 page=template.replace("__DATA__",data).replace("__META__",metadata)
+cutoff=meta["as_of"]
+datepart,timepart,*_=cutoff.split();year,month,day=datepart.split('-')
+months=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']
+cutoff_date=f'{int(day)} {months[int(month)-1]} {year}'
+cutoff_label=f'{cutoff_date}, {timepart} BRT'
+for marker,value in {'__FINAL_COUNT__':str(len(finished)),'__CUTOFF_LABEL__':cutoff_label,'__CUTOFF_TIME__':f'{timepart} BRT','__CUTOFF_DATE__':cutoff_date}.items():page=page.replace(marker,value)
+if any(x in page for x in ('__DATA__','__META__','__FINAL_COUNT__','__CUTOFF_LABEL__','__CUTOFF_TIME__','__CUTOFF_DATE__')):raise SystemExit('Unreplaced dynamic dashboard placeholder')
 OUT_PATH.write_text(page,encoding="utf-8")
-print(json.dumps({"output":str(OUT_PATH),"fixtures":len(rows),"confirmed_results":len(finished),"scheduled":len(rows)-len(finished),"clubs":len(clubs),"rounds":34,"saved_12_11_12_20_table_snapshots":"PASS 18/18 clubs against the 72-result dataset (historical snapshots; not the later stale standings response)","current_official_table":"PASS: current DFL live table reconciles with all 72 score-derived finals; the earlier 69-match response is retained as historical evidence","fixture_level_reconciliation":"PASS 3/3 disputed finals match unique CSV rows and DFL+ESPN source links","schedule":"PASS 306 unique fixtures, 9 per round, 17 home/away per club"},ensure_ascii=False,indent=2))
+print(json.dumps({"output":str(OUT_PATH),"fixtures":len(rows),"confirmed_results":len(finished),"scheduled":sum(r['status']=='scheduled' for r in rows),"clubs":len(clubs),"rounds":34,"official_table":"PASS 18/18 current DFL table matches final-only results","independent_ESPN_scores":f"PASS {len(checks)}/{len(finished)} exact FullTime score checks","independent_ESPN_table":"PASS 18/18","schedule":"PASS 306 unique fixtures, 9 per round, each club exactly once per round"},ensure_ascii=False,indent=2))
