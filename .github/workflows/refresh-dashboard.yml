@@ -1,0 +1,72 @@
+name: Refresh 2. Bundesliga dashboard
+
+on:
+  schedule:
+    - cron: '10 9 * * *' # 06:10 America/Sao_Paulo
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-2bundesliga-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install collector dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Collect official data and cross-check results
+        run: python refresh_2bundesliga.py
+
+      - name: Rebuild and validate dashboard
+        run: |
+          python build_2bundesliga_2026_27_dashboard.py
+          python - <<'PY'
+          import csv, json
+          from pathlib import Path
+          meta=json.loads(Path('2bundesliga_2026_27_sources_validation.json').read_text())
+          report=json.loads(Path('2bundesliga_2026_27_validation.json').read_text())
+          rows=list(csv.DictReader(Path('2bundesliga_2026_27_results_verified.csv').open()))
+          finals=sum(r['status']=='finished' for r in rows)
+          assert len(rows)==306 and meta['coverage']['official_fixtures']==306
+          assert finals==meta['coverage']['final_results']==report['final_results']
+          assert meta['validation']['status']=='PASS'
+          assert report['official_table_reconciliation']['mismatches']==0
+          assert report['independent_ESPN_scores']['checked']==finals
+          assert report['independent_ESPN_scores']['mismatches']==0
+          assert report['independent_ESPN_table']['mismatches']==0
+          assert len(meta['result_reconciliation']['cross_checked_disputed_fixtures'])==finals
+          html=Path('index.html').read_text()
+          assert all(x not in html for x in ('__DATA__','__META__','__FINAL_COUNT__','__CUTOFF_LABEL__'))
+          assert len(html)>30000
+          print(f'PASS: {len(rows)} fixtures; {finals} finals; DFL+ESPN reconciled; dashboard generated.')
+          PY
+
+      - name: Commit validated updates
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md requirements.txt refresh_2bundesliga.py build_2bundesliga_2026_27_dashboard.py 2bundesliga_2026_27_dashboard_template.html index.html 2bundesliga_2026_27_results_verified.csv 2bundesliga_2026_27_sources_validation.json 2bundesliga_2026_27_validation.json 2bundesliga_2026_27_validation.txt source_snapshots
+          if git diff --cached --quiet; then
+            echo 'No validated dashboard changes to commit.'
+          else
+            git commit -m "Refresh verified 2. Bundesliga dashboard data"
+            git push origin HEAD:main
+          fi

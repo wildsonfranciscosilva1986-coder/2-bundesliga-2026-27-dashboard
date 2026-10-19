@@ -10,9 +10,9 @@ Standalone, mobile-first interactive panel for the German second division only. 
 - Every final score is independently checked against an ESPN `STATUS_FULL_TIME` event; a separate table recomputed from ESPN scores must also match all 18 clubs.
 - Any missing fixture, unknown status, API mismatch, score discrepancy or table disagreement stops the run before an update is committed.
 
-## Planned automatic refresh
+## Automatic refresh
 
-The local collector and builder are prepared for a GitHub Actions workflow scheduled daily at **06:10 America/Sao_Paulo (09:10 UTC)** with manual dispatch. The workflow is **not yet active in GitHub**. Before activation, it must retrieve every DFL matchday and the current table, cross-check all finals against ESPN, rebuild and validate the page, and commit only if every check passes. A failed check must leave the public page unchanged. It should update `main` in place to preserve the existing Pages URL.
+GitHub Actions is configured to run daily at **06:10 America/Sao_Paulo (09:10 UTC)** and supports manual dispatch. The first manual run is the end-to-end check before treating the schedule as proven: it retrieves every DFL matchday and the current table, cross-checks all finals against ESPN, rebuilds and validates the page, then commits only if every check passes. A failed check leaves the public page unchanged. Updates are committed to `main` in place, preserving the existing Pages URL.
 
 The exact cutoff and result counts are regenerated in the metadata, validation report and page on each successful run. Collector dependencies are listed in `requirements.txt`.
 
