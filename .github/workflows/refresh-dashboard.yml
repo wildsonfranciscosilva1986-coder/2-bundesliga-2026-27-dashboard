@@ -4,6 +4,8 @@ on:
   schedule:
     - cron: '10 9 * * *' # 06:10 America/Sao_Paulo
   workflow_dispatch:
+  repository_dispatch:
+    types: [refresh-2bundesliga]
 
 permissions:
   contents: write
