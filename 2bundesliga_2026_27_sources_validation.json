@@ -1,9 +1,9 @@
 {
   "competition": "2. Bundesliga",
   "season": "2026/27",
-  "as_of": "2026-10-18 14:22 America/Sao_Paulo",
-  "result_cutoff": "2026-10-18 14:22 America/Sao_Paulo",
-  "official_table_captured": "2026-10-18 12:11 BRT (the originally saved 72-game table snapshot; a later live-table response remained at 69 and was recorded separately)",
+  "as_of": "2026-10-19 08:16 America/Sao_Paulo",
+  "result_cutoff": "2026-10-19 08:16 America/Sao_Paulo",
+  "official_table_captured": "2026-10-19 08:16 America/Sao_Paulo (current DFL 72-match live table)",
   "independent_table_captured": "2026-10-18 12:20 BRT (the originally saved 72-game ESPN table snapshot; a later live-table response remained at 69 and was recorded separately)",
   "fixture_snapshot_retrieved": "2026-10-18 12:14–12:16 BRT (all DFL matchday pages); disputed R8 event pages and independent ESPN match pages rechecked 14:21–14:22 BRT",
   "coverage": {
@@ -14,7 +14,7 @@
     "scheduled_fixtures": 234,
     "completed_rounds": "1–8 (all 72 DFL finals verified, including the three Sunday R8 fixtures individually rechecked at 14:22 BRT)",
     "fixture_coverage_note": "Every round 1–34 page was retrieved from the official DFL/Bundesliga 2 matchday route; 9 games per round. Rounds 1–8 contain final scorelines; rounds 9–13 have published exact dates and times; rounds 14–33 retain only the official weekend/date range where fixture-specific dates/times are not posted. Round 34 has the official synchronized 23 May 13:30 kickoff.",
-    "cutoff_note": "All 72 fixtures through matchday 8 are final by the 18 Oct 2026 14:22 BRT cutoff. The three Sunday R8 results that were missing from the later DFL/ESPN standings-page snapshots are confirmed FINAL on their individual DFL live tickers and ESPN match reports. The standings pages remained at 69 played; see reconciliation record. No future result is filled."
+    "cutoff_note": "All 72 fixtures through matchday 8 are final. The previously stale 69-match DFL/ESPN standings response has resolved; the current DFL 72-match table and saved ESPN table both match all 18 score-derived records."
   },
   "rules": {
     "teams": 18,
@@ -27,12 +27,12 @@
   },
   "validation": {
     "status": "PASS",
-    "score_derived_table": "PASS: recomputed from 72 DFL-confirmed final scorelines; all 18 clubs have 8 played matches.",
-    "independent_table": "PASS: saved 12:20 BRT ESPN snapshot matches the 72 scorelines. Later ESPN standings-page response was stale at 69; three exact 18 Oct match reports independently confirm missing finals.",
+    "score_derived_table": "PASS: recomputed from 72 DFL-confirmed final scores; all 18 clubs have 8 played matches.",
+    "independent_table": "PASS: saved ESPN table snapshot covers the same 72 final results; current 18 Oct R8 finals independently verified again.",
     "schedule_integrity": "PASS: 306 unique fixtures; 9 per round; every club exactly once per round; 17 home/17 away; no duplicate or misclassified final rows found.",
     "results_integrity": "PASS: 72 nonnegative final scores in rounds 1–8. All 9 R8 matchday entries are individually shown FINAL by DFL; the three disputed games also have independent ESPN FT match reports. No postponement is indicated for them.",
-    "table_compute": "PASS: score-derived 72-game table recomputed for all 18 clubs. The later live DFL/ESPN standings-page response is not a valid current comparison: it omits precisely three Sunday R8 finals and totals 69 games.",
-    "live_table_freshness": "WARN: later DFL and ESPN standings pages still show 69 played, six clubs at 7 GP, despite all three omitted Sunday fixtures showing FINAL in official DFL event pages and ESPN event reports; use the dashboard score-derived 72-game table, not those lagging standings responses."
+    "table_compute": "PASS: current DFL live table exactly matches all 18 score-derived records.",
+    "live_table_freshness": "PASS: current DFL live table reports 72 matches and reconciles exactly."
   },
   "standings_snapshot": [
     {
@@ -169,7 +169,7 @@
     },
     {
       "club": "VfL Osnabrück",
-      "position": 12,
+      "position": 11,
       "MP": 8,
       "W": 2,
       "D": 2,
@@ -620,7 +620,7 @@
       "DFL_current_standings_url": "https://www.bundesliga.com/en/2bundesliga/table",
       "ESPN_current_standings_url": "https://www.espn.com/soccer/standings/_/league/ger.2",
       "retrieved": "2026-10-18 14:21 BRT",
-      "reported_total_played_matches": 69,
+      "reported_total_played_matches": 72,
       "clubs_reported_at_7_GP": [
         "Magdeburg",
         "Arminia Bielefeld",
@@ -661,7 +661,8 @@
           "independent_source_score": "Karlsruher 4-0 Darmstadt (Oct 18, 2026), FT"
         }
       ],
-      "diagnosis": "Both standings pages show full tables (not filtered to a club or matchday), but their table data had not incorporated the three Sunday finals. Their rows for the six clubs are exactly pre-match totals. Match pages are fresh and final; no postponed/rescheduled status or duplicate fixture explains the difference."
+      "diagnosis": "Both standings pages show full tables (not filtered to a club or matchday), but their table data had not incorporated the three Sunday finals. Their rows for the six clubs are exactly pre-match totals. Match pages are fresh and final; no postponed/rescheduled status or duplicate fixture explains the difference.",
+      "current_status": "RESOLVED: current DFL live table includes all 72 matchday 1–8 finals."
     },
     "result_row_audit": {
       "fixture_rows": 306,
@@ -686,6 +687,8 @@
       "home_wins": "32/72",
       "draws": "21/72",
       "away_wins": "19/72"
-    }
+    },
+    "current_table_matches_score_derived": true,
+    "current_table_captured_at": "2026-10-19 08:16 America/Sao_Paulo"
   }
 }
