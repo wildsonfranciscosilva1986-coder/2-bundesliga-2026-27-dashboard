@@ -1,21 +1,44 @@
 {
   "url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9",
-  "retrieved_at": "2026-10-23 11:11 America/Sao_Paulo",
+  "retrieved_at": "2026-10-25 10:40 America/Sao_Paulo",
   "matches": [
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043QX",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 62,
+          "videoId": "431pl8Ik"
+        }
+      },
+      "kickOff": "2026-10-23T16:30:13+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QX",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 6,
+        "minute": 90
+      },
       "plannedKickOff": "2026-10-23T16:30:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 1,
+          "halftime": 1,
+          "live": 1
+        },
+        "home": {
+          "fulltime": 1,
+          "halftime": 0,
+          "live": 1
+        }
+      },
       "seasonOrder": 74,
       "slugs": {
         "slugLong": "vfl-bochum-1848-vs-vfl-wolfsburg"
@@ -48,15 +71,32 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043QU",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "kickOff": "2026-10-23T16:33:13+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QU",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 5,
+        "minute": 90
+      },
       "plannedKickOff": "2026-10-23T16:30:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 0,
+          "halftime": 0,
+          "live": 0
+        },
+        "home": {
+          "fulltime": 0,
+          "halftime": 0,
+          "live": 0
+        }
+      },
       "seasonOrder": 73,
       "slugs": {
         "slugLong": "sv-darmstadt-98-vs-fc-st-pauli"
@@ -89,15 +129,38 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043QZ",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 60,
+          "videoId": "a6iqkaO6"
+        }
+      },
+      "kickOff": "2026-10-24T11:00:24+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QZ",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 7,
+        "minute": 90
+      },
       "plannedKickOff": "2026-10-24T11:00:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 1,
+          "halftime": 0,
+          "live": 1
+        },
+        "home": {
+          "fulltime": 6,
+          "halftime": 1,
+          "live": 6
+        }
+      },
       "seasonOrder": 77,
       "slugs": {
         "slugLong": "1-fc-magdeburg-vs-karlsruher-sc"
@@ -130,15 +193,38 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043QV",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 59,
+          "videoId": "s7chYNtl"
+        }
+      },
+      "kickOff": "2026-10-24T11:01:09+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QV",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 5,
+        "minute": 90
+      },
       "plannedKickOff": "2026-10-24T11:00:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 0,
+          "halftime": 0,
+          "live": 0
+        },
+        "home": {
+          "fulltime": 1,
+          "halftime": 0,
+          "live": 1
+        }
+      },
       "seasonOrder": 76,
       "slugs": {
         "slugLong": "hertha-bsc-vs-dsc-arminia-bielefeld"
@@ -171,15 +257,38 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043QT",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 55,
+          "videoId": "z5K33hXO"
+        }
+      },
+      "kickOff": "2026-10-24T11:00:14+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QT",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 5,
+        "minute": 90
+      },
       "plannedKickOff": "2026-10-24T11:00:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 1,
+          "halftime": 1,
+          "live": 1
+        },
+        "home": {
+          "fulltime": 1,
+          "halftime": 0,
+          "live": 1
+        }
+      },
       "seasonOrder": 75,
       "slugs": {
         "slugLong": "1-fc-heidenheim-1846-vs-fc-energie-cottbus"
@@ -212,15 +321,38 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043QW",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 67,
+          "videoId": "XGDg8HoY"
+        }
+      },
+      "kickOff": "2026-10-24T18:30:32+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QW",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 7,
+        "minute": 90
+      },
       "plannedKickOff": "2026-10-24T18:30:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 1,
+          "halftime": 0,
+          "live": 1
+        },
+        "home": {
+          "fulltime": 0,
+          "halftime": 0,
+          "live": 0
+        }
+      },
       "seasonOrder": 78,
       "slugs": {
         "slugLong": "1-fc-nuernberg-vs-1-fc-kaiserslautern"
@@ -253,15 +385,30 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043R1",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "kickOff": "2026-10-25T12:30:00+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043R1",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FIRST_HALF",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 0,
+        "minute": 13
+      },
       "plannedKickOff": "2026-10-25T12:30:00+0000",
+      "score": {
+        "away": {
+          "halftime": 0,
+          "live": 0
+        },
+        "home": {
+          "halftime": 0,
+          "live": 0
+        }
+      },
       "seasonOrder": 81,
       "slugs": {
         "slugLong": "vfl-osnabrueck-vs-spvgg-greuther-fuerth"
@@ -294,15 +441,30 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043R0",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "kickOff": "2026-10-25T12:30:03+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043R0",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FIRST_HALF",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 0,
+        "minute": 13
+      },
       "plannedKickOff": "2026-10-25T12:30:00+0000",
+      "score": {
+        "away": {
+          "halftime": 0,
+          "live": 0
+        },
+        "home": {
+          "halftime": 0,
+          "live": 0
+        }
+      },
       "seasonOrder": 80,
       "slugs": {
         "slugLong": "eintracht-braunschweig-vs-hannover-96"
@@ -335,15 +497,30 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043QY",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "kickOff": "2026-10-25T12:30:02+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QY",
-      "matchStatus": "PRE_MATCH",
+      "matchStatus": "FIRST_HALF",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
+      "minuteOfPlay": {
+        "injuryTime": 0,
+        "minute": 13
+      },
       "plannedKickOff": "2026-10-25T12:30:00+0000",
+      "score": {
+        "away": {
+          "halftime": 0,
+          "live": 0
+        },
+        "home": {
+          "halftime": 1,
+          "live": 1
+        }
+      },
       "seasonOrder": 79,
       "slugs": {
         "slugLong": "holstein-kiel-vs-sg-dynamo-dresden"
