@@ -1,6 +1,6 @@
 {
   "url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9",
-  "retrieved_at": "2026-10-25 10:40 America/Sao_Paulo",
+  "retrieved_at": "2026-10-26 13:04 America/Sao_Paulo",
   "matches": [
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
@@ -9,7 +9,7 @@
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
       "en": {
         "highlightVideo": {
-          "duration": 62,
+          "duration": 133,
           "videoId": "431pl8Ik"
         }
       },
@@ -71,6 +71,12 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043QU",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 135,
+          "videoId": "hVn9YvMs"
+        }
+      },
       "kickOff": "2026-10-23T16:33:13+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QU",
@@ -131,7 +137,7 @@
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
       "en": {
         "highlightVideo": {
-          "duration": 60,
+          "duration": 133,
           "videoId": "a6iqkaO6"
         }
       },
@@ -145,7 +151,7 @@
         "start": "2026-10-23T00:00:00+0000"
       },
       "minuteOfPlay": {
-        "injuryTime": 7,
+        "injuryTime": 6,
         "minute": 90
       },
       "plannedKickOff": "2026-10-24T11:00:00+0000",
@@ -195,7 +201,7 @@
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
       "en": {
         "highlightVideo": {
-          "duration": 59,
+          "duration": 134,
           "videoId": "s7chYNtl"
         }
       },
@@ -259,7 +265,7 @@
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
       "en": {
         "highlightVideo": {
-          "duration": 55,
+          "duration": 134,
           "videoId": "z5K33hXO"
         }
       },
@@ -323,11 +329,11 @@
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
       "en": {
         "highlightVideo": {
-          "duration": 67,
+          "duration": 134,
           "videoId": "XGDg8HoY"
         }
       },
-      "kickOff": "2026-10-24T18:30:32+0000",
+      "kickOff": "2026-10-24T18:30:34+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QW",
       "matchStatus": "FINAL_WHISTLE",
@@ -385,28 +391,36 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043R1",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "FahL7tSo"
+        }
+      },
       "kickOff": "2026-10-25T12:30:00+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043R1",
-      "matchStatus": "FIRST_HALF",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
       "minuteOfPlay": {
-        "injuryTime": 0,
-        "minute": 13
+        "injuryTime": 2,
+        "minute": 90
       },
       "plannedKickOff": "2026-10-25T12:30:00+0000",
       "score": {
         "away": {
+          "fulltime": 0,
           "halftime": 0,
           "live": 0
         },
         "home": {
-          "halftime": 0,
-          "live": 0
+          "fulltime": 3,
+          "halftime": 2,
+          "live": 3
         }
       },
       "seasonOrder": 81,
@@ -441,28 +455,36 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043R0",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 130,
+          "videoId": "Xacv3JxA"
+        }
+      },
       "kickOff": "2026-10-25T12:30:03+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043R0",
-      "matchStatus": "FIRST_HALF",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
       "minuteOfPlay": {
-        "injuryTime": 0,
-        "minute": 13
+        "injuryTime": 18,
+        "minute": 90
       },
       "plannedKickOff": "2026-10-25T12:30:00+0000",
       "score": {
         "away": {
+          "fulltime": 0,
           "halftime": 0,
           "live": 0
         },
         "home": {
-          "halftime": 0,
-          "live": 0
+          "fulltime": 2,
+          "halftime": 1,
+          "live": 2
         }
       },
       "seasonOrder": 80,
@@ -497,28 +519,36 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043QY",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC1",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "qvBgY1Nk"
+        }
+      },
       "kickOff": "2026-10-25T12:30:02+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043QY",
-      "matchStatus": "FIRST_HALF",
+      "matchStatus": "FINAL_WHISTLE",
       "matchday": 9,
       "matchdayRange": {
         "end": "2026-10-25T00:00:00+0000",
         "start": "2026-10-23T00:00:00+0000"
       },
       "minuteOfPlay": {
-        "injuryTime": 0,
-        "minute": 13
+        "injuryTime": 4,
+        "minute": 90
       },
       "plannedKickOff": "2026-10-25T12:30:00+0000",
       "score": {
         "away": {
+          "fulltime": 0,
           "halftime": 0,
           "live": 0
         },
         "home": {
+          "fulltime": 3,
           "halftime": 1,
-          "live": 1
+          "live": 3
         }
       },
       "seasonOrder": 79,

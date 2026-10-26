@@ -77,9 +77,9 @@ round,date,date_range,kickoff_time,timezone,home,away,home_goals,away_goals,stat
 9,2026-10-24,,13:01,Europe/Berlin,Hertha Berlin,Arminia Bielefeld,1,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/hertha-bsc-vs-dsc-arminia-bielefeld/liveticker,DFL-MAT-J043QV
 9,2026-10-24,,13:00,Europe/Berlin,Heidenheim,Energie Cottbus,1,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/1-fc-heidenheim-1846-vs-fc-energie-cottbus/liveticker,DFL-MAT-J043QT
 9,2026-10-24,,20:30,Europe/Berlin,Nuremberg,Kaiserslautern,0,1,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/1-fc-nuernberg-vs-1-fc-kaiserslautern/liveticker,DFL-MAT-J043QW
-9,2026-10-25,,13:30,Europe/Berlin,VfL Osnabrück,Greuther Fürth,,,in_progress,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/vfl-osnabrueck-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043R1
-9,2026-10-25,,13:30,Europe/Berlin,Eintracht Braunschweig,Hannover 96,,,in_progress,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/eintracht-braunschweig-vs-hannover-96/liveticker,DFL-MAT-J043R0
-9,2026-10-25,,13:30,Europe/Berlin,Holstein Kiel,Dynamo Dresden,,,in_progress,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/holstein-kiel-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043QY
+9,2026-10-25,,13:30,Europe/Berlin,VfL Osnabrück,Greuther Fürth,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/vfl-osnabrueck-vs-spvgg-greuther-fuerth/liveticker,DFL-MAT-J043R1
+9,2026-10-25,,13:30,Europe/Berlin,Eintracht Braunschweig,Hannover 96,2,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/eintracht-braunschweig-vs-hannover-96/liveticker,DFL-MAT-J043R0
+9,2026-10-25,,13:30,Europe/Berlin,Holstein Kiel,Dynamo Dresden,3,0,finished,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/holstein-kiel-vs-sg-dynamo-dresden/liveticker,DFL-MAT-J043QY
 10,2026-10-30,,18:30,Europe/Berlin,Energie Cottbus,Bochum,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/fc-energie-cottbus-vs-vfl-bochum-1848/liveticker,DFL-MAT-J043RA
 10,2026-10-30,,18:30,Europe/Berlin,Arminia Bielefeld,Eintracht Braunschweig,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/dsc-arminia-bielefeld-vs-eintracht-braunschweig/liveticker,DFL-MAT-J043R8
 10,2026-10-31,,13:00,Europe/Berlin,Kaiserslautern,Hertha Berlin,,,scheduled,https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10/1-fc-kaiserslautern-vs-hertha-bsc/liveticker,DFL-MAT-J043R6

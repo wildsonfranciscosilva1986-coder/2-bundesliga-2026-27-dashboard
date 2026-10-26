@@ -1,7 +1,7 @@
 {
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard",
-  "cutoff": "2026-10-25 10:40 America/Sao_Paulo",
-  "checked": 78,
+  "cutoff": "2026-10-26 13:04 America/Sao_Paulo",
+  "checked": 81,
   "mismatches": [],
   "missing": [],
   "results": [
@@ -1174,6 +1174,51 @@
       "espn_event_id": "401885080",
       "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/1-fc-nuernberg-vs-1-fc-kaiserslautern/liveticker",
       "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261024"
+    },
+    {
+      "round": 9,
+      "official_match_id": "DFL-MAT-J043R1",
+      "home": "VfL Osnabrück",
+      "official_home_goals": "3",
+      "espn_home_goals": "3",
+      "away": "Greuther Fürth",
+      "official_away_goals": "0",
+      "espn_away_goals": "0",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885075",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/vfl-osnabrueck-vs-spvgg-greuther-fuerth/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261025"
+    },
+    {
+      "round": 9,
+      "official_match_id": "DFL-MAT-J043R0",
+      "home": "Eintracht Braunschweig",
+      "official_home_goals": "2",
+      "espn_home_goals": "2",
+      "away": "Hannover 96",
+      "official_away_goals": "0",
+      "espn_away_goals": "0",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885076",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/eintracht-braunschweig-vs-hannover-96/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261025"
+    },
+    {
+      "round": 9,
+      "official_match_id": "DFL-MAT-J043QY",
+      "home": "Holstein Kiel",
+      "official_home_goals": "3",
+      "espn_home_goals": "3",
+      "away": "Dynamo Dresden",
+      "official_away_goals": "0",
+      "espn_away_goals": "0",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885078",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/9/holstein-kiel-vs-sg-dynamo-dresden/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261025"
     }
   ]
 }

@@ -1,7 +1,7 @@
-2. Bundesliga 2026/27 validation — cutoff 2026-10-25 10:40 America/Sao_Paulo
+2. Bundesliga 2026/27 validation — cutoff 2026-10-26 13:04 America/Sao_Paulo
 Coverage: 306/306 official fixtures; 34 rounds × 9; 18 clubs.
-Statuses: 78 confirmed finals; 225 scheduled.
+Statuses: 81 confirmed finals; 225 scheduled.
 Official DFL table reconciliation: PASS all 18 clubs across played, W-D-L, GF/GA/GD and points.
-Independent ESPN final-score check: PASS 78/78 exact STATUS_FULL_TIME results.
+Independent ESPN final-score check: PASS 81/81 exact STATUS_FULL_TIME results.
 Independent ESPN-derived table: PASS all 18 club vectors.
 No future or nonfinal score is included.

@@ -1,6 +1,6 @@
 {
   "url": "https://www.bundesliga.com/en/2bundesliga/table",
-  "retrieved_at": "2026-10-25 10:40 America/Sao_Paulo",
+  "retrieved_at": "2026-10-26 13:04 America/Sao_Paulo",
   "entries": [
     {
       "club": {
@@ -175,6 +175,30 @@
     },
     {
       "club": {
+        "dflDatalibraryClubId": "DFL-CLU-000014",
+        "id": "DFL-CLU-000014",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000014.svg",
+        "nameFull": "VfL Osnabrück",
+        "nameShort": "Osnabrück",
+        "slugifiedFull": "vfl-osnabrueck",
+        "slugifiedSmall": "osnabrueck",
+        "threeLetterCode": "OSN"
+      },
+      "draws": 2,
+      "gamesPlayed": 9,
+      "goalDifference": -1,
+      "goalsAgainst": 15,
+      "goalsScored": 14,
+      "losses": 4,
+      "points": 11,
+      "qualification": "NONE",
+      "rank": 8,
+      "subRank": 0,
+      "tendency": "UP",
+      "wins": 3
+    },
+    {
+      "club": {
         "dflDatalibraryClubId": "DFL-CLU-000015",
         "id": "DFL-CLU-000015",
         "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000015.svg",
@@ -192,9 +216,33 @@
       "losses": 4,
       "points": 11,
       "qualification": "NONE",
-      "rank": 8,
+      "rank": 9,
       "subRank": 0,
-      "tendency": "STABLE",
+      "tendency": "DOWN",
+      "wins": 3
+    },
+    {
+      "club": {
+        "dflDatalibraryClubId": "DFL-CLU-00000X",
+        "id": "DFL-CLU-00000X",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
+        "nameFull": "Eintracht Braunschweig",
+        "nameShort": "Braunschweig",
+        "slugifiedFull": "eintracht-braunschweig",
+        "slugifiedSmall": "braunschweig",
+        "threeLetterCode": "EBS"
+      },
+      "draws": 1,
+      "gamesPlayed": 9,
+      "goalDifference": 0,
+      "goalsAgainst": 15,
+      "goalsScored": 15,
+      "losses": 5,
+      "points": 10,
+      "qualification": "NONE",
+      "rank": 10,
+      "subRank": 0,
+      "tendency": "UP",
       "wins": 3
     },
     {
@@ -216,9 +264,9 @@
       "losses": 3,
       "points": 10,
       "qualification": "NONE",
-      "rank": 9,
+      "rank": 11,
       "subRank": 0,
-      "tendency": "STABLE",
+      "tendency": "DOWN",
       "wins": 2
     },
     {
@@ -233,65 +281,41 @@
         "threeLetterCode": "SGF"
       },
       "draws": 3,
-      "gamesPlayed": 8,
-      "goalDifference": -1,
-      "goalsAgainst": 13,
+      "gamesPlayed": 9,
+      "goalDifference": -4,
+      "goalsAgainst": 16,
       "goalsScored": 12,
-      "losses": 3,
+      "losses": 4,
       "points": 9,
       "qualification": "NONE",
-      "rank": 10,
+      "rank": 12,
       "subRank": 0,
-      "tendency": "STABLE",
+      "tendency": "DOWN",
       "wins": 2
     },
     {
       "club": {
-        "dflDatalibraryClubId": "DFL-CLU-00000N",
-        "id": "DFL-CLU-00000N",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000N.svg",
-        "nameFull": "SG Dynamo Dresden",
-        "nameShort": "Dresden",
-        "slugifiedFull": "sg-dynamo-dresden",
-        "slugifiedSmall": "dresden",
-        "threeLetterCode": "SGD"
+        "dflDatalibraryClubId": "DFL-CLU-000N5P",
+        "id": "DFL-CLU-000N5P",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000N5P.svg",
+        "nameFull": "Holstein Kiel",
+        "nameShort": "Kiel",
+        "slugifiedFull": "holstein-kiel",
+        "slugifiedSmall": "kiel",
+        "threeLetterCode": "KSV"
       },
-      "draws": 2,
-      "gamesPlayed": 8,
-      "goalDifference": -4,
-      "goalsAgainst": 15,
-      "goalsScored": 11,
-      "losses": 4,
+      "draws": 5,
+      "gamesPlayed": 9,
+      "goalDifference": -1,
+      "goalsAgainst": 11,
+      "goalsScored": 10,
+      "losses": 3,
       "points": 8,
       "qualification": "NONE",
-      "rank": 11,
-      "subRank": 1,
-      "tendency": "STABLE",
-      "wins": 2
-    },
-    {
-      "club": {
-        "dflDatalibraryClubId": "DFL-CLU-000014",
-        "id": "DFL-CLU-000014",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000014.svg",
-        "nameFull": "VfL Osnabrück",
-        "nameShort": "Osnabrück",
-        "slugifiedFull": "vfl-osnabrueck",
-        "slugifiedSmall": "osnabrueck",
-        "threeLetterCode": "OSN"
-      },
-      "draws": 2,
-      "gamesPlayed": 8,
-      "goalDifference": -4,
-      "goalsAgainst": 15,
-      "goalsScored": 11,
-      "losses": 4,
-      "points": 8,
-      "qualification": "NONE",
-      "rank": 11,
-      "subRank": 2,
-      "tendency": "STABLE",
-      "wins": 2
+      "rank": 13,
+      "subRank": 0,
+      "tendency": "UP",
+      "wins": 1
     },
     {
       "club": {
@@ -312,9 +336,33 @@
       "losses": 5,
       "points": 8,
       "qualification": "NONE",
-      "rank": 13,
+      "rank": 14,
       "subRank": 0,
       "tendency": "UP",
+      "wins": 2
+    },
+    {
+      "club": {
+        "dflDatalibraryClubId": "DFL-CLU-00000N",
+        "id": "DFL-CLU-00000N",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000N.svg",
+        "nameFull": "SG Dynamo Dresden",
+        "nameShort": "Dresden",
+        "slugifiedFull": "sg-dynamo-dresden",
+        "slugifiedSmall": "dresden",
+        "threeLetterCode": "SGD"
+      },
+      "draws": 2,
+      "gamesPlayed": 9,
+      "goalDifference": -7,
+      "goalsAgainst": 18,
+      "goalsScored": 11,
+      "losses": 5,
+      "points": 8,
+      "qualification": "NONE",
+      "rank": 15,
+      "subRank": 0,
+      "tendency": "DOWN",
       "wins": 2
     },
     {
@@ -329,17 +377,18 @@
         "threeLetterCode": "H96"
       },
       "draws": 2,
-      "gamesPlayed": 8,
-      "goalDifference": -5,
-      "goalsAgainst": 13,
+      "gamesPlayed": 9,
+      "goalDifference": -7,
+      "goalsAgainst": 15,
       "goalsScored": 8,
-      "losses": 4,
+      "losses": 5,
       "points": 8,
-      "qualification": "NONE",
-      "rank": 14,
+      "qualification": "PLAY_OFF",
+      "rank": 16,
       "subRank": 0,
-      "tendency": "STABLE",
-      "wins": 2
+      "tendency": "DOWN",
+      "wins": 2,
+      "qualificationColor": "#EEAC57"
     },
     {
       "club": {
@@ -359,11 +408,12 @@
       "goalsScored": 11,
       "losses": 5,
       "points": 8,
-      "qualification": "NONE",
-      "rank": 15,
+      "qualification": "RELEGATION",
+      "rank": 17,
       "subRank": 0,
       "tendency": "DOWN",
-      "wins": 2
+      "wins": 2,
+      "qualificationColor": "#D75452"
     },
     {
       "club": {
@@ -383,61 +433,11 @@
       "goalsScored": 8,
       "losses": 5,
       "points": 8,
-      "qualification": "PLAY_OFF",
-      "rank": 16,
-      "subRank": 0,
-      "tendency": "UP",
-      "wins": 2,
-      "qualificationColor": "#EEAC57"
-    },
-    {
-      "club": {
-        "dflDatalibraryClubId": "DFL-CLU-00000X",
-        "id": "DFL-CLU-00000X",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
-        "nameFull": "Eintracht Braunschweig",
-        "nameShort": "Braunschweig",
-        "slugifiedFull": "eintracht-braunschweig",
-        "slugifiedSmall": "braunschweig",
-        "threeLetterCode": "EBS"
-      },
-      "draws": 1,
-      "gamesPlayed": 8,
-      "goalDifference": -2,
-      "goalsAgainst": 15,
-      "goalsScored": 13,
-      "losses": 5,
-      "points": 7,
-      "qualification": "RELEGATION",
-      "rank": 17,
-      "subRank": 0,
-      "tendency": "DOWN",
-      "wins": 2,
-      "qualificationColor": "#D75452"
-    },
-    {
-      "club": {
-        "dflDatalibraryClubId": "DFL-CLU-000N5P",
-        "id": "DFL-CLU-000N5P",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000N5P.svg",
-        "nameFull": "Holstein Kiel",
-        "nameShort": "Kiel",
-        "slugifiedFull": "holstein-kiel",
-        "slugifiedSmall": "kiel",
-        "threeLetterCode": "KSV"
-      },
-      "draws": 5,
-      "gamesPlayed": 8,
-      "goalDifference": -4,
-      "goalsAgainst": 11,
-      "goalsScored": 7,
-      "losses": 3,
-      "points": 5,
       "qualification": "RELEGATION",
       "rank": 18,
       "subRank": 0,
-      "tendency": "STABLE",
-      "wins": 0,
+      "tendency": "DOWN",
+      "wins": 2,
       "qualificationColor": "#D75452"
     }
   ]
