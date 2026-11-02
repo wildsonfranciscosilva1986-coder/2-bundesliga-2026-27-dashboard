@@ -1,6 +1,6 @@
 {
   "url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/10",
-  "retrieved_at": "2026-11-01 12:57 America/Sao_Paulo",
+  "retrieved_at": "2026-11-02 16:25 America/Sao_Paulo",
   "matches": [
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
@@ -333,7 +333,7 @@
           "videoId": "L14Snfcf"
         }
       },
-      "kickOff": "2026-10-31T19:29:59+0000",
+      "kickOff": "2026-10-31T19:30:02+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043R7",
       "matchStatus": "FINAL_WHISTLE",
@@ -391,6 +391,12 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043R9",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC2",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 60,
+          "videoId": "7gJEylh3"
+        }
+      },
       "kickOff": "2026-11-01T12:30:01+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043R9",
@@ -449,6 +455,12 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043R4",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC2",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 60,
+          "videoId": "as70XKf2"
+        }
+      },
       "kickOff": "2026-11-01T12:30:01+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043R4",
