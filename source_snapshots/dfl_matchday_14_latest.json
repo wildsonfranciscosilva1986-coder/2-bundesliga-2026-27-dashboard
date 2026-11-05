@@ -1,13 +1,13 @@
 {
   "url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/14",
-  "retrieved_at": "2026-11-04 14:06 America/Sao_Paulo",
+  "retrieved_at": "2026-11-05 14:19 America/Sao_Paulo",
   "matches": [
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043SA",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
+      "matchDateFixed": true,
       "matchId": "DFL-MAT-J043SA",
       "matchStatus": "PRE_MATCH",
       "matchday": 14,
@@ -15,8 +15,8 @@
         "end": "2026-12-06T00:00:00+0000",
         "start": "2026-12-04T00:00:00+0000"
       },
-      "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 126,
+      "plannedKickOff": "2026-12-04T17:30:00+0000",
+      "seasonOrder": 119,
       "slugs": {
         "slugLong": "fc-energie-cottbus-vs-vfl-osnabrueck"
       },
@@ -48,7 +48,7 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043S9",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
+      "matchDateFixed": true,
       "matchId": "DFL-MAT-J043S9",
       "matchStatus": "PRE_MATCH",
       "matchday": 14,
@@ -56,8 +56,8 @@
         "end": "2026-12-06T00:00:00+0000",
         "start": "2026-12-04T00:00:00+0000"
       },
-      "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 125,
+      "plannedKickOff": "2026-12-04T17:30:00+0000",
+      "seasonOrder": 118,
       "slugs": {
         "slugLong": "dsc-arminia-bielefeld-vs-sg-dynamo-dresden"
       },
@@ -89,7 +89,7 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043S8",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
+      "matchDateFixed": true,
       "matchId": "DFL-MAT-J043S8",
       "matchStatus": "PRE_MATCH",
       "matchday": 14,
@@ -97,8 +97,8 @@
         "end": "2026-12-06T00:00:00+0000",
         "start": "2026-12-04T00:00:00+0000"
       },
-      "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 124,
+      "plannedKickOff": "2026-12-05T12:00:00+0000",
+      "seasonOrder": 122,
       "slugs": {
         "slugLong": "karlsruher-sc-vs-holstein-kiel"
       },
@@ -130,7 +130,7 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043S7",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
+      "matchDateFixed": true,
       "matchId": "DFL-MAT-J043S7",
       "matchStatus": "PRE_MATCH",
       "matchday": 14,
@@ -138,8 +138,8 @@
         "end": "2026-12-06T00:00:00+0000",
         "start": "2026-12-04T00:00:00+0000"
       },
-      "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 123,
+      "plannedKickOff": "2026-12-05T12:00:00+0000",
+      "seasonOrder": 121,
       "slugs": {
         "slugLong": "1-fc-nuernberg-vs-vfl-bochum-1848"
       },
@@ -171,7 +171,7 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043S6",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
+      "matchDateFixed": true,
       "matchId": "DFL-MAT-J043S6",
       "matchStatus": "PRE_MATCH",
       "matchday": 14,
@@ -179,8 +179,8 @@
         "end": "2026-12-06T00:00:00+0000",
         "start": "2026-12-04T00:00:00+0000"
       },
-      "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 122,
+      "plannedKickOff": "2026-12-05T12:00:00+0000",
+      "seasonOrder": 120,
       "slugs": {
         "slugLong": "1-fc-kaiserslautern-vs-spvgg-greuther-fuerth"
       },
@@ -209,51 +209,10 @@
     },
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
-      "dflDatalibraryMatchId": "DFL-MAT-J043S5",
-      "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
-      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
-      "matchId": "DFL-MAT-J043S5",
-      "matchStatus": "PRE_MATCH",
-      "matchday": 14,
-      "matchdayRange": {
-        "end": "2026-12-06T00:00:00+0000",
-        "start": "2026-12-04T00:00:00+0000"
-      },
-      "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 121,
-      "slugs": {
-        "slugLong": "sv-darmstadt-98-vs-eintracht-braunschweig"
-      },
-      "teams": {
-        "away": {
-          "dflDatalibraryClubId": "DFL-CLU-00000X",
-          "gradientEndColor": "#0062AD",
-          "gradientStartColor": "#0062AD",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
-          "nameFull": "Eintracht Braunschweig",
-          "nameShort": "Braunschweig",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "EBS"
-        },
-        "home": {
-          "dflDatalibraryClubId": "DFL-CLU-000016",
-          "gradientEndColor": "#004E9E",
-          "gradientStartColor": "#004E9E",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000016.svg",
-          "nameFull": "SV Darmstadt 98",
-          "nameShort": "Darmstadt",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "SVD"
-        }
-      }
-    },
-    {
-      "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043S4",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
+      "matchDateFixed": true,
       "matchId": "DFL-MAT-J043S4",
       "matchStatus": "PRE_MATCH",
       "matchday": 14,
@@ -261,8 +220,8 @@
         "end": "2026-12-06T00:00:00+0000",
         "start": "2026-12-04T00:00:00+0000"
       },
-      "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 120,
+      "plannedKickOff": "2026-12-05T19:30:00+0000",
+      "seasonOrder": 123,
       "slugs": {
         "slugLong": "hannover-96-vs-hertha-bsc"
       },
@@ -291,10 +250,51 @@
     },
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043S5",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "matchDateFixed": true,
+      "matchId": "DFL-MAT-J043S5",
+      "matchStatus": "PRE_MATCH",
+      "matchday": 14,
+      "matchdayRange": {
+        "end": "2026-12-06T00:00:00+0000",
+        "start": "2026-12-04T00:00:00+0000"
+      },
+      "plannedKickOff": "2026-12-06T12:30:00+0000",
+      "seasonOrder": 126,
+      "slugs": {
+        "slugLong": "sv-darmstadt-98-vs-eintracht-braunschweig"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000X",
+          "gradientEndColor": "#0062AD",
+          "gradientStartColor": "#0062AD",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
+          "nameFull": "Eintracht Braunschweig",
+          "nameShort": "Braunschweig",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "EBS"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-000016",
+          "gradientEndColor": "#004E9E",
+          "gradientStartColor": "#004E9E",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000016.svg",
+          "nameFull": "SV Darmstadt 98",
+          "nameShort": "Darmstadt",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "SVD"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043S3",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
+      "matchDateFixed": true,
       "matchId": "DFL-MAT-J043S3",
       "matchStatus": "PRE_MATCH",
       "matchday": 14,
@@ -303,7 +303,7 @@
         "start": "2026-12-04T00:00:00+0000"
       },
       "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 119,
+      "seasonOrder": 125,
       "slugs": {
         "slugLong": "fc-st-pauli-vs-1-fc-heidenheim-1846"
       },
@@ -335,7 +335,7 @@
       "dflDatalibraryMatchId": "DFL-MAT-J043S2",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC6",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": false,
+      "matchDateFixed": true,
       "matchId": "DFL-MAT-J043S2",
       "matchStatus": "PRE_MATCH",
       "matchday": 14,
@@ -344,7 +344,7 @@
         "start": "2026-12-04T00:00:00+0000"
       },
       "plannedKickOff": "2026-12-06T12:30:00+0000",
-      "seasonOrder": 118,
+      "seasonOrder": 124,
       "slugs": {
         "slugLong": "vfl-wolfsburg-vs-1-fc-magdeburg"
       },
