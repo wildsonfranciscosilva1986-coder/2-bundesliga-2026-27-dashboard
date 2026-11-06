@@ -1,6 +1,6 @@
 {
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard",
-  "cutoff": "2026-11-05 14:19 America/Sao_Paulo",
+  "cutoff": "2026-11-06 13:42 America/Sao_Paulo",
   "checked": 90,
   "mismatches": [],
   "missing": [],
