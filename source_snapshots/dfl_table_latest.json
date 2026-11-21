@@ -1,6 +1,6 @@
 {
   "url": "https://www.bundesliga.com/en/2bundesliga/table",
-  "retrieved_at": "2026-11-20 14:44 America/Sao_Paulo",
+  "retrieved_at": "2026-11-21 13:43 America/Sao_Paulo",
   "entries": [
     {
       "club": {
@@ -39,11 +39,11 @@
         "threeLetterCode": "FCN"
       },
       "draws": 3,
-      "gamesPlayed": 11,
-      "goalDifference": 13,
-      "goalsAgainst": 13,
-      "goalsScored": 26,
-      "losses": 1,
+      "gamesPlayed": 12,
+      "goalDifference": 12,
+      "goalsAgainst": 15,
+      "goalsScored": 27,
+      "losses": 2,
       "points": 24,
       "qualification": "PROMOTION",
       "rank": 2,
@@ -51,6 +51,55 @@
       "tendency": "STABLE",
       "wins": 7,
       "qualificationColor": "#138F16"
+    },
+    {
+      "club": {
+        "dflDatalibraryClubId": "DFL-CLU-000N5D",
+        "id": "DFL-CLU-000N5D",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000N5D.svg",
+        "nameFull": "1. FC Magdeburg",
+        "nameShort": "Magdeburg",
+        "slugifiedFull": "1-fc-magdeburg",
+        "slugifiedSmall": "magdeburg",
+        "threeLetterCode": "FCM"
+      },
+      "draws": 2,
+      "gamesPlayed": 12,
+      "goalDifference": 12,
+      "goalsAgainst": 15,
+      "goalsScored": 27,
+      "losses": 3,
+      "points": 23,
+      "qualification": "PLAY_OFF",
+      "rank": 3,
+      "subRank": 0,
+      "tendency": "UP",
+      "wins": 7,
+      "qualificationColor": "#EEAC57"
+    },
+    {
+      "club": {
+        "dflDatalibraryClubId": "DFL-CLU-000003",
+        "id": "DFL-CLU-000003",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000003.svg",
+        "nameFull": "VfL Wolfsburg",
+        "nameShort": "Wolfsburg",
+        "slugifiedFull": "vfl-wolfsburg",
+        "slugifiedSmall": "wolfsburg",
+        "threeLetterCode": "WOB"
+      },
+      "draws": 4,
+      "gamesPlayed": 12,
+      "goalDifference": 13,
+      "goalsAgainst": 16,
+      "goalsScored": 29,
+      "losses": 2,
+      "points": 22,
+      "qualification": "NONE",
+      "rank": 4,
+      "subRank": 0,
+      "tendency": "UP",
+      "wins": 6
     },
     {
       "club": {
@@ -70,60 +119,11 @@
       "goalsScored": 10,
       "losses": 2,
       "points": 21,
-      "qualification": "PLAY_OFF",
-      "rank": 3,
-      "subRank": 0,
-      "tendency": "UP",
-      "wins": 6,
-      "qualificationColor": "#EEAC57"
-    },
-    {
-      "club": {
-        "dflDatalibraryClubId": "DFL-CLU-000N5D",
-        "id": "DFL-CLU-000N5D",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000N5D.svg",
-        "nameFull": "1. FC Magdeburg",
-        "nameShort": "Magdeburg",
-        "slugifiedFull": "1-fc-magdeburg",
-        "slugifiedSmall": "magdeburg",
-        "threeLetterCode": "FCM"
-      },
-      "draws": 2,
-      "gamesPlayed": 11,
-      "goalDifference": 11,
-      "goalsAgainst": 14,
-      "goalsScored": 25,
-      "losses": 3,
-      "points": 20,
-      "qualification": "NONE",
-      "rank": 4,
-      "subRank": 0,
-      "tendency": "UP",
-      "wins": 6
-    },
-    {
-      "club": {
-        "dflDatalibraryClubId": "DFL-CLU-000003",
-        "id": "DFL-CLU-000003",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000003.svg",
-        "nameFull": "VfL Wolfsburg",
-        "nameShort": "Wolfsburg",
-        "slugifiedFull": "vfl-wolfsburg",
-        "slugifiedSmall": "wolfsburg",
-        "threeLetterCode": "WOB"
-      },
-      "draws": 4,
-      "gamesPlayed": 11,
-      "goalDifference": 10,
-      "goalsAgainst": 16,
-      "goalsScored": 26,
-      "losses": 2,
-      "points": 19,
       "qualification": "NONE",
       "rank": 5,
       "subRank": 0,
       "tendency": "DOWN",
-      "wins": 5
+      "wins": 6
     },
     {
       "club": {
@@ -137,16 +137,16 @@
         "threeLetterCode": "DSC"
       },
       "draws": 2,
-      "gamesPlayed": 11,
-      "goalDifference": 2,
-      "goalsAgainst": 16,
-      "goalsScored": 18,
-      "losses": 4,
+      "gamesPlayed": 12,
+      "goalDifference": 1,
+      "goalsAgainst": 18,
+      "goalsScored": 19,
+      "losses": 5,
       "points": 17,
       "qualification": "NONE",
       "rank": 6,
       "subRank": 0,
-      "tendency": "UP",
+      "tendency": "STABLE",
       "wins": 5
     },
     {
@@ -161,16 +161,64 @@
         "threeLetterCode": "FCH"
       },
       "draws": 4,
-      "gamesPlayed": 11,
-      "goalDifference": -1,
-      "goalsAgainst": 20,
-      "goalsScored": 19,
-      "losses": 3,
+      "gamesPlayed": 12,
+      "goalDifference": -3,
+      "goalsAgainst": 23,
+      "goalsScored": 20,
+      "losses": 4,
       "points": 16,
       "qualification": "NONE",
       "rank": 7,
       "subRank": 0,
-      "tendency": "DOWN",
+      "tendency": "STABLE",
+      "wins": 4
+    },
+    {
+      "club": {
+        "dflDatalibraryClubId": "DFL-CLU-000001",
+        "id": "DFL-CLU-000001",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000001.svg",
+        "nameFull": "Hannover 96",
+        "nameShort": "Hannover",
+        "slugifiedFull": "hannover-96",
+        "slugifiedSmall": "hannover",
+        "threeLetterCode": "H96"
+      },
+      "draws": 3,
+      "gamesPlayed": 12,
+      "goalDifference": -5,
+      "goalsAgainst": 19,
+      "goalsScored": 14,
+      "losses": 5,
+      "points": 15,
+      "qualification": "NONE",
+      "rank": 8,
+      "subRank": 0,
+      "tendency": "UP",
+      "wins": 4
+    },
+    {
+      "club": {
+        "dflDatalibraryClubId": "DFL-CLU-00000X",
+        "id": "DFL-CLU-00000X",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
+        "nameFull": "Eintracht Braunschweig",
+        "nameShort": "Braunschweig",
+        "slugifiedFull": "eintracht-braunschweig",
+        "slugifiedSmall": "braunschweig",
+        "threeLetterCode": "EBS"
+      },
+      "draws": 2,
+      "gamesPlayed": 12,
+      "goalDifference": -1,
+      "goalsAgainst": 19,
+      "goalsScored": 18,
+      "losses": 6,
+      "points": 14,
+      "qualification": "NONE",
+      "rank": 9,
+      "subRank": 0,
+      "tendency": "UP",
       "wins": 4
     },
     {
@@ -192,9 +240,9 @@
       "losses": 5,
       "points": 14,
       "qualification": "NONE",
-      "rank": 8,
+      "rank": 10,
       "subRank": 0,
-      "tendency": "UP",
+      "tendency": "DOWN",
       "wins": 4
     },
     {
@@ -216,7 +264,7 @@
       "losses": 3,
       "points": 12,
       "qualification": "NONE",
-      "rank": 9,
+      "rank": 11,
       "subRank": 0,
       "tendency": "DOWN",
       "wins": 2
@@ -233,38 +281,38 @@
         "threeLetterCode": "SGF"
       },
       "draws": 3,
-      "gamesPlayed": 11,
-      "goalDifference": -6,
-      "goalsAgainst": 19,
-      "goalsScored": 13,
-      "losses": 5,
+      "gamesPlayed": 12,
+      "goalDifference": -7,
+      "goalsAgainst": 21,
+      "goalsScored": 14,
+      "losses": 6,
       "points": 12,
       "qualification": "NONE",
-      "rank": 10,
+      "rank": 12,
       "subRank": 0,
       "tendency": "DOWN",
       "wins": 3
     },
     {
       "club": {
-        "dflDatalibraryClubId": "DFL-CLU-000001",
-        "id": "DFL-CLU-000001",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000001.svg",
-        "nameFull": "Hannover 96",
-        "nameShort": "Hannover",
-        "slugifiedFull": "hannover-96",
-        "slugifiedSmall": "hannover",
-        "threeLetterCode": "H96"
+        "dflDatalibraryClubId": "DFL-CLU-000016",
+        "id": "DFL-CLU-000016",
+        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000016.svg",
+        "nameFull": "SV Darmstadt 98",
+        "nameShort": "Darmstadt",
+        "slugifiedFull": "sv-darmstadt-98",
+        "slugifiedSmall": "darmstadt",
+        "threeLetterCode": "SVD"
       },
       "draws": 3,
-      "gamesPlayed": 11,
-      "goalDifference": -6,
-      "goalsAgainst": 18,
+      "gamesPlayed": 12,
+      "goalDifference": -10,
+      "goalsAgainst": 22,
       "goalsScored": 12,
-      "losses": 5,
+      "losses": 6,
       "points": 12,
       "qualification": "NONE",
-      "rank": 11,
+      "rank": 13,
       "subRank": 0,
       "tendency": "UP",
       "wins": 3
@@ -288,34 +336,10 @@
       "losses": 4,
       "points": 11,
       "qualification": "NONE",
-      "rank": 12,
+      "rank": 14,
       "subRank": 0,
-      "tendency": "UP",
+      "tendency": "DOWN",
       "wins": 2
-    },
-    {
-      "club": {
-        "dflDatalibraryClubId": "DFL-CLU-00000X",
-        "id": "DFL-CLU-00000X",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
-        "nameFull": "Eintracht Braunschweig",
-        "nameShort": "Braunschweig",
-        "slugifiedFull": "eintracht-braunschweig",
-        "slugifiedSmall": "braunschweig",
-        "threeLetterCode": "EBS"
-      },
-      "draws": 2,
-      "gamesPlayed": 11,
-      "goalDifference": -2,
-      "goalsAgainst": 18,
-      "goalsScored": 16,
-      "losses": 6,
-      "points": 11,
-      "qualification": "NONE",
-      "rank": 13,
-      "subRank": 0,
-      "tendency": "UP",
-      "wins": 3
     },
     {
       "club": {
@@ -336,7 +360,7 @@
       "losses": 6,
       "points": 11,
       "qualification": "NONE",
-      "rank": 14,
+      "rank": 15,
       "subRank": 0,
       "tendency": "DOWN",
       "wins": 3
@@ -359,11 +383,12 @@
       "goalsScored": 15,
       "losses": 6,
       "points": 11,
-      "qualification": "NONE",
-      "rank": 15,
+      "qualification": "PLAY_OFF",
+      "rank": 16,
       "subRank": 0,
-      "tendency": "UP",
-      "wins": 3
+      "tendency": "DOWN",
+      "wins": 3,
+      "qualificationColor": "#EEAC57"
     },
     {
       "club": {
@@ -383,36 +408,11 @@
       "goalsScored": 15,
       "losses": 6,
       "points": 11,
-      "qualification": "PLAY_OFF",
-      "rank": 16,
-      "subRank": 0,
-      "tendency": "DOWN",
-      "wins": 3,
-      "qualificationColor": "#EEAC57"
-    },
-    {
-      "club": {
-        "dflDatalibraryClubId": "DFL-CLU-000016",
-        "id": "DFL-CLU-000016",
-        "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000016.svg",
-        "nameFull": "SV Darmstadt 98",
-        "nameShort": "Darmstadt",
-        "slugifiedFull": "sv-darmstadt-98",
-        "slugifiedSmall": "darmstadt",
-        "threeLetterCode": "SVD"
-      },
-      "draws": 3,
-      "gamesPlayed": 11,
-      "goalDifference": -12,
-      "goalsAgainst": 21,
-      "goalsScored": 9,
-      "losses": 6,
-      "points": 9,
       "qualification": "RELEGATION",
       "rank": 17,
       "subRank": 0,
       "tendency": "DOWN",
-      "wins": 2,
+      "wins": 3,
       "qualificationColor": "#D75452"
     },
     {
@@ -427,16 +427,16 @@
         "threeLetterCode": "KSV"
       },
       "draws": 5,
-      "gamesPlayed": 11,
-      "goalDifference": -3,
-      "goalsAgainst": 14,
+      "gamesPlayed": 12,
+      "goalDifference": -6,
+      "goalsAgainst": 17,
       "goalsScored": 11,
-      "losses": 5,
+      "losses": 6,
       "points": 8,
       "qualification": "RELEGATION",
       "rank": 18,
       "subRank": 0,
-      "tendency": "DOWN",
+      "tendency": "STABLE",
       "wins": 1,
       "qualificationColor": "#D75452"
     }

@@ -1,7 +1,7 @@
 {
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard",
-  "cutoff": "2026-11-20 14:44 America/Sao_Paulo",
-  "checked": 99,
+  "cutoff": "2026-11-21 13:43 America/Sao_Paulo",
+  "checked": 104,
   "mismatches": [],
   "missing": [],
   "results": [
@@ -1489,6 +1489,81 @@
       "espn_event_id": "401885065",
       "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/11/1-fc-heidenheim-1846-vs-hannover-96/liveticker",
       "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261108"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RR",
+      "home": "Arminia Bielefeld",
+      "official_home_goals": "1",
+      "espn_home_goals": "1",
+      "away": "Magdeburg",
+      "official_away_goals": "2",
+      "espn_away_goals": "2",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885049",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/dsc-arminia-bielefeld-vs-1-fc-magdeburg/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261120"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RP",
+      "home": "Nuremberg",
+      "official_home_goals": "1",
+      "espn_home_goals": "1",
+      "away": "Eintracht Braunschweig",
+      "official_away_goals": "2",
+      "espn_away_goals": "2",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885051",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-nuernberg-vs-eintracht-braunschweig/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RN",
+      "home": "Darmstadt",
+      "official_home_goals": "3",
+      "espn_home_goals": "3",
+      "away": "Heidenheim",
+      "official_away_goals": "1",
+      "espn_away_goals": "1",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885053",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/sv-darmstadt-98-vs-1-fc-heidenheim-1846/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261120"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RM",
+      "home": "Hannover 96",
+      "official_home_goals": "2",
+      "espn_home_goals": "2",
+      "away": "Greuther Fürth",
+      "official_away_goals": "1",
+      "espn_away_goals": "1",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885054",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/hannover-96-vs-spvgg-greuther-fuerth/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RK",
+      "home": "Wolfsburg",
+      "official_home_goals": "3",
+      "espn_home_goals": "3",
+      "away": "Holstein Kiel",
+      "official_away_goals": "0",
+      "espn_away_goals": "0",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885056",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/vfl-wolfsburg-vs-holstein-kiel/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
     }
   ]
 }
