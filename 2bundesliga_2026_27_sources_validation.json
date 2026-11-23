@@ -1,31 +1,31 @@
 {
   "competition": "2. Bundesliga",
   "season": "2026/27",
-  "as_of": "2026-11-21 13:43 America/Sao_Paulo",
-  "result_cutoff": "2026-11-21 13:43 America/Sao_Paulo",
-  "official_table_captured": "2026-11-21 13:43 America/Sao_Paulo",
-  "independent_table_captured": "2026-11-21 13:43 America/Sao_Paulo",
-  "fixture_snapshot_retrieved": "2026-11-21 13:43 America/Sao_Paulo",
+  "as_of": "2026-11-23 18:13 America/Sao_Paulo",
+  "result_cutoff": "2026-11-23 18:13 America/Sao_Paulo",
+  "official_table_captured": "2026-11-23 18:13 America/Sao_Paulo",
+  "independent_table_captured": "2026-11-23 18:13 America/Sao_Paulo",
+  "fixture_snapshot_retrieved": "2026-11-23 18:13 America/Sao_Paulo",
   "coverage": {
     "teams": 18,
     "rounds": 34,
     "official_fixtures": 306,
-    "final_results": 104,
-    "scheduled_fixtures": 202,
+    "final_results": 108,
+    "scheduled_fixtures": 198,
     "completed_rounds": "1,2,3,4,5,6,7,8,9,10,11,12"
   },
   "standings_snapshot": [
     {
       "club": "Hertha Berlin",
       "position": 1,
-      "MP": 11,
-      "W": 10,
+      "MP": 12,
+      "W": 11,
       "D": 1,
       "L": 0,
-      "GF": 25,
+      "GF": 29,
       "GA": 9,
-      "GD": 16,
-      "Pts": 31
+      "GD": 20,
+      "Pts": 34
     },
     {
       "club": "Nuremberg",
@@ -66,14 +66,14 @@
     {
       "club": "Kaiserslautern",
       "position": 5,
-      "MP": 11,
+      "MP": 12,
       "W": 6,
-      "D": 3,
+      "D": 4,
       "L": 2,
-      "GF": 10,
-      "GA": 7,
+      "GF": 12,
+      "GA": 9,
       "GD": 3,
-      "Pts": 21
+      "Pts": 22
     },
     {
       "club": "Arminia Bielefeld",
@@ -100,8 +100,20 @@
       "Pts": 16
     },
     {
-      "club": "Hannover 96",
+      "club": "St. Pauli",
       "position": 8,
+      "MP": 12,
+      "W": 3,
+      "D": 6,
+      "L": 3,
+      "GF": 15,
+      "GA": 16,
+      "GD": -1,
+      "Pts": 15
+    },
+    {
+      "club": "Hannover 96",
+      "position": 9,
       "MP": 12,
       "W": 4,
       "D": 3,
@@ -113,7 +125,7 @@
     },
     {
       "club": "Eintracht Braunschweig",
-      "position": 9,
+      "position": 10,
       "MP": 12,
       "W": 4,
       "D": 2,
@@ -125,31 +137,43 @@
     },
     {
       "club": "Bochum",
-      "position": 10,
-      "MP": 11,
+      "position": 11,
+      "MP": 12,
       "W": 4,
       "D": 2,
-      "L": 5,
+      "L": 6,
       "GF": 11,
-      "GA": 13,
-      "GD": -2,
+      "GA": 15,
+      "GD": -4,
       "Pts": 14
     },
     {
-      "club": "St. Pauli",
-      "position": 11,
-      "MP": 11,
-      "W": 2,
-      "D": 6,
-      "L": 3,
-      "GF": 13,
-      "GA": 16,
-      "GD": -3,
+      "club": "VfL Osnabrück",
+      "position": 12,
+      "MP": 12,
+      "W": 3,
+      "D": 3,
+      "L": 6,
+      "GF": 14,
+      "GA": 18,
+      "GD": -4,
+      "Pts": 12
+    },
+    {
+      "club": "Dynamo Dresden",
+      "position": 13,
+      "MP": 12,
+      "W": 3,
+      "D": 3,
+      "L": 6,
+      "GF": 17,
+      "GA": 22,
+      "GD": -5,
       "Pts": 12
     },
     {
       "club": "Greuther Fürth",
-      "position": 12,
+      "position": 14,
       "MP": 12,
       "W": 3,
       "D": 3,
@@ -160,8 +184,20 @@
       "Pts": 12
     },
     {
+      "club": "Karlsruhe",
+      "position": 15,
+      "MP": 12,
+      "W": 3,
+      "D": 3,
+      "L": 6,
+      "GF": 15,
+      "GA": 24,
+      "GD": -9,
+      "Pts": 12
+    },
+    {
       "club": "Darmstadt",
-      "position": 13,
+      "position": 16,
       "MP": 12,
       "W": 3,
       "D": 3,
@@ -173,50 +209,14 @@
     },
     {
       "club": "Energie Cottbus",
-      "position": 14,
-      "MP": 11,
+      "position": 17,
+      "MP": 12,
       "W": 2,
       "D": 5,
-      "L": 4,
+      "L": 5,
       "GF": 18,
-      "GA": 20,
-      "GD": -2,
-      "Pts": 11
-    },
-    {
-      "club": "VfL Osnabrück",
-      "position": 15,
-      "MP": 11,
-      "W": 3,
-      "D": 2,
-      "L": 6,
-      "GF": 14,
-      "GA": 18,
-      "GD": -4,
-      "Pts": 11
-    },
-    {
-      "club": "Dynamo Dresden",
-      "position": 16,
-      "MP": 11,
-      "W": 3,
-      "D": 2,
-      "L": 6,
-      "GF": 15,
-      "GA": 20,
-      "GD": -5,
-      "Pts": 11
-    },
-    {
-      "club": "Karlsruhe",
-      "position": 17,
-      "MP": 11,
-      "W": 3,
-      "D": 2,
-      "L": 6,
-      "GF": 15,
       "GA": 24,
-      "GD": -9,
+      "GD": -6,
       "Pts": 11
     },
     {
@@ -236,14 +236,14 @@
     {
       "club": "Hertha Berlin",
       "position": 1,
-      "MP": 11,
-      "W": 10,
+      "MP": 12,
+      "W": 11,
       "D": 1,
       "L": 0,
-      "GF": 25,
+      "GF": 29,
       "GA": 9,
-      "GD": 16,
-      "Pts": 31
+      "GD": 20,
+      "Pts": 34
     },
     {
       "club": "Nuremberg",
@@ -284,14 +284,14 @@
     {
       "club": "Kaiserslautern",
       "position": 5,
-      "MP": 11,
+      "MP": 12,
       "W": 6,
-      "D": 3,
+      "D": 4,
       "L": 2,
-      "GF": 10,
-      "GA": 7,
+      "GF": 12,
+      "GA": 9,
       "GD": 3,
-      "Pts": 21
+      "Pts": 22
     },
     {
       "club": "Arminia Bielefeld",
@@ -318,8 +318,20 @@
       "Pts": 16
     },
     {
-      "club": "Hannover 96",
+      "club": "St. Pauli",
       "position": 8,
+      "MP": 12,
+      "W": 3,
+      "D": 6,
+      "L": 3,
+      "GF": 15,
+      "GA": 16,
+      "GD": -1,
+      "Pts": 15
+    },
+    {
+      "club": "Hannover 96",
+      "position": 9,
       "MP": 12,
       "W": 4,
       "D": 3,
@@ -331,7 +343,7 @@
     },
     {
       "club": "Eintracht Braunschweig",
-      "position": 9,
+      "position": 10,
       "MP": 12,
       "W": 4,
       "D": 2,
@@ -343,31 +355,43 @@
     },
     {
       "club": "Bochum",
-      "position": 10,
-      "MP": 11,
+      "position": 11,
+      "MP": 12,
       "W": 4,
       "D": 2,
-      "L": 5,
+      "L": 6,
       "GF": 11,
-      "GA": 13,
-      "GD": -2,
+      "GA": 15,
+      "GD": -4,
       "Pts": 14
     },
     {
-      "club": "St. Pauli",
-      "position": 11,
-      "MP": 11,
-      "W": 2,
-      "D": 6,
-      "L": 3,
-      "GF": 13,
-      "GA": 16,
-      "GD": -3,
+      "club": "VfL Osnabrück",
+      "position": 12,
+      "MP": 12,
+      "W": 3,
+      "D": 3,
+      "L": 6,
+      "GF": 14,
+      "GA": 18,
+      "GD": -4,
+      "Pts": 12
+    },
+    {
+      "club": "Dynamo Dresden",
+      "position": 13,
+      "MP": 12,
+      "W": 3,
+      "D": 3,
+      "L": 6,
+      "GF": 17,
+      "GA": 22,
+      "GD": -5,
       "Pts": 12
     },
     {
       "club": "Greuther Fürth",
-      "position": 12,
+      "position": 14,
       "MP": 12,
       "W": 3,
       "D": 3,
@@ -378,8 +402,20 @@
       "Pts": 12
     },
     {
+      "club": "Karlsruhe",
+      "position": 15,
+      "MP": 12,
+      "W": 3,
+      "D": 3,
+      "L": 6,
+      "GF": 15,
+      "GA": 24,
+      "GD": -9,
+      "Pts": 12
+    },
+    {
       "club": "Darmstadt",
-      "position": 13,
+      "position": 16,
       "MP": 12,
       "W": 3,
       "D": 3,
@@ -391,50 +427,14 @@
     },
     {
       "club": "Energie Cottbus",
-      "position": 14,
-      "MP": 11,
+      "position": 17,
+      "MP": 12,
       "W": 2,
       "D": 5,
-      "L": 4,
+      "L": 5,
       "GF": 18,
-      "GA": 20,
-      "GD": -2,
-      "Pts": 11
-    },
-    {
-      "club": "VfL Osnabrück",
-      "position": 15,
-      "MP": 11,
-      "W": 3,
-      "D": 2,
-      "L": 6,
-      "GF": 14,
-      "GA": 18,
-      "GD": -4,
-      "Pts": 11
-    },
-    {
-      "club": "Dynamo Dresden",
-      "position": 16,
-      "MP": 11,
-      "W": 3,
-      "D": 2,
-      "L": 6,
-      "GF": 15,
-      "GA": 20,
-      "GD": -5,
-      "Pts": 11
-    },
-    {
-      "club": "Karlsruhe",
-      "position": 17,
-      "MP": 11,
-      "W": 3,
-      "D": 2,
-      "L": 6,
-      "GF": 15,
       "GA": 24,
-      "GD": -9,
+      "GD": -6,
       "Pts": 11
     },
     {
@@ -464,14 +464,14 @@
     {
       "name": "Independent ESPN results",
       "url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard",
-      "finished_scores_checked": 104,
-      "identical_final_scores": 104,
+      "finished_scores_checked": 108,
+      "identical_final_scores": 108,
       "mismatches": 0
     }
   ],
   "result_reconciliation": {
     "table_page_discrepancy": {
-      "reported_total_played_matches": 104,
+      "reported_total_played_matches": 108,
       "current_status": "Current DFL table matches all final-only results."
     },
     "cross_checked_disputed_fixtures": [
@@ -1277,19 +1277,19 @@
       },
       {
         "round": 12,
-        "home": "Nuremberg",
-        "away": "Eintracht Braunschweig",
-        "score": "1-2",
-        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-nuernberg-vs-eintracht-braunschweig/liveticker",
-        "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
-      },
-      {
-        "round": 12,
         "home": "Darmstadt",
         "away": "Heidenheim",
         "score": "3-1",
         "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/sv-darmstadt-98-vs-1-fc-heidenheim-1846/liveticker",
         "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261120"
+      },
+      {
+        "round": 12,
+        "home": "Nuremberg",
+        "away": "Eintracht Braunschweig",
+        "score": "1-2",
+        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-nuernberg-vs-eintracht-braunschweig/liveticker",
+        "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
       },
       {
         "round": 12,
@@ -1306,6 +1306,38 @@
         "score": "3-0",
         "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/vfl-wolfsburg-vs-holstein-kiel/liveticker",
         "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
+      },
+      {
+        "round": 12,
+        "home": "St. Pauli",
+        "away": "Bochum",
+        "score": "2-0",
+        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/fc-st-pauli-vs-vfl-bochum-1848/liveticker",
+        "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
+      },
+      {
+        "round": 12,
+        "home": "Energie Cottbus",
+        "away": "Hertha Berlin",
+        "score": "0-4",
+        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/fc-energie-cottbus-vs-hertha-bsc/liveticker",
+        "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261122"
+      },
+      {
+        "round": 12,
+        "home": "Karlsruhe",
+        "away": "VfL Osnabrück",
+        "score": "0-0",
+        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/karlsruher-sc-vs-vfl-osnabrueck/liveticker",
+        "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261122"
+      },
+      {
+        "round": 12,
+        "home": "Kaiserslautern",
+        "away": "Dynamo Dresden",
+        "score": "2-2",
+        "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-kaiserslautern-vs-sg-dynamo-dresden/liveticker",
+        "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261122"
       }
     ]
   },
@@ -1313,14 +1345,14 @@
     "status": "PASS",
     "official_score_derived_table": "PASS 18/18",
     "independent_score_derived_table": "PASS 18/18",
-    "final_scores_checked": 104,
+    "final_scores_checked": 108,
     "schedule_integrity": "PASS 306 fixtures, 9 per round, every club once per round."
   },
   "source_validation": {
     "status": "PASS",
     "official_table_matches": 18,
     "espn_table_matches": 18,
-    "espn_scores_checked": 104,
+    "espn_scores_checked": 108,
     "score_mismatches": 0
   }
 }

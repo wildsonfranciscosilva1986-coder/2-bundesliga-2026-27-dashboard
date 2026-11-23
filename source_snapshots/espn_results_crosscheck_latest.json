@@ -1,7 +1,7 @@
 {
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard",
-  "cutoff": "2026-11-21 13:43 America/Sao_Paulo",
-  "checked": 104,
+  "cutoff": "2026-11-23 18:13 America/Sao_Paulo",
+  "checked": 108,
   "mismatches": [],
   "missing": [],
   "results": [
@@ -1507,21 +1507,6 @@
     },
     {
       "round": 12,
-      "official_match_id": "DFL-MAT-J043RP",
-      "home": "Nuremberg",
-      "official_home_goals": "1",
-      "espn_home_goals": "1",
-      "away": "Eintracht Braunschweig",
-      "official_away_goals": "2",
-      "espn_away_goals": "2",
-      "espn_status": "STATUS_FULL_TIME",
-      "match": true,
-      "espn_event_id": "401885051",
-      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-nuernberg-vs-eintracht-braunschweig/liveticker",
-      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
-    },
-    {
-      "round": 12,
       "official_match_id": "DFL-MAT-J043RN",
       "home": "Darmstadt",
       "official_home_goals": "3",
@@ -1534,6 +1519,21 @@
       "espn_event_id": "401885053",
       "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/sv-darmstadt-98-vs-1-fc-heidenheim-1846/liveticker",
       "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261120"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RP",
+      "home": "Nuremberg",
+      "official_home_goals": "1",
+      "espn_home_goals": "1",
+      "away": "Eintracht Braunschweig",
+      "official_away_goals": "2",
+      "espn_away_goals": "2",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885051",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-nuernberg-vs-eintracht-braunschweig/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
     },
     {
       "round": 12,
@@ -1564,6 +1564,66 @@
       "espn_event_id": "401885056",
       "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/vfl-wolfsburg-vs-holstein-kiel/liveticker",
       "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RL",
+      "home": "St. Pauli",
+      "official_home_goals": "2",
+      "espn_home_goals": "2",
+      "away": "Bochum",
+      "official_away_goals": "0",
+      "espn_away_goals": "0",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885055",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/fc-st-pauli-vs-vfl-bochum-1848/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261121"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RS",
+      "home": "Energie Cottbus",
+      "official_home_goals": "0",
+      "espn_home_goals": "0",
+      "away": "Hertha Berlin",
+      "official_away_goals": "4",
+      "espn_away_goals": "4",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885048",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/fc-energie-cottbus-vs-hertha-bsc/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261122"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RQ",
+      "home": "Karlsruhe",
+      "official_home_goals": "0",
+      "espn_home_goals": "0",
+      "away": "VfL Osnabrück",
+      "official_away_goals": "0",
+      "espn_away_goals": "0",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885050",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/karlsruher-sc-vs-vfl-osnabrueck/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261122"
+    },
+    {
+      "round": 12,
+      "official_match_id": "DFL-MAT-J043RO",
+      "home": "Kaiserslautern",
+      "official_home_goals": "2",
+      "espn_home_goals": "2",
+      "away": "Dynamo Dresden",
+      "official_away_goals": "2",
+      "espn_away_goals": "2",
+      "espn_status": "STATUS_FULL_TIME",
+      "match": true,
+      "espn_event_id": "401885052",
+      "official_match_url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12/1-fc-kaiserslautern-vs-sg-dynamo-dresden/liveticker",
+      "independent_match_url": "https://site.api.espn.com/apis/site/v2/sports/soccer/ger.2/scoreboard?dates=20261122"
     }
   ]
 }

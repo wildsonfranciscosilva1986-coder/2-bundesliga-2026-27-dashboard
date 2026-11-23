@@ -1,48 +1,7 @@
 {
   "url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12",
-  "retrieved_at": "2026-11-21 13:43 America/Sao_Paulo",
+  "retrieved_at": "2026-11-23 18:13 America/Sao_Paulo",
   "matches": [
-    {
-      "dflDatalibraryCompetitionId": "DFL-COM-000002",
-      "dflDatalibraryMatchId": "DFL-MAT-J043RS",
-      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
-      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": true,
-      "matchId": "DFL-MAT-J043RS",
-      "matchStatus": "PRE_MATCH",
-      "matchday": 12,
-      "matchdayRange": {
-        "end": "2026-11-22T00:00:00+0000",
-        "start": "2026-11-20T00:00:00+0000"
-      },
-      "plannedKickOff": "2026-11-22T12:30:00+0000",
-      "seasonOrder": 108,
-      "slugs": {
-        "slugLong": "fc-energie-cottbus-vs-hertha-bsc"
-      },
-      "teams": {
-        "away": {
-          "dflDatalibraryClubId": "DFL-CLU-00000Z",
-          "gradientEndColor": "#0069B4",
-          "gradientStartColor": "#0069B4",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000Z.svg",
-          "nameFull": "Hertha BSC",
-          "nameShort": "Hertha BSC",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "BSC"
-        },
-        "home": {
-          "dflDatalibraryClubId": "DFL-CLU-00000O",
-          "gradientEndColor": "#FF0000",
-          "gradientStartColor": "#FF0000",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000O.svg",
-          "nameFull": "FC Energie Cottbus",
-          "nameShort": "FC Energie",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "FCE"
-        }
-      }
-    },
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RR",
@@ -104,146 +63,6 @@
           "nameShort": "Bielefeld",
           "textColor": "#FFFFFF",
           "threeLetterCode": "DSC"
-        }
-      }
-    },
-    {
-      "dflDatalibraryCompetitionId": "DFL-COM-000002",
-      "dflDatalibraryMatchId": "DFL-MAT-J043RQ",
-      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
-      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": true,
-      "matchId": "DFL-MAT-J043RQ",
-      "matchStatus": "PRE_MATCH",
-      "matchday": 12,
-      "matchdayRange": {
-        "end": "2026-11-22T00:00:00+0000",
-        "start": "2026-11-20T00:00:00+0000"
-      },
-      "plannedKickOff": "2026-11-22T12:30:00+0000",
-      "seasonOrder": 107,
-      "slugs": {
-        "slugLong": "karlsruher-sc-vs-vfl-osnabrueck"
-      },
-      "teams": {
-        "away": {
-          "dflDatalibraryClubId": "DFL-CLU-000014",
-          "gradientEndColor": "#572A86",
-          "gradientStartColor": "#572A86",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000014.svg",
-          "nameFull": "VfL Osnabrück",
-          "nameShort": "Osnabrück",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "OSN"
-        },
-        "home": {
-          "dflDatalibraryClubId": "DFL-CLU-00000T",
-          "gradientEndColor": "#004b93",
-          "gradientStartColor": "#004b93",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000T.svg",
-          "nameFull": "Karlsruher SC",
-          "nameShort": "Karlsruhe",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "KSC"
-        }
-      }
-    },
-    {
-      "dflDatalibraryCompetitionId": "DFL-COM-000002",
-      "dflDatalibraryMatchId": "DFL-MAT-J043RP",
-      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
-      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "kickOff": "2026-11-21T11:59:59+0000",
-      "matchDateFixed": true,
-      "matchId": "DFL-MAT-J043RP",
-      "matchStatus": "FINAL_WHISTLE",
-      "matchday": 12,
-      "matchdayRange": {
-        "end": "2026-11-22T00:00:00+0000",
-        "start": "2026-11-20T00:00:00+0000"
-      },
-      "minuteOfPlay": {
-        "injuryTime": 4,
-        "minute": 90
-      },
-      "plannedKickOff": "2026-11-21T12:00:00+0000",
-      "score": {
-        "away": {
-          "fulltime": 2,
-          "halftime": 0,
-          "live": 2
-        },
-        "home": {
-          "fulltime": 1,
-          "halftime": 1,
-          "live": 1
-        }
-      },
-      "seasonOrder": 104,
-      "slugs": {
-        "slugLong": "1-fc-nuernberg-vs-eintracht-braunschweig"
-      },
-      "teams": {
-        "away": {
-          "dflDatalibraryClubId": "DFL-CLU-00000X",
-          "gradientEndColor": "#0062AD",
-          "gradientStartColor": "#0062AD",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
-          "nameFull": "Eintracht Braunschweig",
-          "nameShort": "Braunschweig",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "EBS"
-        },
-        "home": {
-          "dflDatalibraryClubId": "DFL-CLU-000005",
-          "gradientEndColor": "#C2102B",
-          "gradientStartColor": "#C2102B",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000005.svg",
-          "nameFull": "1. FC Nürnberg",
-          "nameShort": "Nürnberg",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "FCN"
-        }
-      }
-    },
-    {
-      "dflDatalibraryCompetitionId": "DFL-COM-000002",
-      "dflDatalibraryMatchId": "DFL-MAT-J043RO",
-      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
-      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": true,
-      "matchId": "DFL-MAT-J043RO",
-      "matchStatus": "PRE_MATCH",
-      "matchday": 12,
-      "matchdayRange": {
-        "end": "2026-11-22T00:00:00+0000",
-        "start": "2026-11-20T00:00:00+0000"
-      },
-      "plannedKickOff": "2026-11-22T12:30:00+0000",
-      "seasonOrder": 106,
-      "slugs": {
-        "slugLong": "1-fc-kaiserslautern-vs-sg-dynamo-dresden"
-      },
-      "teams": {
-        "away": {
-          "dflDatalibraryClubId": "DFL-CLU-00000N",
-          "gradientEndColor": "#FFCD00",
-          "gradientStartColor": "#FFCD00",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000N.svg",
-          "nameFull": "SG Dynamo Dresden",
-          "nameShort": "Dresden",
-          "textColor": "#000000",
-          "threeLetterCode": "SGD"
-        },
-        "home": {
-          "dflDatalibraryClubId": "DFL-CLU-00000I",
-          "gradientEndColor": "#FF0000",
-          "gradientStartColor": "#FF0000",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000I.svg",
-          "nameFull": "1. FC Kaiserslautern",
-          "nameShort": "Kaiserslautern",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "FCK"
         }
       }
     },
@@ -313,9 +132,79 @@
     },
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043RP",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 58,
+          "videoId": "Q1Nd0Vog"
+        }
+      },
+      "kickOff": "2026-11-21T11:59:59+0000",
+      "matchDateFixed": true,
+      "matchId": "DFL-MAT-J043RP",
+      "matchStatus": "FINAL_WHISTLE",
+      "matchday": 12,
+      "matchdayRange": {
+        "end": "2026-11-22T00:00:00+0000",
+        "start": "2026-11-20T00:00:00+0000"
+      },
+      "minuteOfPlay": {
+        "injuryTime": 4,
+        "minute": 90
+      },
+      "plannedKickOff": "2026-11-21T12:00:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 2,
+          "halftime": 0,
+          "live": 2
+        },
+        "home": {
+          "fulltime": 1,
+          "halftime": 1,
+          "live": 1
+        }
+      },
+      "seasonOrder": 104,
+      "slugs": {
+        "slugLong": "1-fc-nuernberg-vs-eintracht-braunschweig"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000X",
+          "gradientEndColor": "#0062AD",
+          "gradientStartColor": "#0062AD",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000X.svg",
+          "nameFull": "Eintracht Braunschweig",
+          "nameShort": "Braunschweig",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "EBS"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-000005",
+          "gradientEndColor": "#C2102B",
+          "gradientStartColor": "#C2102B",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000005.svg",
+          "nameFull": "1. FC Nürnberg",
+          "nameShort": "Nürnberg",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "FCN"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RM",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "IT6PDMB0"
+        }
+      },
       "kickOff": "2026-11-21T12:00:02+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043RM",
@@ -371,50 +260,15 @@
     },
     {
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
-      "dflDatalibraryMatchId": "DFL-MAT-J043RL",
-      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
-      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
-      "matchDateFixed": true,
-      "matchId": "DFL-MAT-J043RL",
-      "matchStatus": "PRE_MATCH",
-      "matchday": 12,
-      "matchdayRange": {
-        "end": "2026-11-22T00:00:00+0000",
-        "start": "2026-11-20T00:00:00+0000"
-      },
-      "plannedKickOff": "2026-11-21T19:30:00+0000",
-      "seasonOrder": 105,
-      "slugs": {
-        "slugLong": "fc-st-pauli-vs-vfl-bochum-1848"
-      },
-      "teams": {
-        "away": {
-          "dflDatalibraryClubId": "DFL-CLU-00000S",
-          "gradientEndColor": "#095ba4",
-          "gradientStartColor": "#095ba4",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000S.svg",
-          "nameFull": "VfL Bochum 1848",
-          "nameShort": "Bochum",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "BOC"
-        },
-        "home": {
-          "dflDatalibraryClubId": "DFL-CLU-00000H",
-          "gradientEndColor": "#604734",
-          "gradientStartColor": "#604734",
-          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000H.svg",
-          "nameFull": "FC St. Pauli",
-          "nameShort": "St. Pauli",
-          "textColor": "#FFFFFF",
-          "threeLetterCode": "STP"
-        }
-      }
-    },
-    {
-      "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RK",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
       "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "aMEJKACR"
+        }
+      },
       "kickOff": "2026-11-21T12:00:29+0000",
       "matchDateFixed": true,
       "matchId": "DFL-MAT-J043RK",
@@ -465,6 +319,262 @@
           "nameShort": "Wolfsburg",
           "textColor": "#FFFFFF",
           "threeLetterCode": "WOB"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043RL",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 61,
+          "videoId": "hvq2PmFo"
+        }
+      },
+      "kickOff": "2026-11-21T19:31:31+0000",
+      "matchDateFixed": true,
+      "matchId": "DFL-MAT-J043RL",
+      "matchStatus": "FINAL_WHISTLE",
+      "matchday": 12,
+      "matchdayRange": {
+        "end": "2026-11-22T00:00:00+0000",
+        "start": "2026-11-20T00:00:00+0000"
+      },
+      "minuteOfPlay": {
+        "injuryTime": 6,
+        "minute": 90
+      },
+      "plannedKickOff": "2026-11-21T19:30:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 0,
+          "halftime": 0,
+          "live": 0
+        },
+        "home": {
+          "fulltime": 2,
+          "halftime": 1,
+          "live": 2
+        }
+      },
+      "seasonOrder": 105,
+      "slugs": {
+        "slugLong": "fc-st-pauli-vs-vfl-bochum-1848"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000S",
+          "gradientEndColor": "#095ba4",
+          "gradientStartColor": "#095ba4",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000S.svg",
+          "nameFull": "VfL Bochum 1848",
+          "nameShort": "Bochum",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "BOC"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-00000H",
+          "gradientEndColor": "#604734",
+          "gradientStartColor": "#604734",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000H.svg",
+          "nameFull": "FC St. Pauli",
+          "nameShort": "St. Pauli",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "STP"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043RS",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 59,
+          "videoId": "fRogdNQD"
+        }
+      },
+      "kickOff": "2026-11-22T12:31:34+0000",
+      "matchDateFixed": true,
+      "matchId": "DFL-MAT-J043RS",
+      "matchStatus": "FINAL_WHISTLE",
+      "matchday": 12,
+      "matchdayRange": {
+        "end": "2026-11-22T00:00:00+0000",
+        "start": "2026-11-20T00:00:00+0000"
+      },
+      "minuteOfPlay": {
+        "injuryTime": 5,
+        "minute": 90
+      },
+      "plannedKickOff": "2026-11-22T12:30:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 4,
+          "halftime": 1,
+          "live": 4
+        },
+        "home": {
+          "fulltime": 0,
+          "halftime": 0,
+          "live": 0
+        }
+      },
+      "seasonOrder": 108,
+      "slugs": {
+        "slugLong": "fc-energie-cottbus-vs-hertha-bsc"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000Z",
+          "gradientEndColor": "#0069B4",
+          "gradientStartColor": "#0069B4",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000Z.svg",
+          "nameFull": "Hertha BSC",
+          "nameShort": "Hertha BSC",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "BSC"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-00000O",
+          "gradientEndColor": "#FF0000",
+          "gradientStartColor": "#FF0000",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000O.svg",
+          "nameFull": "FC Energie Cottbus",
+          "nameShort": "FC Energie",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "FCE"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043RQ",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 133,
+          "videoId": "g6BYG6Pv"
+        }
+      },
+      "kickOff": "2026-11-22T12:30:01+0000",
+      "matchDateFixed": true,
+      "matchId": "DFL-MAT-J043RQ",
+      "matchStatus": "FINAL_WHISTLE",
+      "matchday": 12,
+      "matchdayRange": {
+        "end": "2026-11-22T00:00:00+0000",
+        "start": "2026-11-20T00:00:00+0000"
+      },
+      "minuteOfPlay": {
+        "injuryTime": 3,
+        "minute": 90
+      },
+      "plannedKickOff": "2026-11-22T12:30:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 0,
+          "halftime": 0,
+          "live": 0
+        },
+        "home": {
+          "fulltime": 0,
+          "halftime": 0,
+          "live": 0
+        }
+      },
+      "seasonOrder": 107,
+      "slugs": {
+        "slugLong": "karlsruher-sc-vs-vfl-osnabrueck"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-000014",
+          "gradientEndColor": "#572A86",
+          "gradientStartColor": "#572A86",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-000014.svg",
+          "nameFull": "VfL Osnabrück",
+          "nameShort": "Osnabrück",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "OSN"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-00000T",
+          "gradientEndColor": "#004b93",
+          "gradientStartColor": "#004b93",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000T.svg",
+          "nameFull": "Karlsruher SC",
+          "nameShort": "Karlsruhe",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "KSC"
+        }
+      }
+    },
+    {
+      "dflDatalibraryCompetitionId": "DFL-COM-000002",
+      "dflDatalibraryMatchId": "DFL-MAT-J043RO",
+      "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
+      "dflDatalibrarySeasonId": "DFL-SEA-0001KA",
+      "en": {
+        "highlightVideo": {
+          "duration": 133,
+          "videoId": "jQygRERd"
+        }
+      },
+      "kickOff": "2026-11-22T12:30:02+0000",
+      "matchDateFixed": true,
+      "matchId": "DFL-MAT-J043RO",
+      "matchStatus": "FINAL_WHISTLE",
+      "matchday": 12,
+      "matchdayRange": {
+        "end": "2026-11-22T00:00:00+0000",
+        "start": "2026-11-20T00:00:00+0000"
+      },
+      "minuteOfPlay": {
+        "injuryTime": 4,
+        "minute": 90
+      },
+      "plannedKickOff": "2026-11-22T12:30:00+0000",
+      "score": {
+        "away": {
+          "fulltime": 2,
+          "halftime": 2,
+          "live": 2
+        },
+        "home": {
+          "fulltime": 2,
+          "halftime": 1,
+          "live": 2
+        }
+      },
+      "seasonOrder": 106,
+      "slugs": {
+        "slugLong": "1-fc-kaiserslautern-vs-sg-dynamo-dresden"
+      },
+      "teams": {
+        "away": {
+          "dflDatalibraryClubId": "DFL-CLU-00000N",
+          "gradientEndColor": "#FFCD00",
+          "gradientStartColor": "#FFCD00",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000N.svg",
+          "nameFull": "SG Dynamo Dresden",
+          "nameShort": "Dresden",
+          "textColor": "#000000",
+          "threeLetterCode": "SGD"
+        },
+        "home": {
+          "dflDatalibraryClubId": "DFL-CLU-00000I",
+          "gradientEndColor": "#FF0000",
+          "gradientStartColor": "#FF0000",
+          "logoUrl": "https://assets.bundesliga.com/clublogos/DFL-SEA-0001KA/DFL-CLU-00000I.svg",
+          "nameFull": "1. FC Kaiserslautern",
+          "nameShort": "Kaiserslautern",
+          "textColor": "#FFFFFF",
+          "threeLetterCode": "FCK"
         }
       }
     }
