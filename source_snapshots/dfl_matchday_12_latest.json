@@ -1,8 +1,14 @@
 {
   "url": "https://www.bundesliga.com/en/2bundesliga/matchday/2026-2027/12",
-  "retrieved_at": "2026-11-23 18:13 America/Sao_Paulo",
+  "retrieved_at": "2026-11-24 17:06 America/Sao_Paulo",
   "matches": [
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 133,
+          "videoId": "zVpo4ha8"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RR",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
@@ -67,6 +73,12 @@
       }
     },
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "4pv2cbIV"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RN",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
@@ -131,6 +143,12 @@
       }
     },
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "WFlPPdPS"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RP",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
@@ -195,6 +213,12 @@
       }
     },
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "yAcb1758"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RM",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
@@ -259,6 +283,12 @@
       }
     },
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "lqfzoEvm"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RK",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
@@ -323,6 +353,12 @@
       }
     },
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "G3RixUgN"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RL",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
@@ -387,6 +423,12 @@
       }
     },
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 134,
+          "videoId": "sIGhuunC"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RS",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
@@ -451,6 +493,12 @@
       }
     },
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 133,
+          "videoId": "dhqAks2C"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RQ",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
@@ -515,6 +563,12 @@
       }
     },
     {
+      "de": {
+        "highlightVideo": {
+          "duration": 133,
+          "videoId": "aRSeFeii"
+        }
+      },
       "dflDatalibraryCompetitionId": "DFL-COM-000002",
       "dflDatalibraryMatchId": "DFL-MAT-J043RO",
       "dflDatalibraryMatchdayId": "DFL-DAY-004CC4",
